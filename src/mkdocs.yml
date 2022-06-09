@@ -1,0 +1,93 @@
+site_name: LlamaMagic.net
+site_url: https://llamamagic.net
+dev_addr: 127.0.0.1:8000
+edit_uri: "edit/master/src/docs/"
+repo_url: https://github.com/LlamaMagic/llamamagic.github.io
+#copyright: RebornBuddy is property of p+p Gaming GmbH. • FINAL FANTASY XIV is property of SQUARE ENIX CO., LTD.
+extra:
+  generator: true
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/bmgCq39
+      name: Project BR on Discord
+    - icon: material/forum
+      link: https://www.thebuddyforum.com/forums/rebornbuddy-forum.298/
+      name: RebornBuddy Forums
+nav:
+  - Home: index.md
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+    accent: amber
+  logo: img/logo.png
+  favicon: img/logo.png
+  icon:
+    repo: fontawesome/brands/github
+  custom_dir: overrides
+  features:
+    - content.tabs.link
+    - navigation.instant
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: datetime
+      fallback_to_build_date: true
+  - tags
+markdown_extensions:
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+      base_path:
+        - snippets
+      auto_append:
+        - common-links.md
+        - abbreviations.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+extra_css:
+  - stylesheets/extra.css
