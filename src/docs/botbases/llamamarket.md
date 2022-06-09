@@ -1,62 +1,79 @@
-# Downloads
+# LlamaMarket
 
-RebornBuddy itself can be [downloaded here][installing-rebornbuddy], but has little value without add-ons.
+LlamaMarket is a powerful botbase designed to Sell and Buy things on the FFXIV MarketBoard.
 
-Below is a directory of useful downloads from community developers. Some are paid, others are free. They may also be outdated or broken in recent game versions -- check support links for the latest statuses.
+## Quick Start ##
 
-This list may be inaccurate or incomplete. Feel free to update this list, even to add your own projects.
 
-- :fontawesome-solid-check: - Recommended
-- :fontawesome-solid-dollar-sign: - Paid
-- :material-update: - RepoBuddy Default
-- :fontawesome-brands-discord: - Discord
 
-## Automatic Installation and Updates
+## Selling ##
+This window contains all the items LlamaMarket will sell on the MarketBoard. 
 
-:fontawesome-solid-check: [RepoBuddy][installing-repobuddy] is **the recommended way to install and update RebornBuddy add-ons**. Don't stress over unblocking `.zip` files, extracting to the right locations, or staying up to date -- just install RepoBuddy and let it do the work!
+[![](img/mbsell.jpg){ width="128" }](img/mbsell.jpg)
 
-Almost all useful add-ons are included with RepoBuddy by default, so you probably won't need the list below after installing it. Updates occur each time RebornBuddy starts.
 
-[Click here to learn more!][installing-repobuddy]
 
-## BotBases
+### Global Selling List ###
 
-- :material-update: [**ATB**][atb] - Combat assist that runs the Combat Routine to handle rotations while you move!
-- :fontawesome-solid-check:[:fontawesome-brands-discord:][breadbases-discord] [**Auto Melder**][auto-melder] - Automatically meld gearsets using imported Ariyala and etro.gg links.
-- :fontawesome-solid-check:[:fontawesome-brands-discord:][breadbases-discord] [**Auto Retainer Sort**][auto-retainer-sort] - Automatically organize retainer inventories according to Lisbeth-compatible rulesets.
-- [:fontawesome-brands-discord:][breadbases-discord] [**Auto Trade**][auto-trade] - Quickly trade items and gil between characters.
-- :material-update:[:fontawesome-brands-discord:][llama-library-discord] [**DeepDive Combined**][deep-dive-combined] - Updated DeepDive that supports faster PotD and Heaven-on-High.
-- :fontawesome-solid-check::fontawesome-solid-dollar-sign::material-update:[:fontawesome-brands-discord:][lisbeth-discord] [**Lisbeth**][lisbeth] - The ultimate crafting and gathering suite.
-- :fontawesome-solid-check::material-update:[:fontawesome-brands-discord:][llama-library-discord] [**Llama Library**][llama-library] - Mega support library for most other add-ons of all types, but has its own useful BotBases and Plugins. Includes **Llama Utilities**, **Extra BotBases**, and **Llama Plugins**.
-- [**OceanTrip**][ocean-trip] - Ocean fishing botbase.
-- :material-update: [**Resplendent Tools**][resplendent-tools] - Automates crafting Resplendent Tools.
+#### Add New ####
+![](img/addnewitem.jpg "Add New Item")
 
-## Plugins
+Clicking `Add New` will open the above window. You can add an Item either by ItemID or name. Once selected, hit `Add New` again.
 
-- :material-update: [**AlertMe**][alert-me] - Monitors chat and pings on certain events or patterns.
-- :material-update:[:fontawesome-brands-discord:][carbuncletech-discord] [**CarbuncleTech**][carbuncletech] - Misc plugins, including **Zoom Hack**, **Custom Game Titlebar**, and **SeleCR**.
-- :fontawesome-solid-check::material-update: [**ExBuddy**][exbuddy] - Support library for advanced OrderBot profiles.
-- [:fontawesome-brands-discord:][dw86-discord] [**Extractor**][extractor] - Extracts materia from fully spiritbonded gear during OrderBot profiles.
-- :material-update: [**DungeonAssist**][dungeon-assist] - TODO
-- :material-update:[:fontawesome-brands-discord:][dw86-discord] [**Gluttony**][gluttony] - Maintains food and medicine buffs during OrderBot profiles.
-- :material-update:[:fontawesome-brands-discord:][dw86-discord] [**Osiris**][osiris] - Improves death-handing to wait for raises or combat to end.
-- :material-update:[:fontawesome-brands-discord:][dw86-discord] [**Resist Assist**][resist-assist] - Helper for DW86's Bozja and Zadnor OrderBot profiles. Uses Essences and defensive spells like Protect and Shell.
-- [**Sales Tracker**][sales-tracker] - Track market board sales while the bot is running.
-- [**Switcharoo**][switcharoo] - Automatically picks a Combat Routine instead of prompting each class change.
+### Edit Item To Sell ###
+[![](img/edititem.jpg){ width="128" }](img/edititem.jpg)
 
-## Combat Routines
+#### Left Pane ####
+**Listing**
+- HQ
+    - Whether or not to list HQ items. This is very literal. If HQ is selected it will ONLY sell HQ. If it's not, it will ONLY sell NQ.
+- Number of Listings
+    - How many listings of this item to list. I.E. if you want to sell 5 stacks of this item, you'd put 5 here.
+- Reserve Amount
+    - How many of this item you'd like to retain in your inventory that won't be sold.
+- Stack Size
+    - How many of this item LlamaMarket should sell at a time. I.E. selling a stack of 20 Gysahl Greens at a time.
 
-- **Kupo** - Built-in combat routine. _Very bad_ -- use anything else.
-- :fontawesome-solid-check::material-update:[:fontawesome-brands-discord:][magitek-discord] [**Magitek**][magitek] - Configurable combat routines for all classes.
+**Main**
+- Enabled
+    - Whether or not to sell this item. True sells, false diables.
+- Priority
+    - What priority to sell this item. This comes into play when you're selling more items then you have retainers to sell for. I.E. you have 100 items to sell, but only 60 retainer slots to sell on. Lower numbered priorities get listed first. 0 is the first priority.
+- Temporary
+    - Is this a temporary listing? Used for if you want it to sell once then go away.
 
-## OrderBot Profiles
+**Pricing**
+- Max Price
+    - The maximum price you want this to sell for. Leave default to let MB decide.
+- Min Price
+    - The minimum price you want this to sell for. Leave default to let MB decide.
+- Undercut Strategy
+    - HistoryLimited
+        - Uses the past purchase history (from that button in the listings window which shows the last 20 sales) to keep your posts from being priced more than 2 standard deviations from the mean of past sales. Either higher or lower. It also uses the history to set the price if there is no current listings
+    - GlobalDefault
+        - Is currently the same as HistoryLimited
+    - BypassQty
+        - Don't know yet
+    - HistoryBypass
+        - Waiting on tuck
 
-- :fontawesome-solid-check::material-update:[:fontawesome-brands-discord:][angles24-discord] [**Angles24's DoH/DoL Profiles**][dol-doh-profiles] - Automatically level from 1 to max on all crafters and gatherers, including class quests to unlock skills.
-- :material-update:[:fontawesome-brands-discord:][rb-trust-discord] [**RB Trust**][rb-trust] - Automatically complete 5.0 and 6.0 Trust dungeons.
-- :fontawesome-solid-check::material-update:[:fontawesome-brands-discord:][dw86-discord] [**DomesticWarlord86's RebornProfiles**][dw86-profiles] - Newer scripts, including 5.3-6.x MSQ, side quests, aether currents, relic weapons, dailies, seasonal events, and more.
-- :material-update:[:fontawesome-brands-discord:][sodimm-discord] [**Sodimm's RebornBuddy Profiles**][sodimm-profiles] - Older scripts, including 2.0+ MSQ, class quests, etc.
-- :material-update:[:fontawesome-brands-discord:][y2krazy-discord] [**y2krazy's RebornBuddy Profiles**][y2krazy-profiles] - Older scripts, including 2.0+ MSQ, side quests, class quests, original Hunting Log, etc.
+#### Right Pane ####
+Use the settings on the right side when using the `Edit All` button on the main page. These dictate what value you want to edit on all the listing you have selected. Say you've selected 5 items and want to change the number of stacks you want to sell for all five of those listings. You'd set `Change Stack Size` to True, change the Stack Size on the left panel, and then save. The Stack Size will have changed on all 5 items.
 
-## Other
+### Character Selling List ###
 
-- [**Console Snippets**](https://pastebin.com/c0rmu0uz) - Misc RebornConsole C# snippets that might help new developers.
+### Options ###
+
+## Buying ##
+
+### DC Buying List ###
+
+### Character Buying List ###
+
+### Options ###
+
+## Global Settings ##
+
+### License ###
+
+### IDs ###
