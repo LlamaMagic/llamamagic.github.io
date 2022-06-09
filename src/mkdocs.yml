@@ -52,6 +52,9 @@ markdown_extensions:
   - meta
   - md_in_html
   - tables
+  - attr_list
+  - md_in_html 
+  
   - toc:
       permalink: true
 
