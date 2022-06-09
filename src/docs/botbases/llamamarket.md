@@ -3,6 +3,12 @@
 LlamaMarket is a powerful botbase designed to Sell and Buy things on the FFXIV MarketBoard.
 
 ## Quick Start ##
+  <iframe src="https://youtu.be/iMwd7_BbilM"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315"
+src="https://youtu.be/iMwd7_BbilM">
+</iframe>
 
 [![LlamaMarket Quick Start](img/videothumbnail.jpg)](https://youtu.be/iMwd7_BbilM)
 
