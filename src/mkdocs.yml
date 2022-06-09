@@ -16,7 +16,9 @@ extra:
 nav:
   - Home: index.md
   - BotBases:
-      - LlamaMarket: botbases/llamamarket.md
+      - LlamaMarket: botbases/llamamarket/main.md  
+
+
 theme:
   name: material
   palette:
