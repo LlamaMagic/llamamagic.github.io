@@ -22,8 +22,36 @@ This window contains all the items LlamaMarket will sell on the MarketBoard.
 Clicking `Add New` will open the above window. You can add an Item either by ItemID or name. Once selected, hit `Add New` again.
 
 ### Edit Item To Sell ###
-[![](img/edititem.jpg)](img/edititem.jpg)
+[![](img/edititem.jpg)](img/edititem.jpg){ align=right }
 
+
+#### Test 1 ####
+
+| Setting      | Description                          |
+| ----------- | ------------------------------------ |
+| `HQ`       | Whether or not to list HQ items. This is very literal. If HQ is selected it will ONLY sell HQ. If it's not, it will ONLY sell NQ.  |
+| `Number of Listings`       | How many listings of this item to list. I.E. if you want to sell 5 stacks of this item, you'd put 5 here. |
+| `Reserve Amount`    | How many of this item you'd like to retain in your inventory that won't be sold.|
+| `Stack_Size`    | How many of this item LlamaMarket should sell at a time. I.E. selling a stack of 20 Gysahl Greens at a time.|
+
+#### Test 2 ####
+??? "HQ"
+
+    Whether or not to list HQ items. This is very literal. If HQ is selected it will ONLY sell HQ. If it's not, it will ONLY sell NQ.
+
+??? "Number of Listings"
+
+    How many listings of this item to list. I.E. if you want to sell 5 stacks of this item, you'd put 5 here. 
+ 
+??? "Reserve Amount"
+
+    How many of this item you'd like to retain in your inventory that won't be sold. 
+
+??? "Stack Size" 
+
+    How many of this item LlamaMarket should sell at a time. I.E. selling a stack of 20 Gysahl Greens at a time.     
+
+#### Test 3 ####
 
 !!! Editing Item To Sell
 
