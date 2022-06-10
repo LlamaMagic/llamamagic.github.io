@@ -32,18 +32,18 @@ Global Sellings List and Character Selling List are basically the same thing exc
     ???+ info "Retrieve Gil"
         This option causes LlamaMarket to retrieve gil from retainers when the make a sell. Some people like to see their pockets get big, some people want to see their friends succeed. You do you.
     ???+ info "Refresh Ventures"
-        This option controls whether or not LlamamMarket will send retainers back out on their ventures. Generally want this to be True.
+        This option controls whether or not LlamaMarket will send retainers back out on their ventures. Generally want this to be True.
     ???+ info "Retrieve Items"
         This option controls whether LlamaMarket will pull items from your retainers to sell on the MarketBoard. 
 
 ???+ question "Selling Items"
     ???+ info "Default Undercut Strategy"    
         Controls the GlobalDefault selling strategy for new items.
-    ???+ question "Minimum Retainer Slots to Update"
+    ???+ info "Minimum Retainer Slots to Update"
         Number of free retainer listing slots to exceed before running sellings tasks.
-    ???+ question "Minimum Old Prices to Update"
+    ???+ info "Minimum Old Prices to Update"
         Number of prices that need updating to exceed before running sellings tasks.              
-    ???+ question "Don't Undercut Twice"
+    ???+ info "Don't Undercut Twice"
         If true, won't undercut the same player twice in a row so as to avoid competing with another undercut bot and bottoming prices out.
 
 ???+ question "Timing"
