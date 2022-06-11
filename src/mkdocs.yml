@@ -16,8 +16,7 @@ extra:
 nav:
   - Home: index.md
   - BotBases:
-      - LlamaMarket: botbases/llamamarket/main.md  
-
+      - LlamaMarket: botbases/llamamarket/main.md
 
 theme:
   name: material
@@ -43,6 +42,7 @@ plugins:
   - git-revision-date-localized:
       type: datetime
       fallback_to_build_date: true
+  - mkdocs-video
   - tags
 markdown_extensions:
   # Python Markdown
@@ -55,8 +55,7 @@ markdown_extensions:
   - md_in_html
   - tables
   - attr_list
-  - md_in_html 
-  
+  - md_in_html
   - toc:
       permalink: true
 
