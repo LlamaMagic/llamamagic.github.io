@@ -3,12 +3,7 @@ title: Home
 icon: material/home
 ---
 
-# RebornBuddy.wiki
+# LlamaMagic.net
 
-Welcome to **RebornBuddy.wiki**, the community-written documentation for the Final Fantasy XIV bot [RebornBuddy][rebornbuddy].
+Welcome to **LlamaMagic.net**, documentation for the set of BotBases/Plugins/Profiles created for the FFXIV bot RebornBuddy.
 
-New to RebornBuddy? Check out our [User's Guide][users-guide] and [Downloads][downloads] pages.
-
-Programmer? Learn to create add-ons in the [Development][devs-guide] section.
-
-Writer? [Wiki contributions][contributing] of any size are always welcome ❤️
