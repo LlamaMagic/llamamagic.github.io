@@ -2,3 +2,7 @@
     height: auto;
     width: auto;
 }
+
+:root > * {
+    --md-primary-fg-color:        #665280;
+  }

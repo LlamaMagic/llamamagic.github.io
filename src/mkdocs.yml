@@ -15,10 +15,19 @@ extra:
       name: RebornBuddy Forums
 nav:
   - Home: index.md
-  - BotBases:
-      - LlamaMarket:
-          - botbases/llamamarket/index.md
-          - botbases/llamamarket/selling.md
+  - Purchase: purchase.md
+  - Wiki:
+    - BotBases:
+        - LlamaMarket:
+            - botbases/llamamarket/index.md
+            - botbases/llamamarket/selling.md
+            - botbases/llamamarket/buying.md
+        - Island Gatherer:
+            - botbases/islandgatherer/index.md      
+        - Census:
+            - botbases/census/index.md  
+        - Trading Post:
+            - botbases/tradingpost/index.md                              
 
 theme:
   name: material

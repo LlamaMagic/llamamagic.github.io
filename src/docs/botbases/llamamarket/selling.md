@@ -1,4 +1,4 @@
-# LlamaMarket Selling
+# Selling
 
 ## Lisbeth Integration
 The plugin included in the botbase download integrates with Lisbeth. Calling the LlamaMarket Botbase to run while Lisbeth is running. This means you can use Lisbeth's perpetual orders mode to infinitely craft items and LlamaMarket will post them for you. Essentially creating infinite money.
