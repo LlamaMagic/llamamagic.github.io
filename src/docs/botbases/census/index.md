@@ -1,7 +1,8 @@
 # Census
 
 ## Census
-RP Botbase which tracks staff/visitor activity, does shout messages and can be used as a greeter bot. **For NA/EU/JP/SA only. Not China or Korea**
+RP Botbase which tracks staff/visitor activity, does shout messages and can be used as a greeter bot. 
+**For NA/EU/JP/SA only. Not China or Korea**
 
 ![Under Contruction](../../img/Census.png){ align=left }
 

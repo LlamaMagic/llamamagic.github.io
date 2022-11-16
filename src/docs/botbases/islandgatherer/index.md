@@ -1,7 +1,8 @@
 # Island Gatherer
 
 ## Island Gatherer
-RB Botbase that can gather resources from island sanctuaries. **For NA/EU/JP/SA only. Not China or Korea**
+RB Botbase that can gather resources from island sanctuaries. 
+**For NA/EU/JP/SA only. Not China or Korea**
 
 ![Under Contruction](../../img/LlamaGatherer.png){ align=left }
 
