@@ -18,16 +18,25 @@ nav:
   - Purchase: purchase.md
   - Wiki:
     - BotBases:
+        - Census:
+            - botbases/census/index.md     
+        - Island Gatherer:
+            - botbases/islandgatherer/index.md              
         - LlamaMarket:
             - botbases/llamamarket/index.md
             - botbases/llamamarket/selling.md
-            - botbases/llamamarket/buying.md
-        - Island Gatherer:
-            - botbases/islandgatherer/index.md      
-        - Census:
-            - botbases/census/index.md  
+            - botbases/llamamarket/buying.md    
         - Trading Post:
-            - botbases/tradingpost/index.md                              
+            - botbases/tradingpost/index.md   
+    - Plugins:   
+        - Anima Weapons:           
+            - plugins/animaweapons/index.md     
+        - Beast Tribes:           
+            - plugins/beasttribes/index.md             
+        - Manderville Weapons:           
+            - plugins/mandervilleweapons/index.md           
+        - Splendorous Tools:           
+            - plugins/splendoroustools/index.md                                
 
 theme:
   name: material
