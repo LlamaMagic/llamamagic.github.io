@@ -30,7 +30,11 @@ RebornBuddy
 
 ## Usage
 
-For now the only Tribes that work are Endwalker tribes. I am in the process of rewriting the other tribes and once they are completed I will activate them inside the plugin.
+For now only some of the tribes are available to be enabled. I am in the process of rewriting the other tribes and once they are completed I will activate them inside the plugin.
+
+??? example inline end
+
+    ![](../../img/Beasttribes.png)
 
 1. Go to the Plugins tab in RebornBuddy
 2. Select Beast Tribes from the menu
@@ -39,10 +43,13 @@ For now the only Tribes that work are Endwalker tribes. I am in the process of r
 5. Select he classes you want to do that tribe on.
 6. Press Start
 
-![](Beasttribes.png)
 
-- Keep in mind that you get 12 daily tribe allowances. All tribes except ARR use 3 allowances each. So you can do 4 tribes a day. ARR work differently.
-- You must select the class you want for each tribe. Even if it defaults to the class you want, you need to click the drop down and select it manually at least once for it to save your setting.
+## Notes
+
+
+
+* Keep in mind that you get 12 daily tribe allowances. All tribes except ARR use 3 allowances each. So you can do 4 tribes a day. ARR work differently.
+* You must select the class you want for each tribe. Even if it defaults to the class you want, you need to click the drop down and select it manually at least once for it to save your setting.
 
 ## Known Issues
 
@@ -421,8 +428,8 @@ For now the only Tribes that work are Endwalker tribes. I am in the process of r
 
 ??? note "Kojin" 
 
-    ![](https://geps.dev/progress/41)
-    <!--- 13/33 --->
+    ![](https://geps.dev/progress/49)
+    <!--- 16/33 --->
 
     ???+ note "Rank Ups"
          - [ ] Under Wraps
@@ -435,7 +442,7 @@ For now the only Tribes that work are Endwalker tribes. I am in the process of r
          - [x] A Real Pearler
          - [x] Best Served Foul
          - [x] Krilled to Pieces
-         - [ ] Pickles of Partnership
+         - [x] Pickles of Partnership
          - [x] You Have the Rite
          - [x] Tonight We Dine in Shells
 
@@ -443,8 +450,8 @@ For now the only Tribes that work are Endwalker tribes. I am in the process of r
          - [x] Anala-lyze This
          - [x] Buoyant Bounty
          - [ ] Confused Courier
-         - [ ] Little Kojin Lost
-         - [ ] Much at Steak
+         - [x] Little Kojin Lost
+         - [x] Much at Steak
          - [x] Sand-sifting Specialist
 
     ???+ note "Respected"
@@ -456,7 +463,7 @@ For now the only Tribes that work are Endwalker tribes. I am in the process of r
          - [ ] Pleasure Doing Business
 
     ???+ note "Honored"
-         - [ ] Clammed Up
+         - [x] Clammed Up
          - [x] Tale of Rose
          - [x] You Blow It Up
          - [x] Tentacles of Trade
@@ -614,15 +621,15 @@ For now the only Tribes that work are Endwalker tribes. I am in the process of r
 
 ??? note "Qitari" 
 
-    ![](https://geps.dev/progress/88)
-    <!--- 33/33 --->
+    ![](https://geps.dev/progress/97)
+    <!--- 32/33 --->
 
     ???+ note "Rank Ups"
          - [x] Wisdom of the Night
          - [ ] Delving Deeper
          - [x] A Chilling Fate
          - [x] What Ails the Forest
-         - [ ] Glory Be to the Scree
+         - [x] Glory Be to the Scree
 
     ???+ note "Friendly"
          - [x] A Tool's Errand
