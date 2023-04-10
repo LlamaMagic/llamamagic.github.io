@@ -280,8 +280,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Sylphs" 
 
-    ![](https://geps.dev/progress/68)
-    <!--- 23/34 --->
+    ![](https://geps.dev/progress/74)
+    <!--- 25/34 --->
 
     ???+ note "Rank Ups"
          - [x] Voyce of Concern
@@ -321,8 +321,8 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [ ] Mist Opportunities
          - [ ] Clearing the Air
          - [ ] Podlin Peril
-         - [ ] Boar Wars
-         - [ ] Moxia's Magnup Opus
+         - [x] Boar Wars
+         - [x] Moxia's Magnup Opus
          - [x] Bane of the Barbs
 
 ### Heavensward
@@ -429,7 +429,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 ??? note "Kojin" 
 
     ![](https://geps.dev/progress/49)
-    <!--- 16/33 --->
+    <!--- 17/33 --->
 
     ???+ note "Rank Ups"
          - [ ] Under Wraps
@@ -449,7 +449,7 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Trusted"
          - [x] Anala-lyze This
          - [x] Buoyant Bounty
-         - [ ] Confused Courier
+         - [x] Confused Courier
          - [x] Little Kojin Lost
          - [x] Much at Steak
          - [x] Sand-sifting Specialist
