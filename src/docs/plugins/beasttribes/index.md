@@ -720,15 +720,15 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Loporrit" 
 
-    ![](https://geps.dev/progress/94)
-    <!--- 33/34 --->
+    ![](https://geps.dev/progress/100)
+    <!--- 34/34 --->
 
     ???+ note "Rank Ups"
          - [x] The Incredible Machines
          - [x] Too Few Cooks
          - [x] Teamwork Makes the Dream Work
          - [x] A Million Malms Away
-         - [ ] Deams Come True
+         - [x] Deams Come True
 
     ???+ note "Friendly"
          - [x] Don't Stop the Music
