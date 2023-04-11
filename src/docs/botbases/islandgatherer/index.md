@@ -4,7 +4,6 @@
 
 This BotBase is designed to gather resources on your very own private Island Sanctuary. Information on Island Sanctuary can be found here: [FFXIV Console Games Wiki](https://ffxiv.consolegameswiki.com/wiki/Island_Sanctuary)
 
-**For NA/EU/JP/SA only. Not China or Korea**
 
 This BotBase updates on restart of RebornBuddy and doesn't need to be added to repoBuddy.
 
