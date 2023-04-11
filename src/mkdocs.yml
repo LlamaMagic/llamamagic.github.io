@@ -15,7 +15,14 @@ extra:
       name: RebornBuddy Forums
 nav:
   - Home: index.md
-  - Purchase: purchase.md
+  - Purchase:
+    - nt153133: 
+        - Global: 
+            - purchase/nt153133/purchase.md 
+        - Chinese: 
+            - purchase/nt153133/purchasecn.md
+    - DomesticWarlord: 
+        - purchase/DW/purchase.md 
   - Wiki:
     - BotBases:
         - Census:
