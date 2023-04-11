@@ -3,8 +3,6 @@
 ## Purchase
 Here you can find links to purchase the various products available from LlamaMagic.
 
-## Llama Pass
-LlamaPass includes subscriptions to all LlamaMagic products at once.
 
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
 <stripe-pricing-table pricing-table-id="prctbl_1MvovQBwgti2RZj6VNut62oy"
