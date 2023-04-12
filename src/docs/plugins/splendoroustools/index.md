@@ -53,42 +53,49 @@ The Farming section has a start button in it. Using that button goes and collect
 
 ## Known Issues
 
-- Because Lisbeth does not have support for the new items, we are using a basic macro to craft the final item. You need pretty decent stats and you're going to want to have a good HQ crafting food and syrup. I used HQ Calamari Ripieni and Cunning Craftsman's Draught. The stats required are 3350/3062/492 + HQ Calamari + HQ Cunning Draught. This is the Macro it uses.
-    ```
-    /ac "Muscle Memory" <wait.3>
-    /ac "Manipulation" <wait.2>
-    /ac "Veneration" <wait.2>
-    /ac "Waste Not II" <wait.2>
-    /ac "Groundwork" <wait.3>
-    /ac "Delicate Synthesis" <wait.3>
-    /ac "Preparatory Touch" <wait.3>
-    /ac "Preparatory Touch" <wait.3>
-    /ac "Preparatory Touch" <wait.3>
-    /ac "Preparatory Touch" <wait.3>
-    /ac "Innovation" <wait.2>
-    /ac "Preparatory Touch" <wait.3>
-    /ac "Advanced Touch" <wait.3>
-    /ac "Great Strides" <wait.2>
-    /ac "Byregot's Blessing" <wait.3>
-    /ac "Careful Synthesis" <wait.3>
-    ```
+- Because Lisbeth does not have support for the new items, we are using a basic macro to craft the final item. You need pretty decent stats and you're going to want to have a good HQ crafting food and syrup. I used HQ Calamari Ripieni and Cunning Craftsman's Draught. The stats required are 3350/3062/492 + HQ Calamari + HQ Cunning Draught. It uses the macros from [IcyVeins](https://www.icy-veins.com/ffxiv/splendorous-tools-stage-one#splendorous-augmentation-for-crafters).
 - This uses Lisbeth to gather the sub mats for the final craft. However, because these mats are generic mats that you could have had already, if you have Lisbeth's retainer settings set to store items, it's possible that you have these items set to be stored on a retainer. Which will cause Lisbeth to put them on the retainer when done and the bot will infinitely loop because it can't find them. I recommend turning off retainers while running this. Alternatively you can make sure that Lisbeth isn't set to store these items.
-  - Ironwood Log
-  - Integral Lumber
-  - Chondrite Ingot
-  - Phyrgian Gold Ore
-  - Star Quartz
-  - Bismuth Ore
-  - Almasty Fur
-  - AR-Caean Velvet
-  - Ophiotauros Leather
-  - Petalouda Scales
-  - Grade 5 Vitality Alkahest
-  - Grade 5 Mind Alkahest
-  - Sideritis Leaves
-  - Dark Rye Flour
-  - Palm Sugar
-
+??? Mats
+    - Ironwood Log
+    - Integral Lumber
+    - Chondrite Ingot
+    - Phyrgian Gold Ore
+    - Star Quartz
+    - Bismuth Ore
+    - Almasty Fur
+    - AR-Caean Velvet
+    - Ophiotauros Leather
+    - Petalouda Scales
+    - Grade 5 Vitality Alkahest
+    - Grade 5 Mind Alkahest
+    - Sideritis Leaves
+    - Dark Rye Flour
+    - Palm Sugar
+- Some people have also requested what materials are needed so that they can be purchased ahead of time. Remember, since we're not using Lisbeth to craft these final crafts, you will need the crystals in your player inventory as the macros will not pull them from your retainers. Also, the ones that are marked as HQ really need to be HQ. The final crafts are tough and you kinda need the extra quality. Here are the required materials:
+??? RequiredMats
+    | Material  | Quantity |
+    | ------------- | ------------- |
+    | Fire Cluster  | 500  |
+    | Ice Cluster  | 300  |
+    | Wind Cluster  | 600  |
+    | Earth Cluster  | 400  |
+    | Lightning Cluster  | 300  |    
+    | Water Cluster  | 300  |
+    | Phrygian Gold Ore  | 40  |
+    | Sideritis Leaves  | 40  |
+    | Ironwood Log  | 80  |
+    | Bismuth Ore  | 40  |
+    | Petalouda Scales  | 40  |
+    | Almasty Fur  | 80  |
+    | Integral Lumber (HQ)  | 90  |
+    | Chondrite Ingot (HQ)  | 120  |
+    | Ophiotauros Leather (HQ)  | 30  |
+    | AR-Caean Velvet (HQ) | 60  |
+    | Grade 5 Mind Alkahest (HQ) | 60  |
+    | Grade 5 Vitality Alkahest (HQ)  | 60  |
+    | Dark Rye Flour  | 60  |
+    | Palm Sugar  | 60  |
+    | Star Quartz  | 60  |
 
 
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
