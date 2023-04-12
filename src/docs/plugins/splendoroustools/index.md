@@ -75,9 +75,9 @@ The Farming section has a start button in it. Using that button goes and collect
     | AR-Caean Velvet (HQ) | 60  |
     | Grade 5 Mind Alkahest (HQ) | 60  |
     | Grade 5 Vitality Alkahest (HQ)  | 60  |
-    | Dark Rye Flour  | 60  |
-    | Palm Sugar  | 60  |
-    | Star Quartz  | 60  |
+    | Dark Rye Flour (HQ)  | 60  |
+    | Palm Sugar (HQ)  | 60  |
+    | Star Quartz (HQ)  | 60  |
 
 
 
