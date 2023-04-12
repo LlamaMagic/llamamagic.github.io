@@ -48,7 +48,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 
 
-* Keep in mind that you get 12 daily tribe allowances. All tribes except ARR use 3 allowances each. So you can do 4 tribes a day. ARR work differently.
+* Keep in mind that you get 12 daily tribe allowances. All tribes except ARR use 3 allowances each. So you can do 4 tribes a day. ARR work differently. 
+* With ARR tribes each rank, Friendly, Trusted, Honored etc offer 3 quests each day. So for most ARR tribes you can use 9-12 daily allowances on a single tribe. For that reason I have added check boxes on the ARR tribes to let you select which ranks you want to do on those tribes. 
 * You must select the class you want for each tribe. Even if it defaults to the class you want, you need to click the drop down and select it manually at least once for it to save your setting.
 
 ## Known Issues
