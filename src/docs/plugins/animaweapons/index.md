@@ -13,10 +13,13 @@ This plugin updates on restart of RebornBuddy and doesn't need to be added to re
 - [RebornBuddy][7] with active license (paid)
 - [Lisbeth][9] with active license (paid)
 - [LlamaLibrary][10] (free)
+- [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
+- [RBTrust](https://github.com/LlamaMagic/RBtrust) (free)
+- [Osiris](https://github.com/domesticwarlord86/PandaPlugins) (free)
 
 ## Installation
 
-1. Download the latest version by following the link in your purchase email.
+1. Download the latest version by following the link [here](https://sts.llamamagic.net/AnimaWeapons/AnimaWeapons.zip).
 2. On the `.zip` file, right click > `Properties` > `Unblock` > `Apply`.
 3. Unzip all contents into `RebornBuddy\Plugins\` so it looks like this:
 
@@ -77,6 +80,12 @@ By default, using the normal settings tab and start button will obtain the relic
    * `Use Unlockables` This will cause the bot use any not-learned unlockable you have in your inventory. Like minions, orchestration rolls or mounts. Good for when opening material containers.
    * `Sell Cheap Pets` this is mainly for my own use. It sells a few set pets that I have hard coded into the plugin. Ones that usually sell for less than 1000 gil on the MB.
    * `Run A9S` by default during the `Born Again Anima` stage of the quest the plugin will run Brayflox Longstop Hard for light farming. This option has it run Alexander - The Eyes of the Curator (Savage) instead. A9S is MUCH faster, but requires you to have it unlocked.
+
+### Key Tab
+
+![img-small](../../img/Anima5.png){.center .xsmall}
+
+This tab is pretty straight forward. When you purchase the plugin you'll get a key sent to the email used when making the purchase. Take that key, put it in the box, hit `Verify`. That'll enable the plugin. Job done.
 
 ## Current Progress
 

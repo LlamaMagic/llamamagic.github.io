@@ -12,10 +12,11 @@ This plugin updates on restart of RebornBuddy and doesn't need to be added to re
 - [RebornBuddy][7] with active license (paid)
 - [Lisbeth][9] with active license (paid)
 - [LlamaLibrary][10] (free)
+- [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
 
 ## Installation
 
-1. Download the latest version by following the link in your purchase email.
+1. Download the latest version by following the link [here](https://sts.llamamagic.net/SplendorousTools/SplendorousTools.zip).
 2. On the `.zip` file, right click > `Properties` > `Unblock` > `Apply`.
 3. Unzip all contents into `RebornBuddy\Plugins\ ` so it looks like this:
 
@@ -50,6 +51,9 @@ There is also an option here for using the Dalamud plugin Artisan. Essentially w
 
 ### Farming
 The Farming section has a start button in it. Using that button goes and collects 50 of each Select material, and all the sub mats needed to make all 8 crafting tools. You don't have to use this. This is only for people that like getting all the mats together before hand. The standard tab will gather the materials needed for whatever class you select.
+
+### Key
+This tab is pretty straight forward. When you purchase the plugin you'll get a key sent to the email used when making the purchase. Take that key, put it in the box, hit `Verify`. That'll enable the plugin. Job done.
 
 ## Notes
 

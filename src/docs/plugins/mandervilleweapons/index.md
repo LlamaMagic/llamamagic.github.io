@@ -14,10 +14,13 @@ This plugin updates on restart of RebornBuddy and doesn't need to be added to re
 - [RebornBuddy][7] with active license (paid)
 - [Lisbeth][9] with active license (paid)
 - [LlamaLibrary][10] (free)
+- [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
+- [RBTrust](https://github.com/LlamaMagic/RBtrust) (free)
+- [Osiris](https://github.com/domesticwarlord86/PandaPlugins) (free)
 
 ## Installation
 
-1. Download the latest version by following the link in your purchase email.
+1. Download the latest version by following the link [here](https://sts.llamamagic.net/MandervilleWeapons/MandervilleWeapons.zip).
 2. On the `.zip` file, right click > `Properties` > `Unblock` > `Apply`.
 3. Unzip all contents into `RebornBuddy\Plugins\` so it looks like this:
 
@@ -74,6 +77,11 @@ RebornBuddy
 ### Farming
 
 - I also included a section to allow for farming of Meteorites or Chonrites without upgrading and interfacing with the quest. This is useful for people who would prefer to farm up all the mats and then turn them in all at once rather than working on one relic at a time. It is not necessary to use this top, but it's an option for people who want to.
+
+### Key Tab
+![](../../img/Manderville3.png)
+
+This tab is pretty straight forward. When you purchase the plugin you'll get a key sent to the email used when making the purchase. Take that key, put it in the box, hit `Verify`. That'll enable the plugin. Job done.
 
 ## Known Issues
 

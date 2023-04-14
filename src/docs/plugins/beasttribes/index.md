@@ -11,10 +11,11 @@ This plugin is designed to do the FFXIV Beast Tribe quets with as little interac
 - [RebornBuddy][7] with active license (paid)
 - [Lisbeth][9] with active license (paid)
 - [LlamaLibrary][10] (free)
+- [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
 
 ## Installation
 
-1. Download the latest version by following the link in your purchase email.
+1. Download the latest version by following the link [here](https://sts.llamamagic.net/BeastTribes/BeastTribes.zip).
 2. On the `.zip` file, right click > `Properties` > `Unblock` > `Apply`.
 3. Unzip all contents into `RebornBuddy\Plugins\` so it looks like this:
 
@@ -39,7 +40,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 1. Go to the Plugins tab in RebornBuddy
 2. Select Beast Tribes from the menu
 3. Click Settings button
-4. Enable the tribes you'd like to do
+4. Go to the `Misc` tab an enter your product key, hit verify.
+4. Enable the tribes you'd like to do.
 5. Select he classes you want to do that tribe on.
 6. Press Start
 
