@@ -12,6 +12,7 @@ This plugin is designed to do the FFXIV Beast Tribe quets with as little interac
 - [Lisbeth][9] with active license (paid)
 - [LlamaLibrary][10] (free)
 - [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
+- [ExBuddy](https://github.com/LlamaMagic/ExBuddy) (free)
 
 ## Installation
 
