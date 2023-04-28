@@ -58,6 +58,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 ## Known Issues
 
 - You will get an error upon loading the Settings window if you don't have at least one DoW, DoL, and DoH gear set saved on your character.
+- If you have multiple gear sets of the same job, or more gearsets then the game has by default, your drop down menu for class selection may look unusual. The Job change code will select the first job for that class it finds in your gearsets.
 
 ### Sylphs
 

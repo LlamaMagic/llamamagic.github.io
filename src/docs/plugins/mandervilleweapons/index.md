@@ -85,7 +85,7 @@ This tab is pretty straight forward. When you purchase the plugin you'll get a k
 
 ## Known Issues
 
-- None at this time
+- If you have multiple gear sets of the same job, or more gearsets then the game has by default, your drop down menu for class selection may look unusual. The Job change code will select the first job for that class it finds in your gearsets.
 
 
 

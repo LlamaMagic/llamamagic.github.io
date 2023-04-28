@@ -105,6 +105,7 @@ This tab is pretty straight forward. When you purchase the plugin you'll get a k
     - Sideritis Leaves
     - Dark Rye Flour
     - Palm Sugar
+- If you have multiple gear sets of the same job, or more gearsets then the game has by default, your drop down menu for class selection may look unusual. The Job change code will select the first job for that class it finds in your gearsets.
 
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
 [4]: https://discord.gg/CucSWEhJSZ "Discord"
