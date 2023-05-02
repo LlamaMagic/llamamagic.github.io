@@ -63,6 +63,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 ### Sylphs
 
 - Some of these quests make you travel through lands that you will get aggro on and mess up the quest. I recommend doing it on a 50+ class.
+- The quest `Perilous Pumpkins` may put you in the wrong place. Looking into this.
 
 ### Qitari
 
@@ -315,7 +316,7 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [x] Shocking Developments
          - [x] Waterbringer
          - [x] In the Sylphlands, Treasure Hunts You
-         - [x] Perilous Pumpkins
+         - [x] Perilous Pumpkins 
          - [x] Fungal Foulness              
 
     ???+ note "Friendly"
