@@ -43,7 +43,9 @@ nav:
         - Manderville Weapons:           
             - plugins/mandervilleweapons/index.md           
         - Splendorous Tools:           
-            - plugins/splendoroustools/index.md                                
+            - plugins/splendoroustools/index.md
+        - Zodiac Weapons:           
+            - plugins/zodiacweapons/index.md                                   
 
 theme:
   name: material
