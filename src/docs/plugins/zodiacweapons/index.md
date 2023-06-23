@@ -45,7 +45,7 @@ RebornBuddy
 - [x] Atma Zodiac Weapons
 
 ### Animus Zodiac Weapons (iLvl 100)
-- [x] Animus Zodiac Weapons
+- [x] Animus Zodiac Weapons ^[Manual Step](#notes)^
 
 ### Novus Zodiac Weapons (iLvl 110)
 - [x] Novus Zodiac Weapons ^[Manual Step](#notes)^
@@ -54,7 +54,7 @@ RebornBuddy
 - [x] Nexus Zodiac Weapons/Quest
 
 ### Zodiac Braves Weapons (iLvl 125)
-- [x] Zodiac Braves Weapons/Quest ^[Manual Step](#required-items)^
+- [x] Zodiac Braves Weapons/Quest ^[Required Items](#required-items)^ ^[Manual Step](#notes)^
 
 ### Zodiac Zeta Weapons (iLvl 135)
 - [x] Zodiac Zeta Weapons/Quest
@@ -79,14 +79,17 @@ Open settings, choose your class, hit start.
 This tab shows you the items that you are required to get manually that the bot cannot get for you. For best results you'll want them in your inventory when you start the bot, but if you don't have them when the bot needs them it will stop and tell you to obtain them.
 
 1. You will need the base relic weapon for Stage 1 of the relic weapon that's different for each class (you can read about them [here](https://ffxiv.consolegameswiki.com/wiki/Zodiac_Weapons/Quest#Part_2:_Class_Weapon)). This item needs to be infused with two specific materia that's different for each class. This tab will show you what you need for the class you've selected in the Relic Class drop down.
-2. For the Zodiac Braves stage of the quest you need 8 items (you can read about them [here](https://ffxiv.consolegameswiki.com/wiki/Zodiac_Braves_Weapons/Quest#Crafted_Items)). These items are crafted, but their materials are rare and Lisbeth can't gather them automatically. They can be purchased off the Market Board for relatively cheap. You will need one set of 8 items for each class's relic.
+2. For the `Zodiac Braves` stage of the quest you need 8 items (you can read about them [here](https://ffxiv.consolegameswiki.com/wiki/Zodiac_Braves_Weapons/Quest#Crafted_Items)). These items are crafted, but their materials are rare and Lisbeth can't gather them automatically. They can be purchased off the Market Board for relatively cheap. You will need one set of 8 items for each class's relic.
 
 ### Key
 This tab is pretty straight forward. When you purchase the plugin you'll get a key sent to the email used when making the purchase. Take that key, put it in the box, hit `Verify`. That'll enable the plugin. Job done.
 
 ## Notes
-
+- During the `Animus` stage there is a Levequest that the bot can't do Someone's in the Doghouse. It requires you to use the `/beckon` command to escort an NPC back to home base. This will need to be done manually. It's only required to be done once per weapon.
 - During the `Novus` stage of the relic you will need to infuse your sphere scroll with materia in order to further enhance your relic. You can read about that process [here](https://ffxiv.consolegameswiki.com/wiki/Novus_Zodiac_Weapons/Quest#Star_Light.2C_Star_Bright). This is done to let you customize the stats on your relic weapon, but as these are strictly used for glamour now stats really don't matter. It's best to just get the cheapest materia you can find to get through this stage. Once you've infused the scroll completely, press the start button on the Zodiac Weapons plugin and it'll take it from there.
+- During the `Zodiac Braves` step of the quest you will be required to do two dungeons manually. 
+    * `Hullbreaker Isle` - The final boss arena is broken up into multiple small rocks that you have to jump between to attack the boss. RB cannot do this. There's a profile in the Profiles folder of this plugin that will do the dungeon up to the final boss and pause there for you to complete it.
+    * `Stone Vigil (Hard)` - This dungeon is troublesome because of the second boss `Cuca Fera` the giant turtle. The encounter requires you to use the cannons near by to damage him. You also have to kill him before his unstoppable AOE damage kills all the NPCs nearby, as their death will immediately fail the encounter. This encounter is near impossible to do solo on most classes. The only class that can really solo it successfully is Blue Mage. If you have BLU with something like Level 5 Death, you should be able to one shot him. Otherwise, queue this dungeon in a normal group to complete it. It only has to be done once per weapon. 
 
 ## Known Issues
 
