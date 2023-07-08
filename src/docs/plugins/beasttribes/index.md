@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/0)
-    <!--- 0/34 --->
+    ![](https://geps.dev/progress/19)
+    <!--- 7/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
