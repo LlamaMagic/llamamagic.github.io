@@ -339,15 +339,56 @@ For now only some of the tribes are available to be enabled. I am in the process
     <!--- 0/34 --->
 
     ???+ note "Rank Ups"
+          - [ ] The Milk of Moogle Kindness
+          - [ ] Trying Times
+          - [X] A Crystalline Solution
+          - [ ] The Tools Make the Moogle
+          - [ ] A Monumental Task
+          - [ ] Piecing Together the Past
+          - [ ] The Zenith of Craftsmanship
 
 
     ???+ note "Neutral"
-  
+          - [ ] Hasty Conclusions
+          - [ ] A Fundamentally Important Task
+          - [ ] Deep into the Weeds
+          - [X] With a Little Help
+          - [ ] A Stone's Throw Away
 
     ???+ note "Recognized"
-            
+          - [ ] Moogle on the Wall
+          - [ ] Kupo for Kupo Nuts
+          - [ ] Work That Mallow
+          - [ ] A Little Pick-me-up
+          - [X] Stumbling Blocks
 
     ???+ note "Friendly"
+          - [ ] A Fine Finish
+          - [ ] The Mining Mishap
+          - [X] Tricks Without Treats
+          - [ ] A Revivifying Roar
+          - [X] For Moogles in Peril
+
+    ???+ note "Trust"
+          - [ ] The Negotiator
+          - [ ] Back to the Drawing Board
+          - [X] Built to Last
+          - [X] Let There Be Light
+          - [ ] Tremble Finishing
+
+    ???+ note "Respected"
+          - [ ] Journey of a Thousand Hews
+          - [ ] Ship of Dreams
+          - [ ] Stirring by Sternutation
+          - [ ] Rare Refreshments
+          - [ ] From Lax to Max
+
+    ???+ note "Honored"
+          - [ ] Dragon Draff for Their Behalf
+          - [ ] A Fish for His Favors
+          - [ ] An Ishgardian Treat
+          - [ ] Mine and Craft
+          - [ ] The Moogle Motivator
 
 ??? note "Vanu Vanu" 
 
@@ -355,15 +396,48 @@ For now only some of the tribes are available to be enabled. I am in the process
     <!--- 0/34 --->
 
     ???+ note "Rank Ups"
-
+          - [ ] A Tribal Reunion
+          - [ ] Linu's Lovely Bones
+          - [ ] In the Skycage over the Sea
+          - [ ] Fishing for Friendship
+          - [ ] Sundrop the Beat
+          - [ ] Nest Side Story
+          - [ ] The Nest of Honor
 
     ???+ note "Neutral"
-  
+          - [ ] Veni, Vundu, Vici
+          - [ ] Pussyfooting About
+          - [ ] Endymion Disco
+          - [ ] Water Crystal Waltz
+          - [ ] Hard-boiled Hustle
+          - [ ] Sanuwa Samba
 
     ???+ note "Recognized"
-            
+          - [ ] Pilfering Pots from the Pantry
+          - [ ] Chigoe Cha-Cha
+          - [ ] Bird Watching
+          - [ ] Comb and Get It
+          - [ ] The Binding Soil
 
     ???+ note "Friendly"
+          - [ ] Flight of the Midges
+          - [ ] Fishing in Troubled Waters
+          - [ ] Reeling in the Vundu
+          - [ ] The House That Ginu Built
+          - [ ] A Bone to Pick
+          - [ ] A Hut to Dye For
+
+    ???+ note "Respected"
+          - [ ] Rotten to the Korrigan
+          - [ ] Gastornis Groove
+          - [ ] The Cat's Meow
+          - [ ] Easy as Paissa
+
+    ???+ note "Honored"
+          - [ ] Dance Commander
+          - [ ] Electric Gunduloo
+          - [ ] Wildwort and Sundrop
+          - [ ] Vanish, Vile Vundu
 
 ??? note "Vath" 
 
@@ -371,16 +445,39 @@ For now only some of the tribes are available to be enabled. I am in the process
     <!--- 0/34 --->
 
     ???+ note "Rank Ups"
-
-
-    ???+ note "Neutral"
-  
-
-    ???+ note "Recognized"
-            
+          - [ ] Adventurers Don't Get Cold Feet
+          - [ ] An Acquired Taste
+          - [ ] Your Enemy and Mine
+          - [ ] Resistance Is Futile
+          - [ ] A Symbiotic Friendship
 
     ???+ note "Friendly"
+          - [ ] Getting the Shaft
+          - [ ] Breath of Fresh Air
+          - [ ] Bugging the Bugs
+          - [ ] Too Much to Bear
+          - [ ] The Foodstuff of Champions
 
+    ???+ note "Trust"
+          - [ ] A Long Shot
+          - [ ] Where the Silver Dew Grows
+          - [ ] The Caelumtree Wine Spree
+          - [ ] Ploughing Ahead
+          - [ ] At Full Pelt
+
+    ???+ note "Respected"
+          - [ ] Failure to Deliver
+          - [ ] Shoo Fly, Don't Bother Me
+          - [ ] All About the Eggs
+          - [ ] Smells Like Trouble
+          - [ ] When Hunting Goes Wrong
+
+    ???+ note "Honored"
+          - [ ] Flea Troubles
+          - [ ] Fifty Shades of Yellow
+          - [ ] A Romp Around the Foothills
+          - [ ] Neighborhood Squabbles
+          - [ ] Not for the Faint of Heart
 
 ### Stormblood
 
