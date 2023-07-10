@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/19)
-    <!--- 7/37 --->
+    ![](https://geps.dev/progress/22)
+    <!--- 8/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
@@ -349,7 +349,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 
     ???+ note "Neutral"
-          - [ ] Hasty Conclusions
+          - [X] Hasty Conclusions
           - [ ] A Fundamentally Important Task
           - [ ] Deep into the Weeds
           - [X] With a Little Help
@@ -359,12 +359,12 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [ ] Moogle on the Wall
           - [ ] Kupo for Kupo Nuts
           - [ ] Work That Mallow
-          - [ ] A Little Pick-me-up
+          - [X] A Little Pick-me-up
           - [X] Stumbling Blocks
 
     ???+ note "Friendly"
-          - [ ] A Fine Finish
-          - [ ] The Mining Mishap
+          - [X] A Fine Finish
+          - [X] The Mining Mishap
           - [X] Tricks Without Treats
           - [ ] A Revivifying Roar
           - [X] For Moogles in Peril
@@ -392,21 +392,21 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/0)
-    <!--- 0/34 --->
+    ![](https://geps.dev/progress/19)
+    <!--- 7/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
           - [ ] Linu's Lovely Bones
-          - [ ] In the Skycage over the Sea
+          - [X] In the Skycage over the Sea
           - [ ] Fishing for Friendship
           - [ ] Sundrop the Beat
           - [ ] Nest Side Story
           - [ ] The Nest of Honor
 
     ???+ note "Neutral"
-          - [ ] Veni, Vundu, Vici
-          - [ ] Pussyfooting About
+          - [X] Veni, Vundu, Vici
+          - [X] Pussyfooting About
           - [ ] Endymion Disco
           - [ ] Water Crystal Waltz
           - [ ] Hard-boiled Hustle
@@ -425,7 +425,14 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [ ] Reeling in the Vundu
           - [ ] The House That Ginu Built
           - [ ] A Bone to Pick
-          - [ ] A Hut to Dye For
+          - [X] A Hut to Dye For
+
+    ???+ note "Trusted"
+          - [ ] Nailed Down
+          - [ ] Shady Premonitions
+          - [X] Pestered Ancestors
+          - [X] Smooth as Silk, Cool as Air
+          - [X] Gaelicat's Out of the Bag
 
     ???+ note "Respected"
           - [ ] Rotten to the Korrigan
@@ -441,8 +448,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/0)
-    <!--- 0/34 --->
+    ![](https://geps.dev/progress/12)
+    <!--- 3/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
@@ -459,9 +466,9 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [ ] The Foodstuff of Champions
 
     ???+ note "Trust"
-          - [ ] A Long Shot
-          - [ ] Where the Silver Dew Grows
-          - [ ] The Caelumtree Wine Spree
+          - [X] A Long Shot
+          - [X] Where the Silver Dew Grows
+          - [X] The Caelumtree Wine Spree
           - [ ] Ploughing Ahead
           - [ ] At Full Pelt
 
