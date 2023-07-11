@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/22)
-    <!--- 8/37 --->
+    ![](https://geps.dev/progress/35)
+    <!--- 13/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
@@ -350,8 +350,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Neutral"
           - [X] Hasty Conclusions
-          - [ ] A Fundamentally Important Task
-          - [ ] Deep into the Weeds
+          - [X] A Fundamentally Important Task
+          - [X] Deep into the Weeds
           - [X] With a Little Help
           - [ ] A Stone's Throw Away
 
@@ -377,9 +377,9 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [ ] Tremble Finishing
 
     ???+ note "Respected"
-          - [ ] Journey of a Thousand Hews
-          - [ ] Ship of Dreams
-          - [ ] Stirring by Sternutation
+          - [X] Journey of a Thousand Hews
+          - [X] Ship of Dreams
+          - [X] Stirring by Sternutation
           - [ ] Rare Refreshments
           - [ ] From Lax to Max
 
@@ -448,8 +448,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/12)
-    <!--- 3/25 --->
+    ![](https://geps.dev/progress/24)
+    <!--- 6/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
@@ -459,7 +459,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [ ] A Symbiotic Friendship
 
     ???+ note "Friendly"
-          - [ ] Getting the Shaft
+          - [X] Getting the Shaft
           - [ ] Breath of Fresh Air
           - [ ] Bugging the Bugs
           - [ ] Too Much to Bear
@@ -476,8 +476,8 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [ ] Failure to Deliver
           - [ ] Shoo Fly, Don't Bother Me
           - [ ] All About the Eggs
-          - [ ] Smells Like Trouble
-          - [ ] When Hunting Goes Wrong
+          - [X] Smells Like Trouble
+          - [X] When Hunting Goes Wrong
 
     ???+ note "Honored"
           - [ ] Flea Troubles
