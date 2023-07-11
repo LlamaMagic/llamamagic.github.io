@@ -392,8 +392,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/19)
-    <!--- 7/37 --->
+    ![](https://geps.dev/progress/27)
+    <!--- 10/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
@@ -407,14 +407,14 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Neutral"
           - [X] Veni, Vundu, Vici
           - [X] Pussyfooting About
-          - [ ] Endymion Disco
+          - [X] Endymion Disco
           - [ ] Water Crystal Waltz
           - [ ] Hard-boiled Hustle
           - [ ] Sanuwa Samba
 
     ???+ note "Recognized"
-          - [ ] Pilfering Pots from the Pantry
-          - [ ] Chigoe Cha-Cha
+          - [X] Pilfering Pots from the Pantry
+          - [X] Chigoe Cha-Cha
           - [ ] Bird Watching
           - [ ] Comb and Get It
           - [ ] The Binding Soil
@@ -448,8 +448,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/24)
-    <!--- 6/25 --->
+    ![](https://geps.dev/progress/32)
+    <!--- 8/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
@@ -460,8 +460,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Friendly"
           - [X] Getting the Shaft
-          - [ ] Breath of Fresh Air
-          - [ ] Bugging the Bugs
+          - [X] Breath of Fresh Air
+          - [X] Bugging the Bugs
           - [ ] Too Much to Bear
           - [ ] The Foodstuff of Champions
 
@@ -582,11 +582,11 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/0)
-    <!--- 0/34 --->
+    ![](https://geps.dev/progress/18)
+    <!--- 6/34 --->
 
     ???+ note "Rank Ups"
-         - [ ] One Size Fits All
+         - [X] One Size Fits All
          - [ ] Big, Big Fish
          - [ ] Waiting for Gyodo
          - [ ] Out of the Frypan
@@ -594,12 +594,12 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [ ] Disciples of Creation
 
     ???+ note "Friendly"
-         - [ ] The Importance of Being Yes, Yes
+         - [X] The Importance of Being Yes, Yes
          - [ ] Pilgrim's Regress
-         - [ ] Unidentified Festive Objects
-         - [ ] Carry That Crate
-         - [ ] Free for Most
-         - [ ] Simpler Gifts        
+         - [X] Unidentified Festive Objects
+         - [X] Carry That Crate
+         - [X] Free for Most
+         - [X] Simpler Gifts        
 
     ???+ note "Trusted"
          - [ ] Catching Catfish
