@@ -335,14 +335,14 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/35)
-    <!--- 13/37 --->
+    ![](https://geps.dev/progress/49)
+    <!--- 18/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
           - [ ] Trying Times
           - [X] A Crystalline Solution
-          - [ ] The Tools Make the Moogle
+          - [X] The Tools Make the Moogle
           - [ ] A Monumental Task
           - [ ] Piecing Together the Past
           - [ ] The Zenith of Craftsmanship
@@ -353,12 +353,12 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] A Fundamentally Important Task
           - [X] Deep into the Weeds
           - [X] With a Little Help
-          - [ ] A Stone's Throw Away
+          - [X] A Stone's Throw Away
 
     ???+ note "Recognized"
           - [ ] Moogle on the Wall
           - [ ] Kupo for Kupo Nuts
-          - [ ] Work That Mallow
+          - [X] Work That Mallow
           - [X] A Little Pick-me-up
           - [X] Stumbling Blocks
 
@@ -366,7 +366,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] A Fine Finish
           - [X] The Mining Mishap
           - [X] Tricks Without Treats
-          - [ ] A Revivifying Roar
+          - [X] A Revivifying Roar
           - [X] For Moogles in Peril
 
     ???+ note "Trust"
@@ -374,7 +374,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [ ] Back to the Drawing Board
           - [X] Built to Last
           - [X] Let There Be Light
-          - [ ] Tremble Finishing
+          - [X] Tremble Finishing
 
     ???+ note "Respected"
           - [X] Journey of a Thousand Hews
@@ -392,8 +392,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/27)
-    <!--- 10/37 --->
+    ![](https://geps.dev/progress/30)
+    <!--- 11/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
@@ -444,17 +444,17 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [ ] Dance Commander
           - [ ] Electric Gunduloo
           - [ ] Wildwort and Sundrop
-          - [ ] Vanish, Vile Vundu
+          - [X] Vanish, Vile Vundu
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/32)
-    <!--- 8/25 --->
+    ![](https://geps.dev/progress/56)
+    <!--- 14/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
           - [ ] An Acquired Taste
-          - [ ] Your Enemy and Mine
+          - [X] Your Enemy and Mine
           - [ ] Resistance Is Futile
           - [ ] A Symbiotic Friendship
 
@@ -469,8 +469,8 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] A Long Shot
           - [X] Where the Silver Dew Grows
           - [X] The Caelumtree Wine Spree
-          - [ ] Ploughing Ahead
-          - [ ] At Full Pelt
+          - [X] Ploughing Ahead
+          - [X] At Full Pelt
 
     ???+ note "Respected"
           - [ ] Failure to Deliver
@@ -482,9 +482,9 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Honored"
           - [ ] Flea Troubles
           - [ ] Fifty Shades of Yellow
-          - [ ] A Romp Around the Foothills
-          - [ ] Neighborhood Squabbles
-          - [ ] Not for the Faint of Heart
+          - [X] A Romp Around the Foothills
+          - [X] Neighborhood Squabbles
+          - [X] Not for the Faint of Heart
 
 ### Stormblood
 
@@ -582,8 +582,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/18)
-    <!--- 6/34 --->
+    ![](https://geps.dev/progress/26)
+    <!--- 9/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
@@ -603,14 +603,14 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Trusted"
          - [ ] Catching Catfish
-         - [ ] Wood You Believe It
-         - [ ] Ghosts of Honor
+         - [X] Wood You Believe It
+         - [X] Ghosts of Honor
          - [ ] Great Buuz Up
          - [ ] Local Special Tea
          - [ ] Surprise Offerings
 
     ???+ note "Respected"
-         - [ ] Carving a Niche
+         - [X] Carving a Niche
          - [ ] Collision of Cultures
          - [ ] Beat of the Drum
          - [ ] Ready the Confetti
