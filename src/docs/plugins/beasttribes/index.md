@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/49)
-    <!--- 18/37 --->
+    ![](https://geps.dev/progress/54)
+    <!--- 20/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
@@ -380,11 +380,11 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] Journey of a Thousand Hews
           - [X] Ship of Dreams
           - [X] Stirring by Sternutation
-          - [ ] Rare Refreshments
+          - [X] Rare Refreshments
           - [ ] From Lax to Max
 
     ???+ note "Honored"
-          - [ ] Dragon Draff for Their Behalf
+          - [X] Dragon Draff for Their Behalf
           - [ ] A Fish for His Favors
           - [ ] An Ishgardian Treat
           - [ ] Mine and Craft
@@ -392,8 +392,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/30)
-    <!--- 11/37 --->
+    ![](https://geps.dev/progress/51)
+    <!--- 19/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
@@ -408,19 +408,19 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] Veni, Vundu, Vici
           - [X] Pussyfooting About
           - [X] Endymion Disco
-          - [ ] Water Crystal Waltz
-          - [ ] Hard-boiled Hustle
-          - [ ] Sanuwa Samba
+          - [X] Water Crystal Waltz
+          - [X] Hard-boiled Hustle
+          - [X] Sanuwa Samba
 
     ???+ note "Recognized"
           - [X] Pilfering Pots from the Pantry
           - [X] Chigoe Cha-Cha
           - [ ] Bird Watching
-          - [ ] Comb and Get It
-          - [ ] The Binding Soil
+          - [X] Comb and Get It
+          - [X] The Binding Soil
 
     ???+ note "Friendly"
-          - [ ] Flight of the Midges
+          - [X] Flight of the Midges
           - [ ] Fishing in Troubled Waters
           - [ ] Reeling in the Vundu
           - [ ] The House That Ginu Built
@@ -437,8 +437,8 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Respected"
           - [ ] Rotten to the Korrigan
           - [ ] Gastornis Groove
-          - [ ] The Cat's Meow
-          - [ ] Easy as Paissa
+          - [X] The Cat's Meow
+          - [X] Easy as Paissa
 
     ???+ note "Honored"
           - [ ] Dance Commander
@@ -448,14 +448,14 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/56)
-    <!--- 14/25 --->
+    ![](https://geps.dev/progress/60)
+    <!--- 15/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
           - [ ] An Acquired Taste
           - [X] Your Enemy and Mine
-          - [ ] Resistance Is Futile
+          - [X] Resistance Is Futile
           - [ ] A Symbiotic Friendship
 
     ???+ note "Friendly"
@@ -582,12 +582,12 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/26)
-    <!--- 9/34 --->
+    ![](https://geps.dev/progress/29)
+    <!--- 10/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
-         - [ ] Big, Big Fish
+         - [X] Big, Big Fish
          - [ ] Waiting for Gyodo
          - [ ] Out of the Frypan
          - [ ] Into the Fire
