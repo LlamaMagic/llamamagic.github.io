@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/54)
-    <!--- 20/37 --->
+    ![](https://geps.dev/progress/59)
+    <!--- 22/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
@@ -356,8 +356,8 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] A Stone's Throw Away
 
     ???+ note "Recognized"
-          - [ ] Moogle on the Wall
-          - [ ] Kupo for Kupo Nuts
+          - [X] Moogle on the Wall
+          - [X] Kupo for Kupo Nuts
           - [X] Work That Mallow
           - [X] A Little Pick-me-up
           - [X] Stumbling Blocks
@@ -448,8 +448,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/60)
-    <!--- 15/25 --->
+    ![](https://geps.dev/progress/64)
+    <!--- 16/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
@@ -465,7 +465,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [ ] Too Much to Bear
           - [ ] The Foodstuff of Champions
 
-    ???+ note "Trust"
+    ???+ note "Trusted"
           - [X] A Long Shot
           - [X] Where the Silver Dew Grows
           - [X] The Caelumtree Wine Spree
@@ -480,7 +480,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] When Hunting Goes Wrong
 
     ???+ note "Honored"
-          - [ ] Flea Troubles
+          - [X] Flea Troubles
           - [ ] Fifty Shades of Yellow
           - [X] A Romp Around the Foothills
           - [X] Neighborhood Squabbles
@@ -582,8 +582,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/29)
-    <!--- 10/34 --->
+    ![](https://geps.dev/progress/32)
+    <!--- 11/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
@@ -595,7 +595,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Friendly"
          - [X] The Importance of Being Yes, Yes
-         - [ ] Pilgrim's Regress
+         - [X] Pilgrim's Regress
          - [X] Unidentified Festive Objects
          - [X] Carry That Crate
          - [X] Free for Most
