@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/59)
-    <!--- 22/37 --->
+    ![](https://geps.dev/progress/62)
+    <!--- 23/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
@@ -388,12 +388,12 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [ ] A Fish for His Favors
           - [ ] An Ishgardian Treat
           - [ ] Mine and Craft
-          - [ ] The Moogle Motivator
+          - [X] The Moogle Motivator
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/51)
-    <!--- 19/37 --->
+    ![](https://geps.dev/progress/59)
+    <!--- 22/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
@@ -421,8 +421,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Friendly"
           - [X] Flight of the Midges
-          - [ ] Fishing in Troubled Waters
-          - [ ] Reeling in the Vundu
+          - [X] Fishing in Troubled Waters
+          - [X] Reeling in the Vundu
           - [ ] The House That Ginu Built
           - [ ] A Bone to Pick
           - [X] A Hut to Dye For
@@ -435,7 +435,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] Gaelicat's Out of the Bag
 
     ???+ note "Respected"
-          - [ ] Rotten to the Korrigan
+          - [X] Rotten to the Korrigan
           - [ ] Gastornis Groove
           - [X] The Cat's Meow
           - [X] Easy as Paissa
@@ -448,8 +448,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/64)
-    <!--- 16/25 --->
+    ![](https://geps.dev/progress/68)
+    <!--- 17/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
@@ -473,7 +473,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] At Full Pelt
 
     ???+ note "Respected"
-          - [ ] Failure to Deliver
+          - [X] Failure to Deliver
           - [ ] Shoo Fly, Don't Bother Me
           - [ ] All About the Eggs
           - [X] Smells Like Trouble
@@ -582,8 +582,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/32)
-    <!--- 11/34 --->
+    ![](https://geps.dev/progress/47)
+    <!--- 16/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
@@ -602,16 +602,16 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [X] Simpler Gifts        
 
     ???+ note "Trusted"
-         - [ ] Catching Catfish
+         - [X] Catching Catfish
          - [X] Wood You Believe It
          - [X] Ghosts of Honor
-         - [ ] Great Buuz Up
-         - [ ] Local Special Tea
-         - [ ] Surprise Offerings
+         - [X] Great Buuz Up
+         - [X] Local Special Tea
+         - [X] Surprise Offerings
 
     ???+ note "Respected"
          - [X] Carving a Niche
-         - [ ] Collision of Cultures
+         - [X] Collision of Cultures
          - [ ] Beat of the Drum
          - [ ] Ready the Confetti
          - [ ] Bearers Wanted
