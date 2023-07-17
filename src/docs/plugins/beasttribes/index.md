@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/62)
-    <!--- 23/37 --->
+    ![](https://geps.dev/progress/76)
+    <!--- 28/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
@@ -370,8 +370,8 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] For Moogles in Peril
 
     ???+ note "Trust"
-          - [ ] The Negotiator
-          - [ ] Back to the Drawing Board
+          - [X] The Negotiator
+          - [X] Back to the Drawing Board
           - [X] Built to Last
           - [X] Let There Be Light
           - [X] Tremble Finishing
@@ -392,14 +392,14 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/59)
-    <!--- 22/37 --->
+    ![](https://geps.dev/progress/62)
+    <!--- 23/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
           - [ ] Linu's Lovely Bones
           - [X] In the Skycage over the Sea
-          - [ ] Fishing for Friendship
+          - [X] Fishing for Friendship
           - [ ] Sundrop the Beat
           - [ ] Nest Side Story
           - [ ] The Nest of Honor
