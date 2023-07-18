@@ -392,8 +392,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/62)
-    <!--- 23/37 --->
+    ![](https://geps.dev/progress/68)
+    <!--- 25/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
@@ -424,12 +424,12 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] Fishing in Troubled Waters
           - [X] Reeling in the Vundu
           - [ ] The House That Ginu Built
-          - [ ] A Bone to Pick
+          - [X] A Bone to Pick
           - [X] A Hut to Dye For
 
     ???+ note "Trusted"
           - [ ] Nailed Down
-          - [ ] Shady Premonitions
+          - [X] Shady Premonitions
           - [X] Pestered Ancestors
           - [X] Smooth as Silk, Cool as Air
           - [X] Gaelicat's Out of the Bag
