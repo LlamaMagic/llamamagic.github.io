@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/76)
-    <!--- 28/37 --->
+    ![](https://geps.dev/progress/81)
+    <!--- 30/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
@@ -345,7 +345,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] The Tools Make the Moogle
           - [ ] A Monumental Task
           - [ ] Piecing Together the Past
-          - [ ] The Zenith of Craftsmanship
+          - [X] The Zenith of Craftsmanship
 
 
     ???+ note "Neutral"
@@ -385,7 +385,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Honored"
           - [X] Dragon Draff for Their Behalf
-          - [ ] A Fish for His Favors
+          - [X] A Fish for His Favors
           - [ ] An Ishgardian Treat
           - [ ] Mine and Craft
           - [X] The Moogle Motivator
@@ -448,8 +448,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/68)
-    <!--- 17/25 --->
+    ![](https://geps.dev/progress/72)
+    <!--- 18/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
@@ -481,7 +481,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Honored"
           - [X] Flea Troubles
-          - [ ] Fifty Shades of Yellow
+          - [X] Fifty Shades of Yellow
           - [X] A Romp Around the Foothills
           - [X] Neighborhood Squabbles
           - [X] Not for the Faint of Heart
@@ -582,13 +582,13 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/47)
-    <!--- 16/34 --->
+    ![](https://geps.dev/progress/50)
+    <!--- 17/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
          - [X] Big, Big Fish
-         - [ ] Waiting for Gyodo
+         - [X] Waiting for Gyodo
          - [ ] Out of the Frypan
          - [ ] Into the Fire
          - [ ] Disciples of Creation
