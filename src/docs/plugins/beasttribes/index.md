@@ -448,8 +448,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/72)
-    <!--- 18/25 --->
+    ![](https://geps.dev/progress/76)
+    <!--- 19/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
@@ -462,7 +462,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] Getting the Shaft
           - [X] Breath of Fresh Air
           - [X] Bugging the Bugs
-          - [ ] Too Much to Bear
+          - [X] Too Much to Bear
           - [ ] The Foodstuff of Champions
 
     ???+ note "Trusted"
