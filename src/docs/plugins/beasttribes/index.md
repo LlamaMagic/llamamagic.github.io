@@ -392,8 +392,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/68)
-    <!--- 25/37 --->
+    ![](https://geps.dev/progress/70)
+    <!--- 26/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
@@ -436,7 +436,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Respected"
           - [X] Rotten to the Korrigan
-          - [ ] Gastornis Groove
+          - [X] Gastornis Groove
           - [X] The Cat's Meow
           - [X] Easy as Paissa
 
