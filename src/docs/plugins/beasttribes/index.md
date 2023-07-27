@@ -448,15 +448,15 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/76)
-    <!--- 19/25 --->
+    ![](https://geps.dev/progress/80)
+    <!--- 20/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
           - [ ] An Acquired Taste
           - [X] Your Enemy and Mine
           - [X] Resistance Is Futile
-          - [ ] A Symbiotic Friendship
+          - [X] A Symbiotic Friendship
 
     ???+ note "Friendly"
           - [X] Getting the Shaft
@@ -582,14 +582,14 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/50)
-    <!--- 17/34 --->
+    ![](https://geps.dev/progress/55)
+    <!--- 19/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
          - [X] Big, Big Fish
          - [X] Waiting for Gyodo
-         - [ ] Out of the Frypan
+         - [X] Out of the Frypan
          - [ ] Into the Fire
          - [ ] Disciples of Creation
 
@@ -612,7 +612,7 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Respected"
          - [X] Carving a Niche
          - [X] Collision of Cultures
-         - [ ] Beat of the Drum
+         - [X] Beat of the Drum
          - [ ] Ready the Confetti
          - [ ] Bearers Wanted
          - [ ] Roasting a New Dish
