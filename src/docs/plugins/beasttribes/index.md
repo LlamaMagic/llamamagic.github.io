@@ -582,8 +582,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/55)
-    <!--- 19/34 --->
+    ![](https://geps.dev/progress/62)
+    <!--- 21/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
@@ -615,13 +615,13 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [X] Beat of the Drum
          - [ ] Ready the Confetti
          - [ ] Bearers Wanted
-         - [ ] Roasting a New Dish
+         - [X] Roasting a New Dish
          - [ ] In Steep Trouble
 
     ???+ note "Honored"
          - [ ] A Stable's Condition
          - [ ] Cannot Say Neigh
-         - [ ] Bull's-eye
+         - [X] Bull's-eye
          - [ ] A Favor Repaid
          - [ ] A Welcome Surprise
          - [ ] Overcommitment
