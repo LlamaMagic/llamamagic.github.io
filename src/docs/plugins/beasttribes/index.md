@@ -538,14 +538,14 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Kojin" 
 
-    ![](https://geps.dev/progress/49)
-    <!--- 17/33 --->
+    ![](https://geps.dev/progress/55)
+    <!--- 18/33 --->
 
     ???+ note "Rank Ups"
          - [ ] Under Wraps
          - [ ] The Value of Silence
          - [ ] Misdelivered
-         - [ ] A Test of Courage
+         - [X] A Test of Courage
          - [x] True-blue
 
     ???+ note "Friendly"
