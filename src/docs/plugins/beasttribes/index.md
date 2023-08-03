@@ -335,15 +335,15 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/81)
-    <!--- 30/37 --->
+    ![](https://geps.dev/progress/84)
+    <!--- 31/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
           - [ ] Trying Times
           - [X] A Crystalline Solution
           - [X] The Tools Make the Moogle
-          - [ ] A Monumental Task
+          - [X] A Monumental Task
           - [ ] Piecing Together the Past
           - [X] The Zenith of Craftsmanship
 
@@ -392,15 +392,15 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/70)
-    <!--- 26/37 --->
+    ![](https://geps.dev/progress/84)
+    <!--- 31/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
           - [ ] Linu's Lovely Bones
           - [X] In the Skycage over the Sea
           - [X] Fishing for Friendship
-          - [ ] Sundrop the Beat
+          - [X] Sundrop the Beat
           - [ ] Nest Side Story
           - [ ] The Nest of Honor
 
@@ -423,12 +423,12 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] Flight of the Midges
           - [X] Fishing in Troubled Waters
           - [X] Reeling in the Vundu
-          - [ ] The House That Ginu Built
+          - [X] The House That Ginu Built
           - [X] A Bone to Pick
           - [X] A Hut to Dye For
 
     ???+ note "Trusted"
-          - [ ] Nailed Down
+          - [X] Nailed Down
           - [X] Shady Premonitions
           - [X] Pestered Ancestors
           - [X] Smooth as Silk, Cool as Air
@@ -442,14 +442,14 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Honored"
           - [ ] Dance Commander
-          - [ ] Electric Gunduloo
-          - [ ] Wildwort and Sundrop
+          - [X] Electric Gunduloo
+          - [X] Wildwort and Sundrop
           - [X] Vanish, Vile Vundu
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/80)
-    <!--- 20/25 --->
+    ![](https://geps.dev/progress/84)
+    <!--- 21/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
@@ -463,7 +463,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] Breath of Fresh Air
           - [X] Bugging the Bugs
           - [X] Too Much to Bear
-          - [ ] The Foodstuff of Champions
+          - [X] The Foodstuff of Champions
 
     ???+ note "Trusted"
           - [X] A Long Shot
@@ -538,8 +538,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Kojin" 
 
-    ![](https://geps.dev/progress/55)
-    <!--- 18/33 --->
+    ![](https://geps.dev/progress/60)
+    <!--- 20/33 --->
 
     ???+ note "Rank Ups"
          - [ ] Under Wraps
@@ -565,10 +565,10 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [x] Sand-sifting Specialist
 
     ???+ note "Respected"
-         - [ ] Deep Turquoise Sea
+         - [X] Deep Turquoise Sea
          - [ ] Flotsam and Jetsam
          - [ ] Forever Blowing Bubbles
-         - [ ] Holy Mother of Pearl
+         - [X] Holy Mother of Pearl
          - [ ] No, Not the Boo Box
          - [ ] Pleasure Doing Business
 
@@ -582,8 +582,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/62)
-    <!--- 21/34 --->
+    ![](https://geps.dev/progress/65)
+    <!--- 22/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
@@ -613,7 +613,7 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [X] Carving a Niche
          - [X] Collision of Cultures
          - [X] Beat of the Drum
-         - [ ] Ready the Confetti
+         - [X] Ready the Confetti
          - [ ] Bearers Wanted
          - [X] Roasting a New Dish
          - [ ] In Steep Trouble
