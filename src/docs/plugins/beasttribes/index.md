@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/84)
-    <!--- 31/37 --->
+    ![](https://geps.dev/progress/89)
+    <!--- 33/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
@@ -386,14 +386,14 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Honored"
           - [X] Dragon Draff for Their Behalf
           - [X] A Fish for His Favors
-          - [ ] An Ishgardian Treat
-          - [ ] Mine and Craft
+          - [X] An Ishgardian Treat
+          - [X] Mine and Craft
           - [X] The Moogle Motivator
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/84)
-    <!--- 31/37 --->
+    ![](https://geps.dev/progress/89)
+    <!--- 33/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
@@ -415,7 +415,7 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Recognized"
           - [X] Pilfering Pots from the Pantry
           - [X] Chigoe Cha-Cha
-          - [ ] Bird Watching
+          - [X] Bird Watching
           - [X] Comb and Get It
           - [X] The Binding Soil
 
@@ -441,7 +441,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] Easy as Paissa
 
     ???+ note "Honored"
-          - [ ] Dance Commander
+          - [X] Dance Commander
           - [X] Electric Gunduloo
           - [X] Wildwort and Sundrop
           - [X] Vanish, Vile Vundu
@@ -582,8 +582,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/65)
-    <!--- 22/34 --->
+    ![](https://geps.dev/progress/76)
+    <!--- 26/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
@@ -616,14 +616,14 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [X] Ready the Confetti
          - [ ] Bearers Wanted
          - [X] Roasting a New Dish
-         - [ ] In Steep Trouble
+         - [X] In Steep Trouble
 
     ???+ note "Honored"
-         - [ ] A Stable's Condition
-         - [ ] Cannot Say Neigh
+         - [X] A Stable's Condition
+         - [X] Cannot Say Neigh
          - [X] Bull's-eye
          - [ ] A Favor Repaid
-         - [ ] A Welcome Surprise
+         - [X] A Welcome Surprise
          - [ ] Overcommitment
 
     ???+ note "Sworn"
