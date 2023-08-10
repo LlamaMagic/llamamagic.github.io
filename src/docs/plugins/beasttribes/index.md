@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/89)
-    <!--- 33/37 --->
+    ![](https://geps.dev/progress/91)
+    <!--- 34/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
@@ -381,7 +381,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] Ship of Dreams
           - [X] Stirring by Sternutation
           - [X] Rare Refreshments
-          - [ ] From Lax to Max
+          - [X] From Lax to Max
 
     ???+ note "Honored"
           - [X] Dragon Draff for Their Behalf
