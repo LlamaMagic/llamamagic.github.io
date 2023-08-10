@@ -448,8 +448,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vath" 
 
-    ![](https://geps.dev/progress/84)
-    <!--- 21/25 --->
+    ![](https://geps.dev/progress/92)
+    <!--- 23/25 --->
 
     ???+ note "Rank Ups"
           - [ ] Adventurers Don't Get Cold Feet
@@ -474,8 +474,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Respected"
           - [X] Failure to Deliver
-          - [ ] Shoo Fly, Don't Bother Me
-          - [ ] All About the Eggs
+          - [X] Shoo Fly, Don't Bother Me
+          - [X] All About the Eggs
           - [X] Smells Like Trouble
           - [X] When Hunting Goes Wrong
 
@@ -538,11 +538,11 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Kojin" 
 
-    ![](https://geps.dev/progress/60)
-    <!--- 20/33 --->
+    ![](https://geps.dev/progress/88)
+    <!--- 29/33 --->
 
     ???+ note "Rank Ups"
-         - [ ] Under Wraps
+         - [X] Under Wraps
          - [ ] The Value of Silence
          - [ ] Misdelivered
          - [X] A Test of Courage
@@ -567,10 +567,10 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Respected"
          - [X] Deep Turquoise Sea
          - [ ] Flotsam and Jetsam
-         - [ ] Forever Blowing Bubbles
+         - [X] Forever Blowing Bubbles
          - [X] Holy Mother of Pearl
-         - [ ] No, Not the Boo Box
-         - [ ] Pleasure Doing Business
+         - [X] No, Not the Boo Box
+         - [X] Pleasure Doing Business
 
     ???+ note "Honored"
          - [x] Clammed Up
@@ -583,7 +583,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 ??? note "Namazu" 
 
     ![](https://geps.dev/progress/76)
-    <!--- 26/34 --->
+    <!--- 27/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
@@ -614,7 +614,7 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [X] Collision of Cultures
          - [X] Beat of the Drum
          - [X] Ready the Confetti
-         - [ ] Bearers Wanted
+         - [X] Bearers Wanted
          - [X] Roasting a New Dish
          - [X] In Steep Trouble
 
