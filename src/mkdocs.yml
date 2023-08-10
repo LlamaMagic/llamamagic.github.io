@@ -27,8 +27,8 @@ nav:
         - purchase/DW/purchase.md 
   - Wiki:
     - BotBases:
-        - Census:
-            - botbases/census/index.md     
+        - Advertise:
+            - botbases/advertise/index.md     
         - Island Gatherer:
             - botbases/islandgatherer/index.md              
         - LlamaMarket:
