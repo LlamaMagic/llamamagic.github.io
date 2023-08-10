@@ -1,7 +1,7 @@
 # Advertise
 
 ## Advertise
-RP Botbase which tracks staff/visitor activity, does shout messages and can be used as a greeter bot. 
+RP venue advertising botbase does world hopping /shout ads in the 3 major towns along with keeping a party finder up and the option to do in venue announcements 
 
 **For NA/EU/JP/SA only. Not China or Korea**
 
