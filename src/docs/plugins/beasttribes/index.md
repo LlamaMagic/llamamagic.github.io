@@ -494,7 +494,7 @@ For now only some of the tribes are available to be enabled. I am in the process
     <!--- 28/33 --->
 
     ???+ note "Rank Ups"
-         - [ ] Griffins Rampant
+         - [X] Griffins Rampant
          - [ ] Chance of Gales
          - [ ] It Can Be Cruel Sometimes
          - [x] Schism between Sister
@@ -582,15 +582,15 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/76)
-    <!--- 27/34 --->
+    ![](https://geps.dev/progress/82)
+    <!--- 28/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
          - [X] Big, Big Fish
          - [X] Waiting for Gyodo
          - [X] Out of the Frypan
-         - [ ] Into the Fire
+         - [X] Into the Fire
          - [ ] Disciples of Creation
 
     ???+ note "Friendly"
