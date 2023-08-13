@@ -24,7 +24,6 @@ This plugin updates on restart of RebornBuddy and doesn't need to be added to re
 RebornBuddy
 └── Plugins
     └── Splendorous Tools
-        ├── OrderBot Tags
         ├── SplendorousToolsLoader.cs
         ├── SplendorousToolsSettings.cs
         ├── Version.txt
@@ -44,67 +43,17 @@ RebornBuddy
 
 ## Usage
 
-Open settings, choose your class, hit start. I also recomend using food and medicine for the crafts, to prevent failure on the craft.
-
-### Artisan
-There is also an option here for using the Dalamud plugin Artisan. Essentially what this does is cause RB to pause once it's opened the crafting window, allowing Artisan to take over. This is a less-afkable method, as you will need to be present to turn Auto Mode off and on when needed. It is more robust than the built in macro however and can account for a wider level of stats. (This could also be used for using your own macro if you wanted)
-
-### Farming
-The Farming section has a start button in it. Using that button goes and collects 50 of each Select material, and all the sub mats needed to make all 8 crafting tools. You don't have to use this. This is only for people that like getting all the mats together before hand. The standard tab will gather the materials needed for whatever class you select.
+Open settings, choose your class, hit start. I also recommend using food and medicine for the crafts in Lisbeth settings, to prevent failure on the craft.
 
 ### Key
 This tab is pretty straight forward. When you purchase the plugin you'll get a key sent to the email used when making the purchase. Take that key, put it in the box, hit `Verify`. That'll enable the plugin. Job done.
-
-## Notes
-
-- Some people have also requested what materials are needed so that they can be purchased ahead of time. Remember, since we're not using Lisbeth to craft these final crafts, you will need the crystals in your player inventory as the macros will not pull them from your retainers. Also, the ones that are marked as HQ really need to be HQ. The final crafts are tough and you kinda need the extra quality. Here are the required materials:
-??? RequiredMats
-    | Material  | Quantity |
-    | ------------- | ------------- |
-    | Fire Cluster  | 500  |
-    | Ice Cluster  | 300  |
-    | Wind Cluster  | 600  |
-    | Earth Cluster  | 400  |
-    | Lightning Cluster  | 300  |    
-    | Water Cluster  | 300  |
-    | Phrygian Gold Ore  | 40  |
-    | Sideritis Leaves  | 40  |
-    | Ironwood Log  | 80  |
-    | Bismuth Ore  | 40  |
-    | Petalouda Scales  | 40  |
-    | Almasty Fur  | 80  |
-    | Integral Lumber (HQ)  | 90  |
-    | Chondrite Ingot (HQ)  | 120  |
-    | Ophiotauros Leather (HQ)  | 30  |
-    | AR-Caean Velvet (HQ) | 60  |
-    | Grade 5 Mind Alkahest (HQ) | 60  |
-    | Grade 5 Vitality Alkahest (HQ)  | 60  |
-    | Dark Rye Flour (HQ)  | 60  |
-    | Palm Sugar (HQ)  | 60  |
-    | Star Quartz (HQ)  | 60  |
 
 
 
 ## Known Issues
 
-- Because Lisbeth does not have support for the new items, we are using a basic macro to craft the final item. You need pretty decent stats and you're going to want to have a good HQ crafting food and syrup. I used HQ Calamari Ripieni and Cunning Craftsman's Draught. The stats required are 3350/3062/492 + HQ Calamari + HQ Cunning Draught. It uses the macros from [IcyVeins](https://www.icy-veins.com/ffxiv/splendorous-tools-stage-one#splendorous-augmentation-for-crafters).
-- This uses Lisbeth to gather the sub mats for the final craft. However, because these mats are generic mats that you could have had already, if you have Lisbeth's retainer settings set to store items, it's possible that you have these items set to be stored on a retainer. Which will cause Lisbeth to put them on the retainer when done and the bot will infinitely loop because it can't find them. I recommend turning off retainers while running this. Alternatively you can make sure that Lisbeth isn't set to store these items.
-??? Mats
-    - Ironwood Log
-    - Integral Lumber
-    - Chondrite Ingot
-    - Phyrgian Gold Ore
-    - Star Quartz
-    - Bismuth Ore
-    - Almasty Fur
-    - AR-Caean Velvet
-    - Ophiotauros Leather
-    - Petalouda Scales
-    - Grade 5 Vitality Alkahest
-    - Grade 5 Mind Alkahest
-    - Sideritis Leaves
-    - Dark Rye Flour
-    - Palm Sugar
+- When doing DOH classes, make sure you turn off General > Enable Trash Cleanup in Lisbeth settings, otherwise it will trash the components.
+- When doing Fisher, assign your current relic tool to your gear set. Lisbeth currently doesn't equip the correct pole when attempting to get the fish and it must be equipped to gather then.
 - If you have multiple gear sets of the same job, or more gearsets then the game has by default, your drop down menu for class selection may look unusual. The Job change code will select the first job for that class it finds in your gearsets.
 
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
