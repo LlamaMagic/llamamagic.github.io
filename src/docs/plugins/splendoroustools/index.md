@@ -41,6 +41,12 @@ RebornBuddy
 ### Crystalline Tools (iLvl 620)
 - [x] Crystalline Tools
 
+### Chora-Zoi's Crystalline Tools (iLvl 625)
+- [x] Chora-Zoi's Crystalline Tools
+
+### Brilliant Tools (iLvl 630)
+- [x] Brilliant Tools
+
 ## Usage
 
 Open settings, choose your class, hit start. I also recommend using food and medicine for the crafts in Lisbeth settings, to prevent failure on the craft.
