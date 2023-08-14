@@ -490,12 +490,12 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Ananta" 
 
-    ![](https://geps.dev/progress/85)
-    <!--- 28/33 --->
+    ![](https://geps.dev/progress/88)
+    <!--- 29/33 --->
 
     ???+ note "Rank Ups"
          - [X] Griffins Rampant
-         - [ ] Chance of Gales
+         - [X] Chance of Gales
          - [ ] It Can Be Cruel Sometimes
          - [x] Schism between Sister
          - [x] Celebratory Smorgasbord
