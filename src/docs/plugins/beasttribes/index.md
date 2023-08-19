@@ -335,8 +335,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Moogle" 
 
-    ![](https://geps.dev/progress/91)
-    <!--- 34/37 --->
+    ![](https://geps.dev/progress/95)
+    <!--- 35/37 --->
 
     ???+ note "Rank Ups"
           - [ ] The Milk of Moogle Kindness
@@ -344,7 +344,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] A Crystalline Solution
           - [X] The Tools Make the Moogle
           - [X] A Monumental Task
-          - [ ] Piecing Together the Past
+          - [X] Piecing Together the Past
           - [X] The Zenith of Craftsmanship
 
 
@@ -392,8 +392,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/89)
-    <!--- 33/37 --->
+    ![](https://geps.dev/progress/92)
+    <!--- 34/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
@@ -401,7 +401,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] In the Skycage over the Sea
           - [X] Fishing for Friendship
           - [X] Sundrop the Beat
-          - [ ] Nest Side Story
+          - [X] Nest Side Story
           - [ ] The Nest of Honor
 
     ???+ note "Neutral"
@@ -582,8 +582,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/82)
-    <!--- 28/34 --->
+    ![](https://geps.dev/progress/85)
+    <!--- 29/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
@@ -627,7 +627,7 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [ ] Overcommitment
 
     ???+ note "Sworn"
-         - [ ] Give Till It Hurts
+         - [X] Give Till It Hurts
          - [ ] Taking the Plunge
          - [ ] The Deadliest Sport
 
