@@ -582,8 +582,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/85)
-    <!--- 29/34 --->
+    ![](https://geps.dev/progress/88)
+    <!--- 30/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
@@ -624,7 +624,7 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [X] Bull's-eye
          - [ ] A Favor Repaid
          - [X] A Welcome Surprise
-         - [ ] Overcommitment
+         - [X] Overcommitment
 
     ???+ note "Sworn"
          - [X] Give Till It Hurts
