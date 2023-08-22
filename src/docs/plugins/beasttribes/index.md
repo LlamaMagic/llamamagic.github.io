@@ -582,8 +582,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Namazu" 
 
-    ![](https://geps.dev/progress/88)
-    <!--- 30/34 --->
+    ![](https://geps.dev/progress/91)
+    <!--- 31/34 --->
 
     ???+ note "Rank Ups"
          - [X] One Size Fits All
@@ -629,7 +629,7 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Sworn"
          - [X] Give Till It Hurts
          - [ ] Taking the Plunge
-         - [ ] The Deadliest Sport
+         - [X] The Deadliest Sport
 
 ### Shadowbringers
 
