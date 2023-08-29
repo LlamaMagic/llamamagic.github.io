@@ -392,8 +392,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Vanu Vanu" 
 
-    ![](https://geps.dev/progress/92)
-    <!--- 34/37 --->
+    ![](https://geps.dev/progress/95)
+    <!--- 35/37 --->
 
     ???+ note "Rank Ups"
           - [ ] A Tribal Reunion
@@ -402,7 +402,7 @@ For now only some of the tribes are available to be enabled. I am in the process
           - [X] Fishing for Friendship
           - [X] Sundrop the Beat
           - [X] Nest Side Story
-          - [ ] The Nest of Honor
+          - [X] The Nest of Honor
 
     ???+ note "Neutral"
           - [X] Veni, Vundu, Vici
