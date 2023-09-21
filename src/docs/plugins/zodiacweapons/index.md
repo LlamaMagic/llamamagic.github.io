@@ -42,7 +42,7 @@ RebornBuddy
 - [x] Zenith Zodiac Weapons/Quest
 
 ### Atma Zodiac Weapons (iLvl 100)
-- [x] Atma Zodiac Weapons
+- [x] Atma Zodiac Weapons ^[Known Issue](#known-issues)^
 
 ### Animus Zodiac Weapons (iLvl 100)
 - [x] Animus Zodiac Weapons ^[Manual Step](#notes)^
