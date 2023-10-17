@@ -43,7 +43,9 @@ nav:
         - Beast Tribes:           
             - plugins/beasttribes/index.md             
         - Manderville Weapons:           
-            - plugins/mandervilleweapons/index.md           
+            - plugins/mandervilleweapons/index.md        
+        - Panda Farmer:           
+            - plugins/pandafarmer/index.md                   
         - Splendorous Tools:           
             - plugins/splendoroustools/index.md
         - Zodiac Weapons:           
