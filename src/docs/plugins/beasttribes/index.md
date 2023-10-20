@@ -131,44 +131,44 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Ixal" 
 
-    ![](https://geps.dev/progress/0)
+    ![](https://geps.dev/progress/33)
+     <!--- 13/40 --->
 
     ???+ note "Rank Ups"
-         - [ ] Reaching for Cloud Nine
          - [ ] A Designed Job
          - [ ] The Boy from Gridania
          - [ ] Lathe to the Party
-         - [ ] Standing at the Helm
+         - [x] Standing at the Helm
          - [ ] Never Be Royal
          - [ ] Spread Your Wings and Soar
 
     ???+ note "Neutral"
-         - [ ] Trust, but Verify
+         - [x] Trust, but Verify
          - [ ] Misdirected Woo
-         - [ ] Keepering up Appearances
-         - [ ] Blow, Ye Winds
+         - [x] Keepering up Appearances
+         - [x] Blow, Ye Winds
          - [ ] Deliverance
 
     ???+ note "Recognized"
-         - [ ] Gyrodriven
-         - [ ] Of Rodents and Rigging
-         - [ ] What Evil Lurks in the Hearts of Golems
+         - [x] Gyrodriven
+         - [x] Of Rodents and Rigging
+         - [x] What Evil Lurks in the Hearts of Golems
          - [ ] One Ixal's Buzzard
          - [ ] The Right Tools for the Tools
 
     ???+ note "Friendly"
-         - [ ] And Thanks for all the Fish
-         - [ ] An Empty Sack Cannot Hang Downright
-         - [ ] Hot Cross Buns
+         - [x] And Thanks for all the Fish
+         - [x] An Empty Sack Cannot Hang Downright
+         - [x] Hot Cross Buns
          - [ ] Simple the Biast
          - [ ] A Long Way to the Top
 
     ???+ note "Trusted"
          - [ ] Reach for the Starboard
          - [ ] Larboard and Lodging
-         - [ ] Right-wing Aeronautics
-         - [ ] Left-wing Aeronautics
-         - [ ] Getting into Gear
+         - [x] Right-wing Aeronautics
+         - [x] Left-wing Aeronautics
+         - [x] Getting into Gear
          - [ ] Hells-vent on the Heavens
 
     ???+ note "Respected"
@@ -286,14 +286,14 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Sylphs" 
 
-    ![](https://geps.dev/progress/74)
-    <!--- 25/34 --->
+    ![](https://geps.dev/progress/76)
+    <!--- 26/34 --->
 
     ???+ note "Rank Ups"
          - [x] Voyce of Concern
          - [x] Pilfered Podlings *
          - [ ] Idle Hands
-         - [ ] Feathers and Folly
+         - [x] Feathers and Folly
 
     ???+ note "Neutral"
          - [x] Deck the Hut
