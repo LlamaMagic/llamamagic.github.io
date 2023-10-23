@@ -131,8 +131,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Ixal" 
 
-    ![](https://geps.dev/progress/49)
-     <!--- 19/39 --->
+    ![](https://geps.dev/progress/56)
+     <!--- 22/39 --->
 
     ???+ note "Rank Ups"
          - [ ] A Designed Job
@@ -163,12 +163,12 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [x] A Long Way to the Top
 
     ???+ note "Trusted"
-         - [ ] Reach for the Starboard
+         - [x] Reach for the Starboard
          - [x] Larboard and Lodging
          - [x] Right-wing Aeronautics
          - [x] Left-wing Aeronautics
          - [x] Getting into Gear
-         - [ ] Hells-vent on the Heavens
+         - [x] Hells-vent on the Heavens
 
     ???+ note "Respected"
          - [ ] Crazy Like the Pox
