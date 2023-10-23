@@ -131,41 +131,40 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Ixal" 
 
-    ![](https://geps.dev/progress/33)
-     <!--- 13/40 --->
+    ![](https://geps.dev/progress/49)
+     <!--- 19/39 --->
 
     ???+ note "Rank Ups"
          - [ ] A Designed Job
          - [ ] The Boy from Gridania
-         - [ ] Lathe to the Party
+         - [x] Lathe to the Party
          - [x] Standing at the Helm
          - [ ] Never Be Royal
          - [ ] Spread Your Wings and Soar
 
     ???+ note "Neutral"
          - [x] Trust, but Verify
-         - [ ] Misdirected Woo
+         - [x] Misdirected Woo
          - [x] Keepering up Appearances
          - [x] Blow, Ye Winds
-         - [ ] Deliverance
 
     ???+ note "Recognized"
          - [x] Gyrodriven
          - [x] Of Rodents and Rigging
          - [x] What Evil Lurks in the Hearts of Golems
-         - [ ] One Ixal's Buzzard
-         - [ ] The Right Tools for the Tools
+         - [x] One Ixal's Buzzard
+         - [x] The Right Tools for the Tools
 
     ???+ note "Friendly"
          - [x] And Thanks for all the Fish
          - [x] An Empty Sack Cannot Hang Downright
          - [x] Hot Cross Buns
-         - [ ] Simple the Biast
-         - [ ] A Long Way to the Top
+         - [x] Simple the Biast
+         - [x] A Long Way to the Top
 
     ???+ note "Trusted"
          - [ ] Reach for the Starboard
-         - [ ] Larboard and Lodging
+         - [x] Larboard and Lodging
          - [x] Right-wing Aeronautics
          - [x] Left-wing Aeronautics
          - [x] Getting into Gear
