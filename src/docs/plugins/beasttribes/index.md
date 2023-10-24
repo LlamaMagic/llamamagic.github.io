@@ -131,15 +131,15 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Ixal" 
 
-    ![](https://geps.dev/progress/56)
-     <!--- 22/39 --->
+    ![](https://geps.dev/progress/59)
+     <!--- 23/39 --->
 
     ???+ note "Rank Ups"
          - [ ] A Designed Job
          - [ ] The Boy from Gridania
          - [x] Lathe to the Party
          - [x] Standing at the Helm
-         - [ ] Never Be Royal
+         - [x] Never Be Royal
          - [ ] Spread Your Wings and Soar
 
     ???+ note "Neutral"
