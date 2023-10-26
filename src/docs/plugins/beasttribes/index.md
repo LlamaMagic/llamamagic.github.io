@@ -59,6 +59,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 - You will get an error upon loading the Settings window if you don't have at least one DoW, DoL, and DoH gear set saved on your character.
 - If you have multiple gear sets of the same job, or more gearsets then the game has by default, your drop down menu for class selection may look unusual. The Job change code will select the first job for that class it finds in your gearsets.
+- Ixal Dailies - I recommend turning off any Plugins that have hooks that can move your character to another zone when running Ixal Dailies, especially Lisbeth related ones. A lot of the Ixal crafting sequences require you to have a buff to craft. This buff is given to you when you turn in the item right before the crafting step, but it's only a 5 minute buff. If another plugin like Market Board moves you to another zone to go sell, the buff might fall off before Lisbeth starts crafting.
 
 ### Sylphs
 
@@ -131,8 +132,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Ixal" 
 
-    ![](https://geps.dev/progress/59)
-     <!--- 23/39 --->
+    ![](https://geps.dev/progress/74)
+     <!--- 29/39 --->
 
     ???+ note "Rank Ups"
          - [ ] A Designed Job
@@ -173,9 +174,9 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Respected"
          - [ ] Crazy Like the Pox
          - [ ] A Hard Knock Life
-         - [ ] Manual Labor
-         - [ ] Leave Nothing to Waste
-         - [ ] Tanks for Nothing
+         - [x] Manual Labor
+         - [x] Leave Nothing to Waste
+         - [x] Tanks for Nothing
          - [ ] Never Steer You Wrong
 
     ???+ note "Honored"
@@ -183,9 +184,9 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [ ] Your Gil's No Good Here
          - [ ] Mining for Compliments
          - [ ] A High Wind in Ishgard
-         - [ ] Bring You Own Ectoplasm
-         - [ ] In Case of Emergency
-         - [ ] We Fly High (Squwkin')
+         - [x] Bring You Own Ectoplasm
+         - [x] In Case of Emergency
+         - [x] We Fly High (Squwkin')
 
 
 ??? note "Kobolds" 
