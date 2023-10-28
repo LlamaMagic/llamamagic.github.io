@@ -132,8 +132,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Ixal" 
 
-    ![](https://geps.dev/progress/97)
-     <!--- 38/39 --->
+    ![](https://geps.dev/progress/100)
+     <!--- 39/39 --->
 
     ???+ note "Rank Ups"
          - [x] A Designed Job
@@ -141,7 +141,7 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [x] Lathe to the Party
          - [x] Standing at the Helm
          - [x] Never Be Royal
-         - [ ] Spread Your Wings and Soar
+         - [x] Spread Your Wings and Soar
 
     ???+ note "Neutral"
          - [x] Trust, but Verify
