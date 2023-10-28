@@ -132,7 +132,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Ixal" 
 
-    ![](https://geps.dev/progress/74)
+    ![](https://geps.dev/progress/97)
      <!--- 38/39 --->
 
     ???+ note "Rank Ups"
