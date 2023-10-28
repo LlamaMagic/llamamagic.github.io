@@ -133,11 +133,11 @@ For now only some of the tribes are available to be enabled. I am in the process
 ??? note "Ixal" 
 
     ![](https://geps.dev/progress/74)
-     <!--- 29/39 --->
+     <!--- 38/39 --->
 
     ???+ note "Rank Ups"
-         - [ ] A Designed Job
-         - [ ] The Boy from Gridania
+         - [x] A Designed Job
+         - [x] The Boy from Gridania
          - [x] Lathe to the Party
          - [x] Standing at the Helm
          - [x] Never Be Royal
@@ -172,18 +172,18 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [x] Hells-vent on the Heavens
 
     ???+ note "Respected"
-         - [ ] Crazy Like the Pox
-         - [ ] A Hard Knock Life
+         - [x] Crazy Like the Pox
+         - [x] A Hard Knock Life
          - [x] Manual Labor
          - [x] Leave Nothing to Waste
          - [x] Tanks for Nothing
-         - [ ] Never Steer You Wrong
+         - [x] Never Steer You Wrong
 
     ???+ note "Honored"
-         - [ ] West for Fishing
-         - [ ] Your Gil's No Good Here
-         - [ ] Mining for Compliments
-         - [ ] A High Wind in Ishgard
+         - [x] West for Fishing
+         - [x] Your Gil's No Good Here
+         - [x] Mining for Compliments
+         - [x] A High Wind in Ishgard
          - [x] Bring You Own Ectoplasm
          - [x] In Case of Emergency
          - [x] We Fly High (Squwkin')
