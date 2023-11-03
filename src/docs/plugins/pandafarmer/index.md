@@ -103,7 +103,7 @@ For information purposes it uses these dungeons:
 
 This will join the Blunderville crossover game, attempt to win (It never will) and then leave when you're eliminated. You get 50MGF per participation so it's a good way to get passive MGF. It will stop automatically if you hit the 10k MGF cap. (I have no plans to attempt to actually win. There may be another product down the line that does the full thing.)
 
-[Platypus](https://rbplatypus.com/) has added a tab to allow you to automatically purchase the event items.
+[Platypus](https://rbplatypus.com/) has added a tab to allow you to automatically purchase the event items that's free for everyone to use.
 
 ![type:video](https://www.youtube.com/embed/fkPBmKaMyuk)
 
