@@ -18,7 +18,7 @@ This plugin is intended to be a replacement for my sponsor repo. It included far
 
 ## Installation
 
-1. Download the latest version by following the link [here](https://sts.llamamagic.net/Pandafarmer/Pandafarmer.zip).
+1. Download the latest version by following the link [here](https://sts.llamamagic.net/PandaFarmer/PandaFarmer.zip).
 2. On the `.zip` file, right click > `Properties` > `Unblock` > `Apply`.
 3. Unzip all contents into `RebornBuddy\Plugins\ ` so it looks like this:
 
