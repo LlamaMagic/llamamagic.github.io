@@ -14,6 +14,12 @@ This plugin updates on restart of RebornBuddy and doesn't need to be added to re
 - [LlamaLibrary][10] (free)
 - [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
 
+## Purchasing
+
+You can request a 72 hour trial of any of my plugins by joining our [![Discord][3]][4] and typing `/trial` on the #bot-spam channel.
+
+If you're happy with the plugin and would like to purchase it, you can do so over at the [Purchase](../../purchase/DW/purchase.md) page.
+
 ## Installation
 
 1. Download the latest version by following the link [here](https://sts.llamamagic.net/SplendorousTools/SplendorousTools.zip).

@@ -16,6 +16,12 @@ This plugin is intended to be a replacement for my sponsor repo. It included far
 - [Platypus](https://rbplatypus.com/) (free+)
 - [Osiris](https://github.com/domesticwarlord86/PandaPlugins) (free)
 
+## Purchasing
+
+You can request a 72 hour trial of any of my plugins by joining our [![Discord][3]][4] and typing `/trial` on the #bot-spam channel.
+
+If you're happy with the plugin and would like to purchase it, you can do so over at the [Purchase](../../purchase/DW/purchase.md) page. PandaFarmer is subscription based, but if you'd prefer to purchase a 30 day key, that is also an option. Contact [domesticwarlord](https://discordapp.com/channels/@me/393805918451662848/) on Discord for more details.
+
 ## Installation
 
 1. Download the latest version by following the link [here](https://sts.llamamagic.net/PandaFarmer/PandaFarmer.zip).

@@ -14,6 +14,12 @@ This plugin is designed to do the FFXIV Beast Tribe quets with as little interac
 - [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
 - [ExBuddy](https://github.com/LlamaMagic/ExBuddy) (free)
 
+## Purchasing
+
+You can request a 72 hour trial of any of my plugins by joining our [![Discord][3]][4] and typing `/trial` on the #bot-spam channel.
+
+If you're happy with the plugin and would like to purchase it, you can do so over at the [Purchase](../../purchase/DW/purchase.md) page.
+
 ## Installation
 
 1. Download the latest version by following the link [here](https://sts.llamamagic.net/BeastTribes/BeastTribes.zip).
