@@ -20,7 +20,7 @@ This plugin is intended to be a replacement for my sponsor repo. It included far
 
 You can request a 72 hour trial of any of my plugins by joining our [![Discord][3]][4] and typing `/trial` on the #bot-spam channel.
 
-If you're happy with the plugin and would like to purchase it, you can do so over at the [Purchase](../../purchase/DW/purchase.md) page. PandaFarmer is subscription based, but if you'd prefer to purchase a 30 day key, that is also an option. Contact [domesticwarlord](https://discordapp.com/channels/@me/393805918451662848/) on Discord for more details.
+If you're happy with the plugin and would like to purchase it, you can do so over at the [Purchase](../../purchase/DW/purchase.md) page. PandaFarmer is subscription based, but there's also an option to just purchase a 30 day key.
 
 ## Installation
 
