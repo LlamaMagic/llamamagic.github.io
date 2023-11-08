@@ -117,6 +117,23 @@ This will join the Blunderville crossover game, attempt to win (It never will) a
 
 These profiles will go and unlock the classes for each of the various expansions. Good for when you want to level a class with Duty Leveling.
 
+## Squadrons
+
+This tab contains a selection menu for you to be able to run Command Missions with your Grand Company squadron. Information on Command Missions can be found here: [FFXIV Console Games Wiki](https://ffxiv.consolegameswiki.com/wiki/Command_Missions)
+
+For information purposes it uses these dungeons:
+
+??? note "Dungeons"
+    - Halatali
+    - The Thousand Maws of Toto-Rak
+    - Brayflox's Longstop
+    - The Stone Vigil
+    - The Aurum Vale
+    - The Wanderer's Palace
+    - Pharos Sirius
+    - The Vault   
+
+
 
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
 [4]: https://discord.gg/CucSWEhJSZ "Discord"
