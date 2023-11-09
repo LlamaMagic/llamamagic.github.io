@@ -57,7 +57,7 @@ Here you can find multiple profiles that do various things. This tab respects th
 
 ### Duty Leveling
 
-This profile will the selected job from 1-90 using Duty Support to spam dungeons and gain experience. It'll do class quests along the way. It will respect the `Go To Barracks` and `Turn In Every Run` settings from Dungeon Farming tab. There's no way to set it so it levels multiple classes. One at a time! Select your class and hit start.
+This profile will level the selected job from 1-90 using Duty Support to spam dungeons and gain experience. It'll do class quests along the way. It will respect the `Go To Barracks` and `Turn In Every Run` settings from Dungeon Farming tab. There's no way to set it so it levels multiple classes. One at a time! Select your class and hit start.
 
 For information purposes it uses these dungeons:
 
