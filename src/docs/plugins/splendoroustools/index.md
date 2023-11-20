@@ -18,7 +18,15 @@ This plugin updates on restart of RebornBuddy and doesn't need to be added to re
 
 You can request a 72 hour trial of any of my plugins by joining our [![Discord][3]][4] and typing `/trial` on the #bot-spam channel.
 
-If you're happy with the plugin and would like to purchase it, you can do so over at the [Purchase](../../purchase/DW/purchase.md) page.
+You can purchase it using this button:
+??? tip "Purchase"
+
+     <script async
+     src="https://js.stripe.com/v3/buy-button.js">
+     </script>
+
+     <stripe-buy-button buy-button-id="buy_btn_1OEdZ6Fdsj1r46ilU72AEfQM" publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8">
+     </stripe-buy-button>
 
 ## Installation
 
