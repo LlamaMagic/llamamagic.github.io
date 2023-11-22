@@ -10,6 +10,6 @@ publishable-key="pk_live_51LiMcgBwgti2RZj6PjkJx3geXiG1E4yOuDxXWYULU2iAzHMHtCYv4o
 </stripe-pricing-table>
 
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-<stripe-pricing-table pricing-table-id="prctbl_1NdNmpBwgti2RZj6mpCx31T0"
+<stripe-pricing-table pricing-table-id="prctbl_1OF7QLBwgti2RZj6D3yoOqHA"
 publishable-key="pk_live_51LiMcgBwgti2RZj6PjkJx3geXiG1E4yOuDxXWYULU2iAzHMHtCYv4oOA7xCcQu4y1ENf6CdOAac0YQ8SxAWiASLt008Ax41p7S">
 </stripe-pricing-table>
