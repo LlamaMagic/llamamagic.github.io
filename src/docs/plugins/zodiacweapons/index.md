@@ -106,7 +106,7 @@ This tab is pretty straight forward. When you purchase the plugin you'll get a k
     * `Stone Vigil (Hard)` - This dungeon is troublesome because of the second boss `Cuca Fera` the giant turtle. The encounter requires you to use the cannons near by to damage him. You also have to kill him before his unstoppable AOE damage kills all the NPCs nearby, as their death will immediately fail the encounter. This encounter is near impossible to do solo on most classes. The only class that can really solo it successfully is Blue Mage. If you have BLU with something like Level 5 Death, you should be able to one shot him. Otherwise, queue this dungeon in a normal group to complete it. It only has to be done once per weapon. 
 
 ## Known Issues
-- When farming FATEs for the Atma stage of the quest sometimes the bot will get stuck trying to take off between FATEs. Stopping/starting the bot will typically resolve it but you are going to want to monitor the bot during this stage.
+- When farming FATEs for the Atma stage of the quest sometimes the bot will get stuck trying to take off between FATEs. Stopping/starting the bot will typically resolve it but you are going to want to monitor the bot during this stage. I have put a check box on the main screen to turn off using Lisbeth to travel during this phase. Uncheck it to use RB's built in Flightor. It's iffy, but may be better than Lisbeth
 
 
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
