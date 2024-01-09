@@ -38,26 +38,16 @@ RebornBuddy
         └── PandaFarmer.dll
 ```
 ## Dungeon Farming
-![img-small](../../img/pandafarmer1.jpg){.center .xsmall}
+![img-small](../../img/pandaFarmerDutyLeveling.png){.center .xsmall}
 
 This is the main tab of Panda Farmer and as the plugin's name insinuates you'll use it for farming dungeons. You select the class you want to use on the far left side, the dungeon you want to do on the left of the tab, and how you want to queue it on the right. Choose whether you'd like to go to your GC Barracks between runs, and if you'd like to turn in items after every run. You can click the Platypus icon to open's Platypus' settings. Once done, hit start and the bot will start it's work.
 
 [Platypus](https://rbplatypus.com/) is required for the profiles to run. You don't have to use it, but it needs to be installed. If you're seeing the `Install Platypus` button, click it and it'll install. (It may get hung trying to restart RebornBuddy. Just close RB and open it back and you should be good.)
 
-## Misc
+## Duty leveling
 ![img-small](../../img/pandafarmer2.jpg){.center .xsmall}
 
-Here you can find multiple profiles that do various things. This tab respects the Class to Use box as well as the Go To Barracks and GC Turn in settings of Dungeon Farming, if they're relevant to the particular profile being ran.
-
-### Achievements
-
-- But Somebody's Gotta Do It
-    * [But Somebody's Gotta Do It](https://ffxiv.gamerescape.com/wiki/But_Somebody%27s_Gotta_Do_It) - Farms Garuda EX for this achievement. For DRK, PLD, and WAR 2.x/3.x war-animal achievement mounts.
-    * [Tank You, <Class> III](https://ffxiv.gamerescape.com/?search=Tank+You+III&title=Special%3ASearch) - Farms Sirensong Sea for DRK, GNB, PLD, and WAR 4.x/5.x battle-animal achievement mounts.
-
-### Duty Leveling
-
-This profile will level the selected job from 1-90 using Duty Support to spam dungeons and gain experience. It'll do class quests along the way. It will respect the `Go To Barracks` and `Turn In Every Run` settings from Dungeon Farming tab. There's no way to set it so it levels multiple classes. One at a time! Select your class and hit start.
+This tab is used for leveling various jobs. Select the jobs you wish to level and hit Start. It'll unlock jobs that haven't been unlocked yet. It'll do class quests along the way. It will respect the `Go To Barracks` and `Turn In Every Run` settings from Dungeon Farming tab. The Duty Leveling tab will update with levels and classes as your character goes along to give you an at-a-glance idea of your leveling status. When the bot stops you'll get a print out in RebornBuddy's log showing you the levels gained during this session.
 
 For information purposes it uses these dungeons:
 
@@ -85,6 +75,18 @@ For information purposes it uses these dungeons:
     - 81-83 The Tower of Zot
     - 83-87 The Tower of Babil
     - 87-90 Ktisis Hyperboreia
+
+
+## Misc
+![img-small](../../img/pandafarmer2.jpg){.center .xsmall}
+
+Here you can find multiple profiles that do various things. This tab respects the Class to Use box as well as the Go To Barracks and GC Turn in settings of Dungeon Farming, if they're relevant to the particular profile being ran.
+
+### Achievements
+
+- But Somebody's Gotta Do It
+    * [But Somebody's Gotta Do It](https://ffxiv.gamerescape.com/wiki/But_Somebody%27s_Gotta_Do_It) - Farms Garuda EX for this achievement. For DRK, PLD, and WAR 2.x/3.x war-animal achievement mounts.
+    * [Tank You, <Class> III](https://ffxiv.gamerescape.com/?search=Tank+You+III&title=Special%3ASearch) - Farms Sirensong Sea for DRK, GNB, PLD, and WAR 4.x/5.x battle-animal achievement mounts.
 
 ### Grand Company Rank Up
 
@@ -133,7 +135,115 @@ For information purposes it uses these dungeons:
     - Pharos Sirius
     - The Vault   
 
+## MSQ
+![img-small](../../img/pandaFarmerMSQ.png){.center .xsmall}
 
+This tab does the Main Story Quest for the game. It is a replacement to my sponsored MSQ repo. The MSQ section of Panda Farmer is included with a monthly subscription of Panda Farmer, but for those who purchased the One-Time purchase sponsor github repo there's an optional check box in the Key tab of Panda Farmer to provide a MSQ only key. You can contact me to obtain a key if you've already paid for the repo. This will permanently unlock ONLY the MSQ section of Panda Farmer.
+
+If you are starting the MSQ process on a character that has yet to choose a Grand Company you have the option to choose which Grand Company the profile joins.
+
+It will do the following:
+* Complete all Main Story Quests from each expansion, ARR, HW, SB, ShB, and EW.
+* Complete (most) MSQ Dungeons using the Duty Support system in FFXIV.
+* Do class quests for your selected class at intervals along the way.
+* Unlocks flight support for each zone as MSQ progress allows.
+
+There are some manual steps along the way however, most of them will be duties that aren't supported by the Duty Support system or solo duties that are too complicated for the bot to do itself. The bot will stop and pop up a message to let you know when a manual step is needed.
+Here is a list of the manual steps:
+??? note "Manual MSQ Steps"
+    ### 2.x: A Realm Reborn Manual Steps
+    - Quest `Lv. 50: You Have Selected Regicide` requires the 8-player trial `Lv. 50: Thornmarch (Hard)`.
+    - Quest `Lv. 50: Lord of the Whorl` requires the 8-player trial `Lv. 50: The Whorleater (Hard)`.
+    - Quest `Lv. 50: Levin an Impression` requires the 8-player trial `Lv. 50: The Striking Tree (Hard)`.
+    - Quest `Lv. 50: The Instruments of Our Deliverance` requires the 8-player trial `Lv. 50: Akh Afah Amphitheater (Hard)`.
+    - Quest `Lv. 50: Ifrit Bleeds, We Can Kill It` requires the 8-player trial `Lv. 50: The Bowl of Embers (Hard)`.
+    - Quest `Lv. 50: In For Garuda Awakening` requires the 8-player trial `Lv. 50: The Howling Eye (Hard)`.
+    - Quest `Lv. 50: In a Titan Spot` requires the 8-player trial `Lv. 50: The Navel (Hard)`.
+    - Quest `Lv. 50: An Uninvited Ascian` requires the 8-player trial `Lv. 50: The Chrysalis`.
+    - Quest `Lv. 50: The Steps of Faith` requires a solo duty.
+    - Quest `Lv. 50: The Labyrinth of the Ancients` requires the 24-player raid `Lv. 50: Labyrinth of the Ancients`.
+    - Quest `Lv. 50: Syrcus Tower` requires the 24-player raid `Lv. 50: Syrcus Tower`.
+    - Quest `Lv. 50: The World of Darkness` requires the 24-player raid `Lv. 50: The World of Darkness`.
+
+    ### 3.x: Heavensward Manual Steps
+
+    -   Quest `Lv. 53: Lord of the Hive` requires the 8-player trial `Lv. 53: Thok ast Thok (Hard)`.
+    -   Quest `Lv. 57: Bolt, Chain, and Island` requires the 8-player trial `Lv. 57: The Limitless Blue (Hard)`.
+    -   Quest `Lv. 60: Heavensward` requires the 8-player trial `Lv. 60: The Singularity Reactor`.
+    -   Quest `Lv. 60: An End to the Song` requires the 8-player trial `Lv. 60: The Final Steps of Faith`.
+    -   Quest `Lv. 60: The Beast That Mourned at the Heart of the Mountain` requires the 8-player trial `Lv. 50: The Navel (Hard)`.
+    -   Quest `Lv. 60: Fly Free, My Pretty` requires a solo duty.
+
+    ### 4.x: Stormblood Manual Steps
+
+    -   Quest `Lv. 61: It's Probably a Trap` requires a solo duty.
+    -   Quest `Lv. 63: The Lord of the Revel` requires the 8-player trial `Lv. 63: The Pool of Tribute`.
+    -   ~~Quest `Lv. 64: A New Ruby Tithe` requires three zoomie-zooms.~~
+    -   Quest `Lv. 65: In the Footsteps of Bardam the Brave` requires the 4-player dungeon `Lv. 65: Bardam's Mettle`.
+    -   ~~Quest `Lv. 66: The Labors of Magnai` requires manually gathering underwater Swordgrass.~~
+    -   Quest `Lv. 66: Naadam` requires a solo duty.
+    -   ~~Quest `Lv. 67: The Die Is Cast` requires the 4-player dungeon `Lv. 67: Doma Castle`.~~
+    -   Quest `Lv. 67: The Lady of Bliss` requires the 8-player trial `Lv. 67: Emanation`.
+    -   ~~Quest `Lv. 69: The Price of Freedom` requires the 4-player dungeon `Lv. 69: Castrum Abania`.~~
+    -   Quest `Lv. 69: The Key to Victory` requires a solo duty.
+    -   Quest `Lv. 69: The Resonant` requires a solo duty.
+    -   ~~Quest `Lv. 70: Stormblood` requires the 4-player dungeon `Lv. 70: Ala Mhigo`.~~
+    -   Quest `Lv. 70: Stormblood` requires the 8-player trial `Lv. 70: The Royal Menagerie`.
+    -   Quest `Lv. 70: The Mad King's Trove` requires swimming underwater to unlock the dungeon.
+    -   ~~Quest `Lv. 70: The Mad King's Trove` requires the 4-player dungeon `Lv. 70: The Drowned City of Skalla`.~~
+    -   ~~Quest `Lv. 70: Securing the Saltery` requires two zoomie-zooms.~~
+    -   Quest `Lv. 70: Return of the Bull` requires a solo duty.
+    -   Quest `Lv. 70: Hope on the Waves` requires a solo duty.
+    -   Quest `Lv. 70: The Primary Agreement` requires the 8-player trial `Lv. 70: Castrum Fluminis`.
+    -   Quest `Lv. 70: Emissary of the Dawn` requires a solo duty.
+    -   ~~Quest `Lv. 70: Feel the Burn` requires the 4-player dungeon `Lv. 70: The Burn`.~~
+    -   Quest `Lv. 70: The Will of the Moon` requires a solo duty.
+    -   ~~Quest `Lv. 70: The Face of War` requires the 4-player dungeon `Lv. 70: The Ghimlyt Dark`.~~
+    -   Quest `Lv. 70: A Requiem for Heroes` requires a solo duty.
+
+    ### 5.x: Shadowbringers Manual Steps
+
+    -   Quest `Lv. 70: A Fickle Existence` requires a zoomie-zoom.
+    -   Quest `Lv. 70: City of the Mord` requires a zoomie-zoom.
+    -   Quest `Lv. 73: Acht-la Ormh Inn` requires the 8-player trial `Lv. 73: The Dancing Plague`.
+    -   Quest `Lv. 74: A Little Faith` requires a zoomie-zoom.
+    -   Quest `Lv. 74: A Beeautiful Plan` requires a zoomie-zoom.
+    -   Quest `Lv. 77: Full Steam Ahead` requires a solo duty.
+    -   Quest `Lv. 78: The View from Above` requires a zoomie-zoom.
+    -   Quest `Lv. 78: Meet the Tholls` requires two zoomie-zooms.
+    -   Quest `Lv. 79: Extinguishing the Last Light` requires the 8-player trial `Lv. 79: The Crown of the Immaculate`.
+    -   Quest `Lv. 79: City of the Ancients` requires a zoomie-zoom.
+    -   Quest `Lv. 80: Shadowbringers` requires the 4-player dungeon `Lv. 80: Amaurot`.
+    -   Quest `Lv. 80: Shadowbringers` requires the 8-player trial `Lv. 80: The Dying Gasp`.
+    -   Quest `Lv. 80: A Grand Adventure` requires the 4-player dungeon `Lv. 80: The Grand Cosmos`.
+    -   Quest `Lv. 80: Finding Good Help` requires a zoomie-zoom.
+    -   Quest `Lv. 80: Vows of Virtue, Deeds of Cruelty` requires a solo duty.
+    -   Quest `Lv. 80: The Converging Light` requires the 4-player dungeon `Lv. 80: The Heroes' Gauntlet`.
+    -   Quest `Lv. 80: Hope's Confluence` requires the 8-player trial `Lv. 80: The Seat of Sacrifice`.
+    -   Quest `Lv. 80: Like Master, Like Pupil` requires the 4-player dungeon `Lv. 80: Matoya's Relict`.
+    -   Quest `Lv. 80: The Great Ship Vylbrand` requires a solo duty.
+    -   Quest `Lv. 80: The Flames of War` requires the 4-player dungeon `Lv. 80: Paglth'an`.
+    -   Quest `Lv. 80: Death Unto Dawn` requires a solo duty.
+
+    ### 6.x: Endwalker Manual Steps
+
+    -   Quest `Lv. 80: Deeper into the Maze` requires a zoomie-zoom.
+    -   Quest `Lv. 82: A Frosty Reception` requires a partial solo duty.
+    -   Quest `Lv. 83: In from the Cold` requires a solo duty.
+    -   Quest `Lv. 83: The Martyr` requires the 8-player trial `Lv. 83: The Dark Inside`.
+    -   Quest `Lv. 84: Setting Things Straight` requires a zoomie-zoom.
+    -   Quest `Lv. 88: As the Heavens Burn` requires a solo duty.
+    -   Quest `Lv. 88: Wise Guides` requires a zoomie-zoom.
+    -   Quest `Lv. 89: Her Children, One and All` requires the 4-player dungeon `Lv. 89: The Aitiascope Inside`.
+    -   Quest `Lv. 89: Her Children, One and All` requires the 8-player trial `Lv. 89: The Mothercrystal`.
+    -   Quest `Lv. 90: ┣┨̈//̈ No┨ΦounΔ•••` requires a zoomie-zoom.
+    -   Quest `Lv. 90: Hello, World` requires a zoomie-zoom.
+    -   ~~Quest `Lv. 90: Endwalker` requires the 4-player dungeon `Lv. 90: The Dead Ends`.~~
+    -   Quest `Lv. 90: Endwalker` requires the 8-player trial `Lv. 90: The Final Day`.
+    -   Quest `Lv. 90: Endwalker` requires a solo duty.
+    -   Quest `Lv. 90: Alzadaal's Legacy` requires the 4-player dungeon `Lv. 90: Alzadaal's Legacy`.
+    -   ~~Quest `Lv. 90: In Search of Azdaja` requires the 4-player dungeon `Lv. 90: The Fell Court of Troia`.~~
+    -   Quest `Lv. 90: The Wind Rises` requires the 8-player trial `Lv. 90: The Storm's Crown`.
 
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
 [4]: https://discord.gg/CucSWEhJSZ "Discord"
