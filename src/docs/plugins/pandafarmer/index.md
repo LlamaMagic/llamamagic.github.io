@@ -38,14 +38,16 @@ RebornBuddy
         └── PandaFarmer.dll
 ```
 ## Dungeon Farming
-![img-small](../../img/pandaFarmerDutyLeveling.png){.center .xsmall}
+![img-small](../../img/pandafarmer1.jpg){.center .xsmall}
 
 This is the main tab of Panda Farmer and as the plugin's name insinuates you'll use it for farming dungeons. You select the class you want to use on the far left side, the dungeon you want to do on the left of the tab, and how you want to queue it on the right. Choose whether you'd like to go to your GC Barracks between runs, and if you'd like to turn in items after every run. You can click the Platypus icon to open's Platypus' settings. Once done, hit start and the bot will start it's work.
+
+Some of the dungeons perform better with the bot than others. In general the ones used for farming I spend more time on getting perfected. The ones that are generally only completed once for MSQ are likely just "good enough." Meaning they may die a few times but will eventually complete the dungeon.
 
 [Platypus](https://rbplatypus.com/) is required for the profiles to run. You don't have to use it, but it needs to be installed. If you're seeing the `Install Platypus` button, click it and it'll install. (It may get hung trying to restart RebornBuddy. Just close RB and open it back and you should be good.)
 
 ## Duty leveling
-![img-small](../../img/pandafarmer2.jpg){.center .xsmall}
+![img-small](../../img/pandaFarmerDutyLeveling.png){.center .xsmall}
 
 This tab is used for leveling various jobs. Select the jobs you wish to level and hit Start. It'll unlock jobs that haven't been unlocked yet. It'll do class quests along the way. It will respect the `Go To Barracks` and `Turn In Every Run` settings from Dungeon Farming tab. The Duty Leveling tab will update with levels and classes as your character goes along to give you an at-a-glance idea of your leveling status. When the bot stops you'll get a print out in RebornBuddy's log showing you the levels gained during this session.
 
@@ -84,9 +86,9 @@ Here you can find multiple profiles that do various things. This tab respects th
 
 ### Achievements
 
-- But Somebody's Gotta Do It
-    * [But Somebody's Gotta Do It](https://ffxiv.gamerescape.com/wiki/But_Somebody%27s_Gotta_Do_It) - Farms Garuda EX for this achievement. For DRK, PLD, and WAR 2.x/3.x war-animal achievement mounts.
-    * [Tank You, <Class> III](https://ffxiv.gamerescape.com/?search=Tank+You+III&title=Special%3ASearch) - Farms Sirensong Sea for DRK, GNB, PLD, and WAR 4.x/5.x battle-animal achievement mounts.
+- [But Somebody's Gotta Do It](https://ffxiv.gamerescape.com/wiki/But_Somebody%27s_Gotta_Do_It) - Farms Garuda EX for this achievement. For DRK, PLD, and WAR 2.x/3.x war-animal achievement mounts.
+- [Tank You, <Class> III](https://ffxiv.gamerescape.com/?search=Tank+You+III&title=Special%3ASearch) - Farms Sirensong Sea for DRK, GNB, PLD, and WAR 4.x/5.x battle-animal achievement mounts. (Note there is a 100 duty limit per day imposed by the game. If you're running this continually back to back you will hit the limit and won't be able to queue until the daily reset.)
+- [All The More Region To Leve VI](hhttps://na.finalfantasyxiv.com/lodestone/playguide/db/achievement/7a22e46cfae/) - This profile will farm Leves on Whitebrim over and over until you run out of Leve allowances. Used to gain the title Lord/Lady Protector.
 
 ### Grand Company Rank Up
 
@@ -119,6 +121,14 @@ This will join the Blunderville crossover game, attempt to win (It never will) a
 
 These profiles will go and unlock the classes for each of the various expansions. Good for when you want to level a class with Duty Leveling.
 
+### Current Class Quests
+
+This profile will go and do the class quests for whatever job you set on the job select drop down.
+
+### Side Quests - La Noscea
+
+This profile will go and do every side quest available in the La Noscea region
+
 ## Squadrons
 
 This tab contains a selection menu for you to be able to run Command Missions with your Grand Company squadron. Information on Command Missions can be found here: [FFXIV Console Games Wiki](https://ffxiv.consolegameswiki.com/wiki/Command_Missions)
@@ -143,10 +153,11 @@ This tab does the Main Story Quest for the game. It is a replacement to my spons
 If you are starting the MSQ process on a character that has yet to choose a Grand Company you have the option to choose which Grand Company the profile joins.
 
 It will do the following:
-* Complete all Main Story Quests from each expansion, ARR, HW, SB, ShB, and EW.
-* Complete (most) MSQ Dungeons using the Duty Support system in FFXIV.
-* Do class quests for your selected class at intervals along the way.
-* Unlocks flight support for each zone as MSQ progress allows.
+
+- Complete all Main Story Quests from each expansion, A Realm Reborn (2.x), Heavensward (3.x), Stormblood (4.x), Shadowbringers (5.x), and Endwalker (6.x).
+- Complete (most) MSQ Dungeons using the Duty Support system in FFXIV.
+- Do class quests for your selected class at intervals along the way.
+- Unlocks flight support for each zone as MSQ progress allows.
 
 There are some manual steps along the way however, most of them will be duties that aren't supported by the Duty Support system or solo duties that are too complicated for the bot to do itself. The bot will stop and pop up a message to let you know when a manual step is needed.
 Here is a list of the manual steps:
