@@ -14,6 +14,7 @@ This plugin updates on restart of RebornBuddy and doesn't need to be added to re
 - [Lisbeth][9] with active license (paid)
 - [LlamaLibrary][10] (free)
 - [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
+- [Platypus](https://rbplatypus.com/) (free+)
 - [RBTrust](https://github.com/LlamaMagic/RBtrust) (free)
 - [Osiris](https://github.com/domesticwarlord86/PandaPlugins) (free)
 
@@ -40,7 +41,6 @@ You can purchase it using this button:
 RebornBuddy
 └── Plugins
     └── AnimaWeapons
-        ├── OrderBot Tags
         ├── AnimaWeaponsLoader.cs
         ├── AnimaWeaponsSettings.cs
         ├── Version.txt
@@ -59,46 +59,36 @@ I also recommend using my PandaPlugins set found here: [PandaPlugins](https://gi
 
 ## Usage
 
-1. Click the Plugins tab in the RebornBuddy window
-2. Select Anima Weapons from the Plugin list
-    * You may notice that Enabling the Anima Weapons plugin gives you two quick references buttons on your main RB window.
-3. Click Settings
-![img-small](../../img/Anima1.png){.center .xsmall}
-4. GC Turn In settings
-    * `Enabled` - Turn this on if you'd like the bot to turn in gear in your inventory for Grand Company seals. It will turn in any item in your inventory that is eligible. Inventory ONLY, not armory or anything else.
-    * `Turn In Every Run?` & `Free Slots` - Assuming you enabled GC Turn In, would you like it to turn in after every run, or at a set amount of free inventory slots. One or the other, not both. If `Turn In Every Run` is checked, Free Slots is ignored.
-    * `Buy Item Enabled`, `Seals To Buy`, `GC Item` & `Qty` - If you turn on GC Turn In you're going to cap out on seals while running this. Capping out on seals will cause GC Turn In to break and stop the bot. To prevent that, you'll want to buy items to keep it from capping out. Enable this feature by checking `Buy Item Enabled` then select what item you want to buy in the drop down, and set how many you want to buy in `Qty` (Setting 999 will cause it to buy as many as you can afford). `Seals to buy` controls when GC Buy Item is triggered. I set it to about 20k from my cap, so that I never risk hitting the cap
-5. Relic Class settings
-    * `Relic Class?` - This is what classes's relic you are after.
-    * `Go To Barracks` - This will have your character go to your Grand Company's Barrack chamber between dungeon runs.
-6. Farm Class settings
+![img-small](../../img/Anima2.png){.center .xsmall}
+
+1. Relic Class settings
+    * `Class to use` - These are the classes who's relics we will be obtaining.
+2. Farm Class settings
     * `Fate Farm Class` - During the `Soul Without Life` stage of the relic quest, you will be farming FATEs in Heavensward zones to get elemental crystal drops. These are around level 60 FATEs and can be done on any class. I typically recommend something good at soloing like PLD or RDM.
     * `Poetics Farm Class` - At various points in the relic quest you will need to farm Allagan Tomestones of Poetic. The plugin will run `Keeper of the Lake` with a Duty Support squad to get Tomes. It's a level 50 dungeon and can be done on any class.
     * `GC Farm Class` - At various points in the relic quest you will need to farm Greater Company Seals. The plugin will run `The Sirensong Sea` uncapped to get gear to turn in at your grand company for seals. It's a level 50 dungeon and can be done on any class.
-7. Here you will see your current farming status. It updates every 30 seconds and acts as a good 'at a glance' feature to let you know what the bot is doing.
-![img-small](../../img/Anima2.png){.center .xsmall}
-8. Once you have the settings the way you like, hit Start.
+3. * `Go To Barracks` - Rest in your Grand Company barracks between dungeon farming runs.
+4. * `Run A9S` by default during the `Born Again Anima` stage of the quest the plugin will run Brayflox Longstop Hard for light farming. This option has it run Alexander - The Eyes of the Curator (Savage) instead. A9S is MUCH faster, but requires you to have it unlocked.
+
+
+
+
+3. Once you have the settings the way you like, hit Start.
 
 ### Farming Tab
 
 ![img-small](../../img/Anima3.png){.center .xsmall}
 
 By default, using the normal settings tab and start button will obtain the relic for the selected class from start to finish, doing everything required. This tab is for people who like to do all their farming ahead of time. You can set it for how many you want, and then hit start for that tab. For instance if you wanted to go ahead and get all the elemental crystals for every class, you can put in 26 and hit start for the Animated Stage Farm and it will gather 26 of the crystals. The Track check box in each category makes the status bar at the bottom track that farming cycle.
-
-### Misc Settings
-
-![img-small](../../img/Anima4.png){.center .xsmall}
-
-   * `Open Coffers` This option is used to open any coffers in your inventory. Mostly used for when farming Material Containers with GC Seals. It will also open any kind of class specific coffers you're holding too, so keep that in mind. This does not affect opening treasure chests in dungeons.
-   * `Use Unlockables` This will cause the bot use any not-learned unlockable you have in your inventory. Like minions, orchestration rolls or mounts. Good for when opening material containers.
-   * `Sell Cheap Pets` this is mainly for my own use. It sells a few set pets that I have hard coded into the plugin. Ones that usually sell for less than 1000 gil on the MB.
-   * `Run A9S` by default during the `Born Again Anima` stage of the quest the plugin will run Brayflox Longstop Hard for light farming. This option has it run Alexander - The Eyes of the Curator (Savage) instead. A9S is MUCH faster, but requires you to have it unlocked.
+   
 
 ### Key Tab
 
 ![img-small](../../img/Anima5.png){.center .xsmall}
 
 This tab is pretty straight forward. When you purchase the plugin you'll get a key sent to the email used when making the purchase. Take that key, put it in the box, hit `Verify`. That'll enable the plugin. Job done.
+
+The `Reset ID` button is to be used if you've reached the machine cap for your key and would like to reset it to defaults. You can only use this button once per key. If you need to reset the ID after that please contact me.
 
 ## Current Progress
 
@@ -147,6 +137,7 @@ Limitless Blue, Containment Bay P1T6, S1T7, and Z1T9 are all iffy. You should be
 
 ## Known Issues
 - If you have multiple gear sets of the same job, or more gearsets then the game has by default, your drop down menu for class selection may look unusual. The Job change code will select the first job for that class it finds in your gearsets.
+- The progress bar at the bottom of the window does not work as of now.
 
 
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
