@@ -1,4 +1,4 @@
-# Advertise
+# LlamaRP
 
 ## Advertise
 RP venue advertising botbase does world hopping /shout ads in the 3 major towns along with keeping a party finder up and the option to do in venue announcements 
@@ -9,6 +9,26 @@ You can choose to enable world hopping /shout ads, party finder ads, and/or in v
 
 All options work on the idea of *before* and *during* time. Before is before the venue open time and during is from open until open + length.
 Each option has spots to put pf/shout/announcements that will be used during those set times. These will be shuffled and repeated.
+
+## Installation
+
+1. Download the latest version by following the link [here](https://llamarp.llamaserver.com/LlamaRP.zip).
+2. On the `.zip` file, right click > `Properties` > `Unblock` > `Apply`.
+3. Unzip all contents into `RebornBuddy\BotBases\` so it looks like this:
+
+```
+RebornBuddy
+└── BotBases
+    └── LlamaRP
+        ├── LlamaAuth.dll
+        ├── LlamaRP.dll
+        ├── LlamaRPLoader.cs
+        ├── Microsoft.Bcl.AsyncInterfaces.dll
+        ├── PropertyTools.Wpf.dll
+        ├── Version.txt
+        ├── Wpf.Ui.dll
+        └── PropertyTools.dll
+```
 
 ## Party Finder
 Keep a party finder constantly up for the duration of the venue open time as well as before open if that option is selected.

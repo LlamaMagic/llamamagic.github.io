@@ -27,7 +27,7 @@ nav:
         - purchase/DW/purchase.md 
   - Wiki:
     - BotBases:
-        - Advertise:
+        - LamaRP (Advertise):
             - botbases/advertise/index.md     
         - Company Workshop:
             - botbases/companyworkshop/index.md               
@@ -41,7 +41,9 @@ nav:
         - Anima Weapons:           
             - plugins/animaweapons/index.md     
         - Beast Tribes:           
-            - plugins/beasttribes/index.md             
+            - plugins/beasttribes/index.md
+        - Llama Cheats:           
+            - plugins/llamacheats/index.md  
         - Manderville Weapons:           
             - plugins/mandervilleweapons/index.md        
         - Panda Farmer:           
