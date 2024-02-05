@@ -29,14 +29,14 @@ nav:
     - BotBases:
         - Advertise:
             - botbases/advertise/index.md     
+        - Company Workshop:
+            - botbases/companyworkshop/index.md               
         - Island Gatherer:
             - botbases/islandgatherer/index.md              
         - LlamaMarket:
             - botbases/llamamarket/index.md
             - botbases/llamamarket/selling.md
             - botbases/llamamarket/buying.md    
-        - Trading Post:
-            - botbases/tradingpost/index.md   
     - Plugins:   
         - Anima Weapons:           
             - plugins/animaweapons/index.md     
