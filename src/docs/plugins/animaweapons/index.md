@@ -68,12 +68,9 @@ I also recommend using my PandaPlugins set found here: [PandaPlugins](https://gi
     * `Poetics Farm Class` - At various points in the relic quest you will need to farm Allagan Tomestones of Poetic. The plugin will run `Keeper of the Lake` with a Duty Support squad to get Tomes. It's a level 50 dungeon and can be done on any class.
     * `GC Farm Class` - At various points in the relic quest you will need to farm Greater Company Seals. The plugin will run `The Sirensong Sea` uncapped to get gear to turn in at your grand company for seals. It's a level 50 dungeon and can be done on any class.
 3. * `Go To Barracks` - Rest in your Grand Company barracks between dungeon farming runs.
-4. * `Run A9S` by default during the `Born Again Anima` stage of the quest the plugin will run Brayflox Longstop Hard for light farming. This option has it run Alexander - The Eyes of the Curator (Savage) instead. A9S is MUCH faster, but requires you to have it unlocked.
-
-
-
-
-3. Once you have the settings the way you like, hit Start.
+4. * `Run A9S` - By default during the `Born Again Anima` stage of the quest the plugin will run Brayflox Longstop Hard for light farming. This option has it run Alexander - The Eyes of the Curator (Savage) instead. A9S is MUCH faster, but requires you to have it unlocked.
+5. `GC Turn In` - Anima Weapons uses RedWine's [Platypus](https://rbplatypus.com/) botbase to handle Expert Turn In at the grandcompany. It has many inventory and quality of life features and I highly recommend it and configuring it. The button in Anima Weapon's settings will install Platypus for you if you don't already have it. Clicking on the Platypus icon will load it's settings for quick access. 
+6. Once you have the settings the way you like, hit `Start`.
 
 ### Farming Tab
 
