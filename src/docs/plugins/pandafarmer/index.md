@@ -91,6 +91,17 @@ Here you can find multiple profiles that do various things. This tab respects th
 - [All The More Region To Leve VI](hhttps://na.finalfantasyxiv.com/lodestone/playguide/db/achievement/7a22e46cfae/) - This profile will farm Leves on Whitebrim over and over until you run out of Leve allowances. Used to gain the title Lord/Lady Protector.
 - [Straight B's](https://na.finalfantasyxiv.com/lodestone/playguide/db/achievement/23b97738283/) - This profile will farm B rank hunt mobs to complete this achievement.
 
+### AutoParty
+
+This is designed to be a power leveling tool for people who are leveling alts on a second account. You start AutoParty on your high level character and it will wait for a party invite, once getting the party invite it will wait for a dungeon queue, join the dungeon, and then load the profile for the dungeon. Effectively getting your lower level character an automatic power level for the dungeons the bot can't do automatically.
+
+To use this feature follow these steps:
+1. On your high level character open Panda Farmer > Misc > AutoParty and hit Start. You will see ` [AutoParty] Waiting on party invite...` in the log of RB, that's when you know it's ready.
+2. On your low level character that needs help running a dungeon, send your high level character a party invite. 
+3. AutoParty will automatically accept the party invite.
+4. On your low level character select the Duty that needs to be done in Duty Finder and make sure to queue as Unrestricted Party.
+5. Once inside the dungeon, AutoParty will automatically load the profile for that zone and complete the dungeon. Once done, AutoParty will leave the dungeon and wait for the next dungeon to pop.
+
 ### Grand Company Rank Up
 
 This profile will rank you Grand Company up to Second Lieutenant which is where you obtain your squadrons. Those can't be done by the bot. It will use Expert Turn ins to farm seals, using an appropriate level dungeon to farm dungeon gear to turn in. It will respect the `Go To Barracks` setting from Dungeon Farming tab. While you can do this at lower levels, I don't recommend doing it any lower than 60 as you have to do `The Aurum Vale` and `Dzemael Darkhold` for the GC quests in order to rank up and these dungeons are 47 and 50 respectively. They do not have Duty Support, so the profile can only attempt them unrestricted.
