@@ -58,8 +58,8 @@ For information purposes it uses these dungeons:
     - 15-16 Sastasha
     - 16-17 Tam-Tara Deepcroft
     - 17-24 The Copperbell Mines
-    - 24-28 The Thousand Maws of Tot-Rak
-    - 28-32 Haukke Manor
+    - 24-32 The Thousand Maws of Tot-Rak
+    ~~- 28-32 Haukke Manor~~ (There's a targetting issue with Magitek that causes this dungeon to get stuck a lot, removing until it can be fixed.)
     - 32-41 Brayflox's Longstop
     - 41-50 The Stone Vigil
     - 50-53 Keeper of the Lake
@@ -89,6 +89,7 @@ Here you can find multiple profiles that do various things. This tab respects th
 - [But Somebody's Gotta Do It](https://ffxiv.gamerescape.com/wiki/But_Somebody%27s_Gotta_Do_It) - Farms Garuda EX for this achievement. For DRK, PLD, and WAR 2.x/3.x war-animal achievement mounts.
 - [Tank You, <Class> III](https://ffxiv.gamerescape.com/?search=Tank+You+III&title=Special%3ASearch) - Farms Sirensong Sea for DRK, GNB, PLD, and WAR 4.x/5.x battle-animal achievement mounts. (Note there is a 100 duty limit per day imposed by the game. If you're running this continually back to back you will hit the limit and won't be able to queue until the daily reset.)
 - [All The More Region To Leve VI](hhttps://na.finalfantasyxiv.com/lodestone/playguide/db/achievement/7a22e46cfae/) - This profile will farm Leves on Whitebrim over and over until you run out of Leve allowances. Used to gain the title Lord/Lady Protector.
+- [Straight B's](https://na.finalfantasyxiv.com/lodestone/playguide/db/achievement/23b97738283/) - This profile will farm B rank hunt mobs to complete this achievement.
 
 ### Grand Company Rank Up
 
@@ -109,14 +110,6 @@ For information purposes it uses these dungeons:
     - Character Level 16: The Tam-Tara Deepcroft (Duty Support) 
     - Character Level 15: Saastasha (Duty Support) 
 
-### Blunderville - Fall Guys Crossover
-
-This will join the Blunderville crossover game, attempt to win (It never will) and then leave when you're eliminated. You get 50MGF per participation so it's a good way to get passive MGF. It will stop automatically if you hit the 10k MGF cap. (I have no plans to attempt to actually win. There may be another product down the line that does the full thing.)
-
-[Platypus](https://rbplatypus.com/) has added a tab to allow you to automatically purchase the event items that's free for everyone to use.
-
-![type:video](https://www.youtube.com/embed/fkPBmKaMyuk)
-
 ### Unlock Classes
 
 These profiles will go and unlock the classes for each of the various expansions. Good for when you want to level a class with Duty Leveling.
@@ -125,9 +118,16 @@ These profiles will go and unlock the classes for each of the various expansions
 
 This profile will go and do the class quests for whatever job you set on the job select drop down.
 
-### Side Quests - La Noscea
+### Side Quests
 
-This profile will go and do every side quest available in the La Noscea region
+These profiles will complete the available side quests in each specific region. I eventually intend to have all regions covered, but it's slow going.
+
+Currently available: `La Noscea` `Thanalan`
+
+### Guildheist
+
+This profile will farm the Guildheist `Under The Armor` to allow to complete the guildheist achievements. It does NOT do the guildheists prior to this one, so it much already be unlocked.
+
 
 ## Squadrons
 
