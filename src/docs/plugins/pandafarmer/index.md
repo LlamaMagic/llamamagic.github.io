@@ -44,6 +44,14 @@ This is the main tab of Panda Farmer and as the plugin's name insinuates you'll 
 
 Some of the dungeons perform better with the bot than others. In general the ones used for farming I spend more time on getting perfected. The ones that are generally only completed once for MSQ are likely just "good enough." Meaning they may die a few times but will eventually complete the dungeon.
 
+As some of these profiles have more effort put into them versus the others I've started using a star system that will display to tell you the quality of the profiles.
+
+- ★★★★★ - Five star profiles are the best of the best. These profiles I would trust to run AFK and even in a group of live people.
+- ★★★★☆ - Four star profiles have a lot of effort into them. These profiles have working mechanics for most boss fights and will work well with NPCs. I would not recommend using them in a live party.
+- ★★★☆☆ - Three star profiles are "good enough." These are profiles that I put enough effort into them so that you can use them to complete MSQ at least once, and then basically abandon. You can usually farm these reliably as long as you do them unrestricted.
+- ★★☆☆☆ - Two star profiles are good enough to be used unrestricted, but likely have no custom programming for boss mechanics. As long as you're max level though you should be able to farm them relatively well.
+- ★☆☆☆☆ - One star profiles are profiles that work... sometimes. They've got glaring issues that I either can't, or haven't fixed and are usually only used when you really don't want to do the duty yourself but don't mind dying a million times.
+
 [Platypus](https://rbplatypus.com/) is required for the profiles to run. You don't have to use it, but it needs to be installed. If you're seeing the `Install Platypus` button, click it and it'll install. (It may get hung trying to restart RebornBuddy. Just close RB and open it back and you should be good.)
 
 ## Duty leveling
@@ -96,10 +104,12 @@ Here you can find multiple profiles that do various things. This tab respects th
 This is designed to be a power leveling tool for people who are leveling alts on a second account. You start AutoParty on your high level character and it will wait for a party invite, once getting the party invite it will wait for a dungeon queue, join the dungeon, and then load the profile for the dungeon. Effectively getting your lower level character an automatic power level for the dungeons the bot can't do automatically.
 
 To use this feature follow these steps:
-1. On your high level character open Panda Farmer > Misc > AutoParty and hit Start. You will see ` [AutoParty] Waiting on party invite...` in the log of RB, that's when you know it's ready.
-2. On your low level character that needs help running a dungeon, send your high level character a party invite. 
+
+1. On your low level character in the MSQ tab of Panda Farmer check the box for `Use AutoParty` and enter the name of your high level character in the text box that appears. (Alternatively you can send the party invite yourself but it won't be automated without the name.)
+1. On your high level character make sure you're on the same server as your low level character, open Panda Farmer > Misc > AutoParty and hit Start. Your character will teleport to Aelport and you will see ` [AutoParty] Waiting on party invite...` in the log of RB, that's when you know it's ready.
+2. On your low level character start running the MSQ profile. When the profile gets to a point that it can use the AutoParty carry it will teleport to Aelport and invite your carry character. (Alternatively you can send the party invite yourself.)
 3. AutoParty will automatically accept the party invite.
-4. On your low level character select the Duty that needs to be done in Duty Finder and make sure to queue as Unrestricted Party.
+4. If you're not using the MSQ profile, on your low level character select the Duty that needs to be done in Duty Finder and make sure to queue as Unrestricted Party.
 5. Once inside the dungeon, AutoParty will automatically load the profile for that zone and complete the dungeon. Once done, AutoParty will leave the dungeon and wait for the next dungeon to pop.
 
 ### Grand Company Rank Up
