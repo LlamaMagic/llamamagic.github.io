@@ -59,7 +59,7 @@ For information purposes it uses these dungeons:
     - 16-17 Tam-Tara Deepcroft
     - 17-24 The Copperbell Mines
     - 24-32 The Thousand Maws of Tot-Rak
-    ~~- 28-32 Haukke Manor~~ (There's a targetting issue with Magitek that causes this dungeon to get stuck a lot, removing until it can be fixed.)
+    - ~~28-32 Haukke Manor~~ (There's a targetting issue with Magitek that causes this dungeon to get stuck a lot, removing until it can be fixed.)
     - 32-41 Brayflox's Longstop
     - 41-50 The Stone Vigil
     - 50-53 Keeper of the Lake
