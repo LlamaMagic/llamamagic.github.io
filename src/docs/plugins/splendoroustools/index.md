@@ -75,6 +75,7 @@ This tab is pretty straight forward. When you purchase the plugin you'll get a k
 - When doing DOH classes, make sure you turn off General > Enable Trash Cleanup in Lisbeth settings, otherwise it will trash the components.
 - When doing Fisher, assign your current relic tool to your gear set. Lisbeth currently doesn't equip the correct pole when attempting to get the fish and it must be equipped to gather then.
 - If you have multiple gear sets of the same job, or more gearsets then the game has by default, your drop down menu for class selection may look unusual. The Job change code will select the first job for that class it finds in your gearsets.
+- There is currently an issue in Lisbeth with fishing up `Ronkan Bullion` needed for the `A Tool For the Ages` stage of the Fisher relic. As such I've put in a work around to do a fishing expedition in the desired area that SHOULD catch the fish, but will run into issues with inventory. Make sure to keep an eye on it.
 
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
 [4]: https://discord.gg/CucSWEhJSZ "Discord"
