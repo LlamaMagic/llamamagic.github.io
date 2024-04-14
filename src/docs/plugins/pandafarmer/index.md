@@ -158,7 +158,7 @@ This will join the Blunderville crossover game, attempt to win (It never will) a
 ![type:video](https://www.youtube.com/embed/fkPBmKaMyuk)
 
 
-## Squadrons
+### Squadrons
 
 This tab contains a selection menu for you to be able to run Command Missions with your Grand Company squadron. Information on Command Missions can be found here: [FFXIV Console Games Wiki](https://ffxiv.consolegameswiki.com/wiki/Command_Missions)
 
