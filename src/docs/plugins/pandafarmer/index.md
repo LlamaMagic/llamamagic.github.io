@@ -149,6 +149,14 @@ Currently available: `La Noscea` `Thanalan`
 
 This profile will farm the Guildheist `Under The Armor` to allow to complete the guildheist achievements. It does NOT do the guildheists prior to this one, so it much already be unlocked.
 
+### Blunderville - Fall Guys Crossover
+
+This will join the Blunderville crossover game, attempt to win (It never will) and then leave when you're eliminated. You get 50MGF per participation so it's a good way to get passive MGF. It will stop automatically if you hit the 10k MGF cap. (I have no plans to attempt to actually win. There may be another product down the line that does the full thing.)
+
+[Platypus](https://rbplatypus.com/) has added a tab to allow you to automatically purchase the event items.
+
+![type:video](https://www.youtube.com/embed/fkPBmKaMyuk)
+
 
 ## Squadrons
 
@@ -165,6 +173,7 @@ For information purposes it uses these dungeons:
     - The Wanderer's Palace
     - Pharos Sirius
     - The Vault   
+
 
 ## MSQ
 ![img-small](../../img/pandaFarmerMSQ.png){.center .xsmall}
