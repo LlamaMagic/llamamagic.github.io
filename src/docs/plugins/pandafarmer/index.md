@@ -178,7 +178,7 @@ For information purposes it uses these dungeons:
 ## MSQ
 ![img-small](../../img/pandaFarmerMSQ.png){.center .xsmall}
 
-This tab does the Main Story Quest for the game. It is a replacement to my sponsored MSQ repo. The MSQ section of Panda Farmer is included with a monthly subscription of Panda Farmer, but for those who purchased the One-Time purchase sponsor github repo there's an optional check box in the Key tab of Panda Farmer to provide a MSQ only key. You can contact me to obtain a key if you've already paid for the repo. This will permanently unlock ONLY the MSQ section of Panda Farmer.
+This tab does the Main Story Quest for the game. It is a replacement to my sponsored MSQ repo. The MSQ section of Panda Farmer is included with a monthly subscription of Panda Farmer. If you have a Panda Farmer MSQ key you can use it to unlock Panda Farmer MSQ up to the end of Endwalker. Anything 7.0+ requires a subscription.
 
 If you are starting the MSQ process on a character that has yet to choose a Grand Company you have the option to choose which Grand Company the profile joins.
 
