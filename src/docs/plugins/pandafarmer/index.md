@@ -174,6 +174,10 @@ For information purposes it uses these dungeons:
     - Pharos Sirius
     - The Vault   
 
+### Yo-Kai Watch
+
+This profile is designed to farm FATEs to gather Yo-Kai medals to complete the [Yo-Kai Watch](https://na.finalfantasyxiv.com/lodestone/special/2020/youkai-watch/vdnaiga67o) cross over event. You specify the number of medals you want, and which zone you want to farm those medals in and then hit start. [Here's](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24139170/yo-kai-watch-fate-locations-minions-weapons-mount-rewards-coins) a useful guide on the event.
+
 
 ## MSQ
 ![img-small](../../img/pandaFarmerMSQ.png){.center .xsmall}
