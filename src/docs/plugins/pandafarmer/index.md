@@ -54,6 +54,10 @@ As some of these profiles have more effort put into them versus the others I've 
 
 [Platypus](https://rbplatypus.com/) is required for the profiles to run. You don't have to use it, but it needs to be installed. If you're seeing the `Install Platypus` button, click it and it'll install. (It may get hung trying to restart RebornBuddy. Just close RB and open it back and you should be good.)
 
+There's now a Settings button on the Dungeon Farming tab. This button will open a window that has Dungeon Farming specific settings, mainly Hello, Goodbye, and wait time.
+Both `Syrcus Tower` and `Porta Decumana` are good enough to be ran with other players and frequently come up when the Moogle Tomestone event is active. You can use these settings to have the bot greet your party up entering the dungeon and then say goodbye upon leaving the dungeon. The Random Wait option lets you specify a random wait time (in milliseconds) to leave the dungeon. For instance it defaults to 15000-30000 which means the bot will randomly choose a time between 15 and 30 seconds before it leaves the dungeon after it's over.
+There's already a pre-programmed list of greetings and goodbyes, but if you don't like that list you can use the option to set a custom message. When you click the box for custom message a text box will appear for you to type in your custom greeting. You can put one or more greetings separated by a `/` and the bot will randomly cycle between them. For example `hello/hi/yo/what'sup` will randomly cycle between the four greetings each fight and use a different one until all four are used before starting back over.
+
 ## Duty leveling
 ![img-small](../../img/pandaFarmerDutyLeveling.png){.center .xsmall}
 
@@ -111,6 +115,10 @@ To use this feature follow these steps:
 3. AutoParty will automatically accept the party invite.
 4. If you're not using the MSQ profile, on your low level character select the Duty that needs to be done in Duty Finder and make sure to queue as Unrestricted Party.
 5. Once inside the dungeon, AutoParty will automatically load the profile for that zone and complete the dungeon. Once done, AutoParty will leave the dungeon and wait for the next dungeon to pop.
+
+### Aether Currents
+
+These profiles will gather the various Aether Currents to unlock flying in each expansion. It does both clickable currents as well as the quested ones.
 
 ### Grand Company Rank Up
 
