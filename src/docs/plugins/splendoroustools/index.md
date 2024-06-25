@@ -61,6 +61,12 @@ RebornBuddy
 ### Brilliant Tools (iLvl 630)
 - [x] Brilliant Tools
 
+### Vrandtic Visionary's Tools (iLvl 635)
+- [x] Vrandtic Visionary's Tools
+
+### Lodestar Tools (iLvl 640)
+- [x] Lodestar Tools
+
 ## Usage
 
 Open settings, choose your class, hit start. I also recommend using food and medicine for the crafts in Lisbeth settings, to prevent failure on the craft.
