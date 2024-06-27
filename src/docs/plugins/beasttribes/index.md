@@ -21,25 +21,17 @@ You can request a 72 hour trial of any of my plugins by joining our [![Discord][
 You can purchase it using these buttons below. If you already own BeastTribes from previous expansions and just want the Dawntrail upgrade us BeastTribes DT. If you do not own BeastTribes, then a new purchase will include Dawntrail.
 ??? tip "Purchase"
 
-     <script async
-     src="https://js.stripe.com/v3/buy-button.js">
-     </script>
+      <script async src="https://js.stripe.com/v3/buy-button.js">
+      </script>
 
-     <stripe-buy-button
-     buy-button-id="buy_btn_1PWHsKFdsj1r46ilixXjedHt"
-     publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8"
-     >
-     </stripe-buy-button>
+      <stripe-buy-button buy-button-id="buy_btn_1PWHsKFdsj1r46ilixXjedHt" publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8">
+      </stripe-buy-button>
 
-     <script async
-     src="https://js.stripe.com/v3/buy-button.js">
-     </script>
+      <script async src="https://js.stripe.com/v3/buy-button.js">
+      </script>
 
-     <stripe-buy-button
-     buy-button-id="buy_btn_1PWOuqFdsj1r46ilW4UWr4GM"
-     publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8"
-     >
-     </stripe-buy-button>
+      <stripe-buy-button buy-button-id="buy_btn_1PWOuqFdsj1r46ilW4UWr4GM" publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8">
+      </stripe-buy-button>
 
 ## Installation
 
