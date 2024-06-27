@@ -18,7 +18,7 @@ This plugin is designed to do the FFXIV Beast Tribe quets with as little interac
 
 You can request a 72 hour trial of any of my plugins by joining our [![Discord][3]][4] and typing `/trial` on the #bot-spam channel.
 
-You can purchase it using this button:
+You can purchase it using these buttons below. If you already own BeastTribes from previous expansions and just want the Dawntrail upgrade us BeastTribes DT. If you do not own BeastTribes, then a new purchase will include Dawntrail.
 ??? tip "Purchase"
 
      <script async
@@ -27,6 +27,16 @@ You can purchase it using this button:
 
      <stripe-buy-button
      buy-button-id="buy_btn_1PWHsKFdsj1r46ilixXjedHt"
+     publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8"
+     >
+     </stripe-buy-button>
+
+     <script async
+     src="https://js.stripe.com/v3/buy-button.js">
+     </script>
+
+     <stripe-buy-button
+     buy-button-id="buy_btn_1PWOuqFdsj1r46ilW4UWr4GM"
      publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8"
      >
      </stripe-buy-button>
