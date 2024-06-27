@@ -25,7 +25,10 @@ You can purchase it using this button:
      src="https://js.stripe.com/v3/buy-button.js">
      </script>
 
-     <stripe-buy-button buy-button-id="buy_btn_1OEdXBFdsj1r46il5Sjbflah" publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8">
+     <stripe-buy-button
+     buy-button-id="buy_btn_1PWHsKFdsj1r46ilixXjedHt"
+     publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8"
+     >
      </stripe-buy-button>
 
 ## Installation
