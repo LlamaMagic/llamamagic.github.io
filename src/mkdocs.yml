@@ -51,7 +51,9 @@ nav:
         - Splendorous Tools:           
             - plugins/splendoroustools/index.md
         - Zodiac Weapons:           
-            - plugins/zodiacweapons/index.md                                   
+            - plugins/zodiacweapons/index.md     
+    - Downloads: 
+        - downloads.md 
 
 theme:
   name: material
