@@ -50,7 +50,7 @@ As some of these profiles have more effort put into them versus the others I've 
 - ★★★★☆ - Four star profiles have a lot of effort into them. These profiles have working mechanics for most boss fights and will work well with NPCs. I would not recommend using them in a live party.
 - ★★★☆☆ - Three star profiles are "good enough." These are profiles that I put enough effort into them so that you can use them to complete MSQ at least once, and then basically abandon. You can usually farm these reliably as long as you do them unrestricted.
 - ★★☆☆☆ - Two star profiles are good enough to be used unrestricted, but likely have no custom programming for boss mechanics. As long as you're max level though you should be able to farm them relatively well.
-- ★☆☆☆☆ - One star profiles are profiles that work... sometimes. They've got glaring issues that I either can't, or haven't fixed and are usually only used when you really don't want to do the duty yourself but don't mind dying a million times.
+- ★☆☆☆☆ - One star profiles are profiles that work... sometimes. They've got glaring issues that I either can't, or haven't fixed and are usually only used when you really don't want to do the duty yourself but don't mind dying a million times. While these can sometimes be completed by other jobs, tanks will typically have the best survivability on these profiles simply because of their survivability.
 
 [Platypus](https://rbplatypus.com/) is required for the profiles to run. You don't have to use it, but it needs to be installed. If you're seeing the `Install Platypus` button, click it and it'll install. (It may get hung trying to restart RebornBuddy. Just close RB and open it back and you should be good.)
 
@@ -230,7 +230,8 @@ For information purposes it uses these dungeons:
     - 79-81 Mt. Gulg
     - 81-83 The Tower of Zot
     - 83-87 The Tower of Babil
-    - 87-90 Ktisis Hyperboreia
+    - 87-91 Ktisis Hyperboreia
+    - 91-100 Ihuykatumuu   
 
 
 ## Misc
