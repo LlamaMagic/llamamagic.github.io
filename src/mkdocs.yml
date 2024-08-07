@@ -19,10 +19,8 @@ nav:
     - nt153133: 
         - Global: 
             - purchase/nt153133/purchase.md 
-            - purchase/nt153133/purchaseplugins.md 
         - Chinese: 
             - purchase/nt153133/purchasecn.md
-            - purchase/nt153133/purchasepluginscn.md 
     - DomesticWarlord: 
         - purchase/DW/purchase.md 
   - Wiki:
@@ -42,8 +40,6 @@ nav:
             - plugins/animaweapons/index.md     
         - Beast Tribes:           
             - plugins/beasttribes/index.md
-        - Llama Cheats:           
-            - plugins/llamacheats/index.md  
         - Manderville Weapons:           
             - plugins/mandervilleweapons/index.md        
         - Panda Farmer:           
