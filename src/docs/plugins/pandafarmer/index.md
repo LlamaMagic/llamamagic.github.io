@@ -335,11 +335,13 @@ This profile is designed to farm FATEs to gather Yo-Kai medals to complete the [
 
 This tab does the Main Story Quest for the game. It is a replacement to my sponsored MSQ repo. The MSQ section of Panda Farmer is included with a monthly subscription of Panda Farmer. If you have a Panda Farmer MSQ key you can use it to unlock Panda Farmer MSQ up to the end of Endwalker. Anything 7.0+ requires a subscription.
 
+- A note dungeons: Several of the dungeons required for MSQ aren't perfect and your character will take a lot of stacks of Vulnerability when fighting bosses. For this reason I recommend doing MSQ as a tank class. Tank classes tend to have more survivability and will make it through the dungeons much more reliably.
+
 If you are starting the MSQ process on a character that has yet to choose a Grand Company you have the option to choose which Grand Company the profile joins.
 
 It will do the following:
 
-- Complete all Main Story Quests from each expansion, A Realm Reborn (2.x), Heavensward (3.x), Stormblood (4.x), Shadowbringers (5.x), and Endwalker (6.x).
+- Complete all Main Story Quests from each expansion, A Realm Reborn (2.x), Heavensward (3.x), Stormblood (4.x), Shadowbringers (5.x), Endwalker (6.x), and Dawntrail (7.x).
 - Complete (most) MSQ Dungeons using the Duty Support system in FFXIV.
 - Do class quests for your selected class at intervals along the way.
 - Unlocks flight support for each zone as MSQ progress allows.
