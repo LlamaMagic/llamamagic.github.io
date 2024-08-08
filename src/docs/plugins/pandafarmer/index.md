@@ -379,17 +379,12 @@ Here is a list of the manual steps:
     -   Quest `Lv. 65: In the Footsteps of Bardam the Brave` requires the 4-player dungeon `Lv. 65: Bardam's Mettle`.
     -   Quest `Lv. 66: Naadam` requires a solo duty.
     -   Quest `Lv. 67: The Lady of Bliss` requires the 8-player trial `Lv. 67: Emanation`.
-    -   Quest `Lv. 69: The Key to Victory` requires a solo duty.
     -   Quest `Lv. 69: The Resonant` requires a solo duty.
     -   Quest `Lv. 70: Stormblood` requires the 8-player trial `Lv. 70: The Royal Menagerie`.
     -   Quest `Lv. 70: The Mad King's Trove` requires swimming underwater to unlock the dungeon.
-    -   Quest `Lv. 70: Return of the Bull` requires a solo duty.
-    -   Quest `Lv. 70: Hope on the Waves` requires a solo duty.
     -   Quest `Lv. 70: The Primary Agreement` requires the 8-player trial `Lv. 70: Castrum Fluminis`.
     -   Quest `Lv. 70: Emissary of the Dawn` requires a solo duty.
-    -   ~~Quest `Lv. 70: Feel the Burn` requires the 4-player dungeon `Lv. 70: The Burn`.~~
     -   Quest `Lv. 70: The Will of the Moon` requires a solo duty.
-    -   ~~Quest `Lv. 70: The Face of War` requires the 4-player dungeon `Lv. 70: The Ghimlyt Dark`.~~
     -   Quest `Lv. 70: A Requiem for Heroes` requires a solo duty.
 
     ### 5.x: Shadowbringers Manual Steps
@@ -416,11 +411,9 @@ Here is a list of the manual steps:
     -   Quest `Lv. 88: As the Heavens Burn` requires a solo duty.
     -   Quest `Lv. 89: Her Children, One and All` requires the 4-player dungeon `Lv. 89: The Aitiascope Inside`.
     -   Quest `Lv. 89: Her Children, One and All` requires the 8-player trial `Lv. 89: The Mothercrystal`.
-    -   ~~Quest `Lv. 90: Endwalker` requires the 4-player dungeon `Lv. 90: The Dead Ends`.~~
     -   Quest `Lv. 90: Endwalker` requires the 8-player trial `Lv. 90: The Final Day`.
     -   Quest `Lv. 90: Endwalker` requires a solo duty.
     -   Quest `Lv. 90: Alzadaal's Legacy` requires the 4-player dungeon `Lv. 90: Alzadaal's Legacy`.
-    -   ~~Quest `Lv. 90: In Search of Azdaja` requires the 4-player dungeon `Lv. 90: The Fell Court of Troia`.~~
     -   Quest `Lv. 90: The Wind Rises` requires the 8-player trial `Lv. 90: The Storm's Crown`.
 
     ### 7.x: Dawntrail Manual Steps
