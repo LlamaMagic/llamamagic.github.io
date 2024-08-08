@@ -409,7 +409,7 @@ Here is a list of the manual steps:
     -   Quest `Lv. 83: In from the Cold` requires a solo duty.
     -   Quest `Lv. 83: The Martyr` requires the 8-player trial `Lv. 83: The Dark Inside`.
     -   Quest `Lv. 88: As the Heavens Burn` requires a solo duty.
-    -   Quest `Lv. 89: Her Children, One and All` requires the 4-player dungeon `Lv. 89: The Aitiascope Inside`.
+    -   Quest `Lv. 89: Her Children, One and All` requires the 4-player dungeon `Lv. 89: The Aitiascope`.
     -   Quest `Lv. 89: Her Children, One and All` requires the 8-player trial `Lv. 89: The Mothercrystal`.
     -   Quest `Lv. 90: Endwalker` requires the 8-player trial `Lv. 90: The Final Day`.
     -   Quest `Lv. 90: Endwalker` requires a solo duty.
