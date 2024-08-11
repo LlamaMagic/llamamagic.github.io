@@ -14,7 +14,7 @@ This plugin is intended to be a replacement for my sponsor repo. It included far
 - [LlamaLibrary][10] (free)
 - [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
 - [Platypus](https://rbplatypus.com/) (free+)
-- [Osiris](https://github.com/domesticwarlord86/PandaPlugins) (free)
+- [Trust](https://github.com/LlamaMagic/RBtrust) (free)
 
 ## Purchasing
 
