@@ -421,6 +421,7 @@ Here is a list of the manual steps:
     -   Quest `Lv. 92: A Father First` requires a solo duty with a QTE.
     -   Quest `Lv. 93: The High Luminary` requires the 4-player duty Worqor Zormor. *
     -   Quest `Lv. 94: Taking a Stand` requires a solo RP duty where you play as Wuk Lamat.
+    -   Quest `Lv. 95: The Feat of the Brotherhood` requires a solo duty.
     -   Quest `Lv. 95: Road to the Golden City` requires the 4-player duty The Skydeep Cenote. *
     -   Quest `Lv. 97: All Aboard` requires the 4-player duty Vanguard. *
     -   Quest `Lv. 98: The Protector and the Destroyer` requires a solo duty.
