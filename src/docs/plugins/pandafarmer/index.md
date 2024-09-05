@@ -418,6 +418,20 @@ Here is a list of the manual steps:
 
     ### 7.x: Dawntrail Manual Steps
 
+    -   Quest `Lv. 92: A Father First` requires a solo duty with a QTE.
+    -   Quest `Lv. 93: The High Luminary` requires the 4-player duty Worqor Zormor. *
+    -   Quest `Lv. 94: Taking a Stand` requires a solo RP duty where you play as Wuk Lamat.
+    -   Quest `Lv. 95: Road to the Golden City` requires the 4-player duty The Skydeep Cenote. *
+    -   Quest `Lv. 97: All Aboard` requires the 4-player duty Vanguard. *
+    -   Quest `Lv. 98: The Protector and the Destroyer` requires a solo duty.
+    -   Quest `Lv. 99: The Resilient Son` requires the 4-player duty Origenics. *
+    -   Quest `Lv. 99: The Resilient Son` requires the 8-player trial Everkeep. *
+    -   Quest `Lv. 100: Dreams of a New Day` requires a solo duty.
+    -   Quest `Lv. 100: Dawntrail` requires the 4-player duty Alexandria. *
+    -   Quest `Lv. 100: Dawntrail` requires the 8-player trial The Interphos. 
+    - * These duties have profiles created for them. However their mechanics are not optimized and may not be completable by non-tank classes. If you're on a tank type class, the profile will automatically queue the dungeon. Otherwise it will stop and allow you to do it manually or continue with the profile.
+
+
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
 [4]: https://discord.gg/CucSWEhJSZ "Discord"
 [5]: https://shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?logo=kofi&logoColor=ffffff&labelColor=FF5E5B
