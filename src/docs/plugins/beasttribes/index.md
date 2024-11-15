@@ -942,7 +942,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Pelupelu" 
 
-    ![](https://geps.dev/progress/100)
+    ![](https://geps.dev/progress/45)
     <!--- 15/33 --->
 
     ???+ note "Rank Ups"
