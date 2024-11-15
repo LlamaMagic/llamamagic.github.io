@@ -68,11 +68,10 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ## Notes
 
-
-
 * Keep in mind that you get 12 daily tribe allowances. All tribes except ARR use 3 allowances each. So you can do 4 tribes a day. ARR work differently. 
 * With ARR tribes each rank, Friendly, Trusted, Honored etc offer 3 quests each day. So for most ARR tribes you can use 9-12 daily allowances on a single tribe. For that reason I have added check boxes on the ARR tribes to let you select which ranks you want to do on those tribes. 
 * You must select the class you want for each tribe. Even if it defaults to the class you want, you need to click the drop down and select it manually at least once for it to save your setting.
+* The Story Mode check box on the Key tab will cause the bot to stop when doing rank up quests, useful for those who wish to do them manually so they can see the story.
 
 ## Known Issues
 
@@ -89,10 +88,6 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 - Some of the fishing quests for this tribe require SpearFishing, which we currently can't do with RebornBuddy. Either do these quests manually, or do this tribe on Miner/Botanist.
 - You may notice that the profile tosses any extra mats after turning in the quests rather than saving them for another day. We do this for two reasons. 1.) If you pick up a quest that can be turned in, you can't pick up another quest until you turn that one in, which causes the order to break and messes up the bot. 2.) It saves space. Take a small efficiency hit for afkness.
-
-### Loporrit
-
-- Lisbeth doesn't support the new items yet. So for now we're using the built in crafting tags to make a very simple rotation to complete the crafts. This will fail if you're not level 90 or don't have the required crystals on hand.
 
 
 ## Completion
@@ -942,6 +937,56 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [x] Checking for Cavities 
          - [x] Brainstorm 
          - [x] The Lost World 
+
+### Dawntrail
+
+??? note "Pelupelu" 
+
+    ![](https://geps.dev/progress/100)
+    <!--- 15/33 --->
+
+    ???+ note "Rank Ups"
+         - [x] A Tentative First Tour
+         - [] Earthenshire Awaits
+         - [] Recruitment Drive
+         - [] A Guest from Across the Salt
+         - [] Partners in Pel
+
+    ???+ note "Friendly"
+         - [x] A Notion of Promotion
+         - [x] A Sackful of Memories
+         - [x] Ferocious Foilage, Fearful Tourists
+         - [x] Community Outreach in Kozanuakiy
+         - [x] Preventative Measures
+         - [x] Burden of Beasts
+         - [x] Growing as a Guide
+
+    ???+ note "Trusted"
+         - [x] Bag Your Pardon
+         - [x] Thrilled to Be Here
+         - [x] Canvassing in Kozama'uka
+         - [x] Reed between the Lines
+         - [x] The Rudiments of Friend Removal
+         - [x] The Nectar Collector
+         - [x] Starting from Scrap
+
+    ???+ note "Respected"
+         - [] Advisor vs. Predator
+         - [] Let Mobbie Be Your Guide
+         - [] The Popularity of Punutiys
+         - [] Breath of Foul Air
+         - [] Big Bellies to Fill
+         - [] The Hand That Feeds
+         - [] Born to Run Away
+
+    ???+ note "Honored"
+         - [] Bird Meat's Back on the Menu
+         - [] A Sympathetic Ear
+         - [] Worth the Weight
+         - [] In Time for Lunch
+         - [] His Swarm Enemy
+         - [] Seasoned Adventuerer
+         - [] Animal Friendship
 
 
 [2]: https://github.com/LlamaMagic/DomesticSponsored/raw/main/Plugins/Beast%20Tribes/BeastTribes.zip "Download"
