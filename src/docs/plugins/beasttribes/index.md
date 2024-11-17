@@ -942,15 +942,15 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Pelupelu" 
 
-    ![](https://geps.dev/progress/45)
-    <!--- 15/33 --->
+    ![](https://geps.dev/progress/70)
+    <!--- 23/33 --->
 
     ???+ note "Rank Ups"
          - [x] A Tentative First Tour
-         - [] Earthenshire Awaits
-         - [] Recruitment Drive
-         - [] A Guest from Across the Salt
-         - [] Partners in Pel
+         - [X] Earthenshire Awaits
+         - [ ] Recruitment Drive
+         - [ ] A Guest from Across the Salt
+         - [ ] Partners in Pel
 
     ???+ note "Friendly"
          - [x] A Notion of Promotion
@@ -971,22 +971,22 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [x] Starting from Scrap
 
     ???+ note "Respected"
-         - [] Advisor vs. Predator
-         - [] Let Mobbie Be Your Guide
-         - [] The Popularity of Punutiys
-         - [] Breath of Foul Air
-         - [] Big Bellies to Fill
-         - [] The Hand That Feeds
-         - [] Born to Run Away
+         - [X] Advisor vs. Predator
+         - [X] Let Mobbie Be Your Guide
+         - [X] The Popularity of Punutiys
+         - [X] Breath of Foul Air
+         - [X] Big Bellies to Fill
+         - [X] The Hand That Feeds
+         - [X] Born to Run Away
 
     ???+ note "Honored"
-         - [] Bird Meat's Back on the Menu
-         - [] A Sympathetic Ear
-         - [] Worth the Weight
-         - [] In Time for Lunch
-         - [] His Swarm Enemy
-         - [] Seasoned Adventuerer
-         - [] Animal Friendship
+         - [ ] Bird Meat's Back on the Menu
+         - [ ] A Sympathetic Ear
+         - [ ] Worth the Weight
+         - [ ] In Time for Lunch
+         - [ ] His Swarm Enemy
+         - [ ] Seasoned Adventuerer
+         - [ ] Animal Friendship
 
 
 [2]: https://github.com/LlamaMagic/DomesticSponsored/raw/main/Plugins/Beast%20Tribes/BeastTribes.zip "Download"
