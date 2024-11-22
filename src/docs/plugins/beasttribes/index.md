@@ -942,13 +942,13 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Pelupelu" 
 
-    ![](https://geps.dev/progress/70)
-    <!--- 23/33 --->
+    ![](https://geps.dev/progress/85)
+    <!--- 28/33 --->
 
     ???+ note "Rank Ups"
          - [x] A Tentative First Tour
          - [X] Earthenshire Awaits
-         - [ ] Recruitment Drive
+         - [X] Recruitment Drive
          - [ ] A Guest from Across the Salt
          - [ ] Partners in Pel
 
@@ -983,10 +983,10 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [ ] Bird Meat's Back on the Menu
          - [ ] A Sympathetic Ear
          - [ ] Worth the Weight
-         - [ ] In Time for Lunch
-         - [ ] His Swarm Enemy
-         - [ ] Seasoned Adventuerer
-         - [ ] Animal Friendship
+         - [X] In Time for Lunch
+         - [X] His Swarm Enemy
+         - [X] Seasoned Adventuerer
+         - [X] Animal Friendship
 
 
 [2]: https://github.com/LlamaMagic/DomesticSponsored/raw/main/Plugins/Beast%20Tribes/BeastTribes.zip "Download"
