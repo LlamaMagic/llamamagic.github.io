@@ -942,8 +942,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Pelupelu" 
 
-    ![](https://geps.dev/progress/88)
-    <!--- 29/33 --->
+    ![](https://geps.dev/progress/91)
+    <!--- 30/33 --->
 
     ???+ note "Rank Ups"
          - [x] A Tentative First Tour
@@ -980,7 +980,7 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [X] Born to Run Away
 
     ???+ note "Honored"
-         - [ ] Bird Meat's Back on the Menu
+         - [X] Bird Meat's Back on the Menu
          - [ ] A Sympathetic Ear
          - [X] Worth the Weight
          - [X] In Time for Lunch
