@@ -60,6 +60,13 @@ There's already a pre-programmed list of greetings and goodbyes, but if you don'
 
 For infoamtions sake, here are the list of pre-programmed greetings and goodbyes:
 
+??? note "Note for developers"
+    Panda Farmer includes an OrderBot tag `<LoadPFDungeon/>`.
+    You can use it like this `<LoadPFDungeon While="not HasItem(44105)" GoToBarracks="True" Name="Sastasha" QueueType="2" />`
+    `While` can be any standard OrderBot condition and will leave the tag if the condition is complete.
+    `Name` is the name of the dungeon.
+    `QueueType` is how you want to queue the dungeon. 0 for standard, 1 for Undersized, 2 for Duty Support, 3 for Trust.
+
 ??? note "Greetings"
     "Hola",
     "Bonjour",
