@@ -942,15 +942,15 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Pelupelu" 
 
-    ![](https://geps.dev/progress/94)
-    <!--- 31/33 --->
+    ![](https://geps.dev/progress/100)
+    <!--- 33/33 --->
 
     ???+ note "Rank Ups"
          - [x] A Tentative First Tour
          - [X] Earthenshire Awaits
          - [X] Recruitment Drive
-         - [ ] A Guest from Across the Salt
-         - [ ] Partners in Pel
+         - [X] A Guest from Across the Salt
+         - [X] Partners in Pel
 
     ???+ note "Friendly"
          - [x] A Notion of Promotion
