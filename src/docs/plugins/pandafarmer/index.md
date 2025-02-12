@@ -42,7 +42,11 @@ RebornBuddy
 
 This is the main tab of Panda Farmer and as the plugin's name insinuates you'll use it for farming dungeons. You select the class you want to use on the far left side, the dungeon you want to do on the left of the tab, and how you want to queue it on the right. 
 
-Some of the dungeons perform better with the bot than others. In general the ones used for farming I spend more time on getting perfected. The ones that are generally only completed once for MSQ are likely just "good enough." Meaning they may die a few times but will eventually complete the dungeon.
+[Platypus](https://rbplatypus.com/) is required for the profiles to run. You don't have to use it, but it needs to be installed. If you're seeing the `Install Platypus` button, click it and it'll install. (It may get hung trying to restart RebornBuddy. Just close RB and open it back and you should be good.)
+
+
+### Star Ratings
+Some of the dungeons perform better with the bot than others. In general the ones used for farming I spend more time on getting perfected. The ones that are generally only completed once for MSQ are likely just "good enough." Meaning they may die a few times but will eventually complete the dungeon. Tanks will generally have a better time at running lower ranked dungeons due to `Tank privilege`.
 
 As some of these profiles have more effort put into them versus the others I've started using a star system that will display to tell you the quality of the profiles.
 
@@ -52,11 +56,14 @@ As some of these profiles have more effort put into them versus the others I've 
 - ★★☆☆☆ - Two star profiles are good enough to be used unrestricted, but likely have no custom programming for boss mechanics. As long as you're max level though you should be able to farm them relatively well.
 - ★☆☆☆☆ - One star profiles are profiles that work... sometimes. They've got glaring issues that I either can't, or haven't fixed and are usually only used when you really don't want to do the duty yourself but don't mind dying a million times. While these can sometimes be completed by other jobs, tanks will typically have the best survivability on these profiles simply because of their survivability.
 
-[Platypus](https://rbplatypus.com/) is required for the profiles to run. You don't have to use it, but it needs to be installed. If you're seeing the `Install Platypus` button, click it and it'll install. (It may get hung trying to restart RebornBuddy. Just close RB and open it back and you should be good.)
-
+### Settings
 There's now a Settings button on the Dungeon Farming tab. This button will open a window that has Dungeon Farming specific settings, mainly Hello, Goodbye, and wait time. You can also choose whether you'd like to go to your GC Barracks between runs, and if you'd like to turn in items after every run. You can click the Platypus icon to open's Platypus' settings. Once done, hit start and the bot will start it's work.
-Both `Syrcus Tower` and `Porta Decumana` are good enough to be ran with other players and frequently come up when the Moogle Tomestone event is active. You can use these settings to have the bot greet your party up entering the dungeon and then say goodbye upon leaving the dungeon. The Random Wait option lets you specify a random wait time (in milliseconds) to leave the dungeon. For instance it defaults to 15000-30000 which means the bot will randomly choose a time between 15 and 30 seconds before it leaves the dungeon after it's over.
-There's already a pre-programmed list of greetings and goodbyes, but if you don't like that list you can use the option to set a custom message. When you click the box for custom message a text box will appear for you to type in your custom greeting. You can put one or more greetings separated by a `/` and the bot will randomly cycle between them. For example `hello/hi/yo/what'sup` will randomly cycle between the four greetings each fight and use a different one until all four are used before starting back over.
+
+I have also added a check box for `Run season Events When Available`. This will cause Panda Farmer to input the quest line for and seasonal events that are active whenever you press a Start button. For example if you go to farm a dungeon, it'll do the seasonal quest first before running the dungeon. It will do the same goes for any other feature of PF.
+
+??? note "Syrcus Tower and Porta Decumana"
+    Both `Syrcus Tower` and `Porta Decumana` are good enough to be ran with other players and frequently come up when the Moogle Tomestone event is active. You'll likely want to tweak the greeting and leave time settings to your liking.
+
 
 For infoamtions sake, here are the list of pre-programmed greetings and goodbyes:
 
@@ -212,7 +219,9 @@ For infoamtions sake, here are the list of pre-programmed greetings and goodbyes
 ## Duty leveling
 ![img-small](../../img/pandaFarmerDutyLeveling.png){.center .xsmall}
 
-This tab is used for leveling various jobs. Select the jobs you wish to level and hit Start. It'll unlock jobs that haven't been unlocked yet. It'll do class quests along the way. It will respect the `Go To Barracks` and `Turn In Every Run` settings from Dungeon Farming tab. The Duty Leveling tab will update with levels and classes as your character goes along to give you an at-a-glance idea of your leveling status. When the bot stops you'll get a print out in RebornBuddy's log showing you the levels gained during this session.
+This tab is used for leveling various jobs. Select the jobs you wish to level and hit Start. It'll unlock jobs that haven't been unlocked yet. It'll do class quests along the way. It will respect the `Go To Barracks` and `Turn In Every Run` settings from Dungeon Farming tab. The Duty Leveling tab will update with levels and classes as your character goes along to give you an at-a-glance idea of your leveling status. 
+
+The `Do Class Quests` check box is recommended to leave on as often times you get needed abilities from completing Class Quests.
 
 For information purposes it uses these dungeons:
 
@@ -248,6 +257,20 @@ For information purposes it uses these dungeons:
 
 Here you can find multiple profiles that do various things. This tab respects the Class to Use box as well as the Go To Barracks and GC Turn in settings of Dungeon Farming, if they're relevant to the particular profile being ran.
 
+### 1-50 Current Class & 1-Housing & New Character To Retainer
+
+Both of these profiles were made per user request and are very niche profiles that won't be used by everyday players.
+
+- `1-50 Current Class` uses the Duty Leveling system to level your current class to 50 and stops. It respects the `Do Class Quests` check box from Duty Leveling tab. It will not do any MSQ and simply levels the class from 1-50.
+- `1-Housing` does the entire MSQ process up to the required quest completion to obtain a house. This includes doing class quests, MSQ, and ranking up your Grand Company.
+- `New Character To Retainer` this profile is designed to get a new character up to the point where they unlock a retainer and then stop.
+
+### Dawntrail Wachumeqimeqi Deliveries
+This profile completes the DoH/DoL Delivery Quests for the selected roles for the level 100 Dawntrail quests. It uses Lisbeth to complete the crafting and gathering.
+
+### Dawntrail Role Quests
+This profile completes the Role Quests for the selected roles for the level 100 Dawntrail quests. The final battle on each role does require a manual solo duty.
+
 ### Achievements
 
 - [But Somebody's Gotta Do It](https://ffxiv.gamerescape.com/wiki/But_Somebody%27s_Gotta_Do_It) - Farms Garuda EX for this achievement. For DRK, PLD, and WAR 2.x/3.x war-animal achievement mounts.
@@ -272,9 +295,13 @@ To use this feature follow these steps:
 
 These profiles will gather the various Aether Currents to unlock flying in each expansion. It does both clickable currents as well as the quested ones.
 
+### Guildhests - Under the Armor
+
+These profiles does the Guildhest - Under The Armor for use when spamming guildhests. It does not do any of the ones prior to this guildhest.
+
 ### Grand Company Rank Up
 
-This profile will rank you Grand Company up to Second Lieutenant which is where you obtain your squadrons. Those can't be done by the bot. It will use Expert Turn ins to farm seals, using an appropriate level dungeon to farm dungeon gear to turn in. It will respect the `Go To Barracks` setting from Dungeon Farming tab. While you can do this at lower levels, I don't recommend doing it any lower than 60 as you have to do `The Aurum Vale` and `Dzemael Darkhold` for the GC quests in order to rank up and these dungeons are 47 and 50 respectively. They do not have Duty Support, so the profile can only attempt them unrestricted.
+This profile will rank you Grand Company up to Second Lieutenant which is where you obtain your squadrons. Those can't be done by the bot. It will use Expert Turn ins to farm seals, using an appropriate level dungeon to farm dungeon gear to turn in (RB uses a method to force the turn in of gear for seals even when you're not the appropriate rank yet). It will respect the `Go To Barracks` setting from Dungeon Farming tab. While you can do this at lower levels, I don't recommend doing it any lower than 60 as you have to do `The Aurum Vale` and `Dzemael Darkhold` for the GC quests in order to rank up and these dungeons are 47 and 50 respectively. They do not have Duty Support, so the profile can only attempt them unrestricted.
 
 For information purposes it uses these dungeons:
 
@@ -303,7 +330,7 @@ This profile will go and do the class quests for whatever job you set on the job
 
 These profiles will complete the available side quests in each specific region. I eventually intend to have all regions covered, but it's slow going.
 
-Currently available: `La Noscea` `Thanalan`
+Currently available: `La Noscea` `Thanalan` `Dawntrail`
 
 ### Guildheist
 
@@ -316,6 +343,10 @@ This will join the Blunderville crossover game, attempt to win (It never will) a
 [Platypus](https://rbplatypus.com/) has added a tab to allow you to automatically purchase the event items.
 
 ![type:video](https://www.youtube.com/embed/fkPBmKaMyuk)
+
+### Yo-kai Watch
+
+This section is used to farm the Yo-Kai watch crossover event when it's active. You can use the settings to farm the medals you need. It does NOT trade the medals in for you, that will need to be done manually. You can select the `Go to Yo-Kai vendor` check box and hit Start for the bot to take you to the Vendor to turn in your medals.
 
 
 ### Squadrons
@@ -342,18 +373,27 @@ This profile is designed to farm FATEs to gather Yo-Kai medals to complete the [
 ## MSQ
 ![img-small](../../img/pandaFarmerMSQ.png){.center .xsmall}
 
-This tab does the Main Story Quest for the game. It is a replacement to my sponsored MSQ repo. The MSQ section of Panda Farmer is included with a monthly subscription of Panda Farmer. If you have a Panda Farmer MSQ key you can use it to unlock Panda Farmer MSQ up to the end of Endwalker. Anything 7.0+ requires a subscription.
-
-- A note dungeons: Several of the dungeons required for MSQ aren't perfect and your character will take a lot of stacks of Vulnerability when fighting bosses. For this reason I recommend doing MSQ as a tank class. Tank classes tend to have more survivability and will make it through the dungeons much more reliably.
-
-If you are starting the MSQ process on a character that has yet to choose a Grand Company you have the option to choose which Grand Company the profile joins.
+This tab does the Main Story Quest for the game. I have taken the various publicly available free MSQ profiles and streamlined them, fixing issues along the way and adding automation that the originals didn't have.
 
 It will do the following:
 
 - Complete all Main Story Quests from each expansion, A Realm Reborn (2.x), Heavensward (3.x), Stormblood (4.x), Shadowbringers (5.x), Endwalker (6.x), and Dawntrail (7.x).
 - Complete (most) MSQ Dungeons using the Duty Support system in FFXIV.
+- Complete `Snipe` events automatically.
 - Do class quests for your selected class at intervals along the way.
 - Unlocks flight support for each zone as MSQ progress allows.
+
+??? note "Important Note"
+    Several of the dungeons required for MSQ aren't perfect and your character will take a lot of stacks of Vulnerability when fighting bosses. For this reason I recommend doing MSQ as a tank class. Tank classes tend to have more survivability and will make it through the dungeons much more reliably.
+
+??? note "Grand Company Selection"
+    If you are starting the MSQ process on a character that has yet to choose a Grand Company you have the option to choose which Grand Company the profile joins.
+
+??? note "Grand Company Selection"
+    `Use Lisbeth for travel during MSQ` - This box is only to be used if you're having trouble with RB's built in navigation. Using this will cause the bot not to automatically learn Aetherytes as that's a built in feature of RB's navigation.
+
+??? note "Auto Party"
+    This contains settings to allow a second bot controlled character to run duties for the lower level character. See the [AutoParty](#autoparty) section.
 
 There are some manual steps along the way however, most of them will be duties that aren't supported by the Duty Support system or solo duties that are too complicated for the bot to do itself. The bot will stop and pop up a message to let you know when a manual step is needed.
 Here is a list of the manual steps:
@@ -440,6 +480,21 @@ Here is a list of the manual steps:
     -   Quest `Lv. 100: Dawntrail` requires the 4-player duty Alexandria. *
     -   Quest `Lv. 100: Dawntrail` requires the 8-player trial The Interphos. 
     - * These duties have profiles created for them. However their mechanics are not optimized and may not be completable by non-tank classes. If you're on a tank type class, the profile will automatically queue the dungeon. Otherwise it will stop and allow you to do it manually or continue with the profile.
+
+
+## Key
+![img-small](../../img/pandaFarmerKey.png){.center .xsmall}
+
+Place your `Product Key` in the box and press `Verify.`
+
+??? note "Reset ID"
+    Product keys are restricted to 8 characters and 2 PCs. If you end up having to reinstall Windows or make major changes to your computer, the key may think it's a different computer. The `Reset ID` button will reset all instances of your characters and PCs and allow you to use the key freely. However you can only use this button once. If you run into issues and need the key reset again, message me on Discord.
+
+??? note "One-Time Purchase MSQ Key"
+    The MSQ section of Panda Farmer is included with a monthly subscription of Panda Farmer. If you have a Panda Farmer MSQ key you can use it to unlock Panda Farmer MSQ up to the end of Endwalker. Anything 7.0+ requires a subscription.
+
+??? warning "Don't Touch"
+    There's a checkbox on this screen labeled `Don't touch`. Please don't touch it, leave it unchecked. I use it for testing and it WILL mess up the bot.
 
 
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
