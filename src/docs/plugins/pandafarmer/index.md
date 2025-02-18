@@ -14,7 +14,7 @@ This plugin is intended to be a replacement for my sponsor repo. It included far
 - [LlamaLibrary][10] (free)
 - [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
 - [Platypus](https://rbplatypus.com/) (free+)
-- [Trust](https://github.com/LlamaMagic/RBtrust) (free)
+- [Duty Mechanics](https://github.com/LlamaMagic/DutyMechanic) (free)
 
 ## Purchasing
 

@@ -15,7 +15,7 @@ This plugin updates on restart of RebornBuddy and doesn't need to be added to re
 - [Lisbeth][9] with active license (paid)
 - [LlamaLibrary][10] (free)
 - [LlamaUtilities](https://github.com/nt153133/LlamaUtilities) (free)
-- [RBTrust](https://github.com/LlamaMagic/RBtrust) (free)
+- [Duty Mechanic](https://github.com/LlamaMagic/DutyMechanic) (free)
 - [Osiris](https://github.com/domesticwarlord86/PandaPlugins) (free)
 - [Platypus](https://rbplatypus.com/) (free+)
 
