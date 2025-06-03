@@ -990,51 +990,51 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Mamool Ja" 
 
-    ![](https://geps.dev/progress/100)
+    ![](https://geps.dev/progress/55)
     <!--- 18/33 --->
 
-     ???+ note "Rank Ups"
-          - [X]  Doppro Tradition
-          - [X]  A Hoobigo's Return
-          - [ ]  The Boon of Boonewa
-          - [ ]  A New Yak T'el
-          - [ ]  The Pride of Mamook
+    ???+ note "Rank Ups"
+         - [X]  Doppro Tradition
+         - [X]  A Hoobigo's Return
+         - [ ]  The Boon of Boonewa
+         - [ ]  A New Yak T'el
+         - [ ]  The Pride of Mamook
 
-     ???+ note "Friendly"
-          - [X]  Root of the Problem
-          - [X]  Taking Your Leavings
-          - [X]  Cultivating Data
-          - [X]  Toil for the Soil
-          - [X]  Stem's the Breaks
-          - [X]  All Tools' Maintenance
-          - [X]  Healing the Fields
-          - [X]  Bonding with Branchbearers
-     
-     ???+ note "Trusted"
-          - [X]  Bugs Begone
-          - [X]  Pain Relief
-          - [X]  Stimulating Growth
-          - [ ]  Fresh Cleaning Supplies
-          - [X]  Shine a Light on the Problem
-          - [X]  A Measure of Influence
+    ???+ note "Friendly"
+         - [X]  Root of the Problem
+         - [X]  Taking Your Leavings
+         - [X]  Cultivating Data
+         - [X]  Toil for the Soil
+         - [X]  Stem's the Breaks
+         - [X]  All Tools' Maintenance
+         - [X]  Healing the Fields
+         - [X]  Bonding with Branchbearers
 
-     ???+ note "Respected"
-          - [ ]  Promoting Produce
-          - [ ]  Rough Around the Edges
-          - [ ]  Building a Better Smoke Bomb
-          - [X]  Remedies at the Ready
-          - [X]  A Welcoming Fragrance
-          - [X]  Fruit of Friendship
-          - [ ]  Vital Vegetables
+    ???+ note "Trusted"
+         - [X]  Bugs Begone
+         - [X]  Pain Relief
+         - [X]  Stimulating Growth
+         - [ ]  Fresh Cleaning Supplies
+         - [X]  Shine a Light on the Problem
+         - [X]  A Measure of Influence
 
-     ???+ note "Honored"
-          - [ ]  Creative Composting
-          - [ ]  Stores to Dry For
-          - [ ]  Keeping the Lights On
-          - [ ]  Gifts of the Gainery
-          - [ ]  A Seasoning for Soup
-          - [ ]  Store-to-door Delivery
-          - [ ]  Above-average Beverage
+    ???+ note "Respected"
+         - [ ]  Promoting Produce
+         - [ ]  Rough Around the Edges
+         - [ ]  Building a Better Smoke Bomb
+         - [X]  Remedies at the Ready
+         - [X]  A Welcoming Fragrance
+         - [X]  Fruit of Friendship
+         - [ ]  Vital Vegetables
+
+    ???+ note "Honored"
+         - [ ]  Creative Composting
+         - [ ]  Stores to Dry For
+         - [ ]  Keeping the Lights On
+         - [ ]  Gifts of the Gainery
+         - [ ]  A Seasoning for Soup
+         - [ ]  Store-to-door Delivery
+         - [ ]  Above-average Beverage
 
 
 [2]: https://github.com/LlamaMagic/DomesticSponsored/raw/main/Plugins/Beast%20Tribes/BeastTribes.zip "Download"
