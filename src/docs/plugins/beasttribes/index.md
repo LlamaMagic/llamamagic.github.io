@@ -990,8 +990,8 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Mamool Ja" 
 
-    ![](https://geps.dev/progress/55)
-    <!--- 18/33 --->
+    ![](https://geps.dev/progress/64)
+    <!--- 21/33 --->
 
     ???+ note "Rank Ups"
          - [X]  Doppro Tradition
@@ -1019,13 +1019,13 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [X]  A Measure of Influence
 
     ???+ note "Respected"
-         - [ ]  Promoting Produce
+         - [X]  Promoting Produce
          - [ ]  Rough Around the Edges
-         - [ ]  Building a Better Smoke Bomb
+         - [X]  Building a Better Smoke Bomb
          - [X]  Remedies at the Ready
          - [X]  A Welcoming Fragrance
          - [X]  Fruit of Friendship
-         - [ ]  Vital Vegetables
+         - [X]  Vital Vegetables
 
     ???+ note "Honored"
          - [ ]  Creative Composting
