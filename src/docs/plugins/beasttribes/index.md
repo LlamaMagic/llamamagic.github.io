@@ -990,13 +990,13 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Mamool Ja" 
 
-    ![](https://geps.dev/progress/64)
-    <!--- 21/33 --->
+    ![](https://geps.dev/progress/88)
+    <!--- 29/33 --->
 
     ???+ note "Rank Ups"
          - [X]  Doppro Tradition
          - [X]  A Hoobigo's Return
-         - [ ]  The Boon of Boonewa
+         - [X]  The Boon of Boonewa
          - [ ]  A New Yak T'el
          - [ ]  The Pride of Mamook
 
@@ -1014,13 +1014,13 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [X]  Bugs Begone
          - [X]  Pain Relief
          - [X]  Stimulating Growth
-         - [ ]  Fresh Cleaning Supplies
+         - [X]  Fresh Cleaning Supplies
          - [X]  Shine a Light on the Problem
          - [X]  A Measure of Influence
 
     ???+ note "Respected"
          - [X]  Promoting Produce
-         - [ ]  Rough Around the Edges
+         - [X]  Rough Around the Edges
          - [X]  Building a Better Smoke Bomb
          - [X]  Remedies at the Ready
          - [X]  A Welcoming Fragrance
@@ -1030,11 +1030,11 @@ For now only some of the tribes are available to be enabled. I am in the process
     ???+ note "Honored"
          - [ ]  Creative Composting
          - [ ]  Stores to Dry For
-         - [ ]  Keeping the Lights On
-         - [ ]  Gifts of the Gainery
-         - [ ]  A Seasoning for Soup
-         - [ ]  Store-to-door Delivery
-         - [ ]  Above-average Beverage
+         - [X]  Keeping the Lights On
+         - [X]  Gifts of the Gainery
+         - [X]  A Seasoning for Soup
+         - [X]  Store-to-door Delivery
+         - [X]  Above-average Beverage
 
 
 [2]: https://github.com/LlamaMagic/DomesticSponsored/raw/main/Plugins/Beast%20Tribes/BeastTribes.zip "Download"
