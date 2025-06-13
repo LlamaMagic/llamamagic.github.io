@@ -990,14 +990,14 @@ For now only some of the tribes are available to be enabled. I am in the process
 
 ??? note "Mamool Ja" 
 
-    ![](https://geps.dev/progress/88)
-    <!--- 29/33 --->
+    ![](https://geps.dev/progress/94)
+    <!--- 31/33 --->
 
     ???+ note "Rank Ups"
          - [X]  Doppro Tradition
          - [X]  A Hoobigo's Return
          - [X]  The Boon of Boonewa
-         - [ ]  A New Yak T'el
+         - [X]  A New Yak T'el
          - [ ]  The Pride of Mamook
 
     ???+ note "Friendly"
@@ -1029,7 +1029,7 @@ For now only some of the tribes are available to be enabled. I am in the process
 
     ???+ note "Honored"
          - [ ]  Creative Composting
-         - [ ]  Stores to Dry For
+         - [X]  Stores to Dry For
          - [X]  Keeping the Lights On
          - [X]  Gifts of the Gainery
          - [X]  A Seasoning for Soup
