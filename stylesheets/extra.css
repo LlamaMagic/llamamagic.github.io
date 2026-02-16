@@ -1,0 +1,8 @@
+.md-header__button.md-logo :is(img,svg) {
+    height: auto;
+    width: auto;
+}
+
+:root > * {
+    --md-primary-fg-color:        #665280;
+  }
