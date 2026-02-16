@@ -43,7 +43,7 @@ You can request a 72 hour trial of any of my plugins by joining our [![Discord][
 
 You can purchase it using this button:
 ??? tip "Purchase"
-    [Purchases](http://localhost:8000/purchase/nt153133/purchase/)
+    [Purchases](https://llamamagic.net/purchase/nt153133/purchase/)
 
 
 
