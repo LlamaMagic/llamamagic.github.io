@@ -17,10 +17,7 @@ nav:
   - Home: index.md
   - Purchase:
     - nt153133: 
-        - Global: 
-            - purchase/nt153133/purchase.md 
-        - Chinese: 
-            - purchase/nt153133/purchasecn.md
+        - purchase/nt153133/purchase.md
     - DomesticWarlord: 
         - purchase/DW/purchase.md 
   - Wiki:
