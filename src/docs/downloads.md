@@ -4,6 +4,8 @@ title: Downloads
 
 # Downloads
 
+[CharacterSwitcher](https://characterswitcher.llamaserver.com/CharacterSwitcher.zip)
+
 [IslandGatherer/IslandWorkshop](https://islandgatherer.llamaserver.com/IslandGatherer.zip)
 
 [LlamaRP - Advertise](https://llamarp.llamaserver.com/LlamaRP.zip)
