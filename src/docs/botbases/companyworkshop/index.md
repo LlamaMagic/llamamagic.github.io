@@ -1,28 +1,34 @@
 # Company Workshop
 
-Company Workshop is a new botbase which will automate the redeployment and repair of your Free Company's airships and submersibles. It also automates crafting of airship/sub parts in the FC workshop. Crafting the parts from start to finish including grinding for and gathering any GC shop needed materials.
+Company Workshop is a BotBase designed to automate the redeployment and repair of your Free Company's airships and submersibles. Additionally, it fully automates the crafting of airship and sub parts in the FC workshop from start to finish—even grinding for and gathering any required Grand Company shop materials!
 
-This botbase updates on restart of RebornBuddy and doesn't need to be added to updateBuddy.
+???+ warning "Requirements & Compatibility"
+    * **Lisbeth Required:** This botbase relies on Lisbeth to craft parts and requires an active paid license.
+    * **LlamaLibrary:** Requires LlamaLibrary (free) to be installed.
+    * **Supported Regions:** Fully supports **Global (NA/EU/JP/SA)** and **Chinese** clients. It does *not* currently support Traditional Chinese clients.
 
-## Features
+## Airship & Submersible Expeditions
 
-- Airship/Sub Expeditions
-    - Resend active vessels on the same expedition
-    - Repair ship
-    - Store rewards in retainers and company chest
-    - Lisbeth and orderbot hooks
-    - Settings saved on per FC basis so same storage settings can be used on multiple characters
-- Workshop Crafting
-    - Start and complete a project from start to finish automatically
-    - Finish completing an already started project
-    - Craft multiple of the same item
-    - Automatically grinds for GC seals and buys required items
-    - In game overlay to see the progress of the Lisbeth order as well as run stats when it has to grind Siren Song Sea for seals
-    - Uses Lisbeth to craft the parts
+* **Automated Redeployment:** Effortlessly resend active vessels on the same expedition they just completed. The botbase handles repairing ships automatically to ensure zero downtime.
+* **Smart Loot Storage:** Automatically offload and store expedition rewards directly into your retainers or the Company Chest.
+* **Multi-Character Scaling:** Settings are saved on a per-FC basis, meaning the exact same storage and routing settings can be used across multiple characters in the same Free Company.
+* **Automation Hooks:** Includes built-in Lisbeth and Orderbot hooks for advanced users.
 
+## Workshop Crafting Automation
+
+* **Start-to-Finish Crafting:** Fully automates the crafting of airship and submersible parts in the FC workshop. Start new projects from scratch, finish already-started projects, or seamlessly queue up multiple of the same item.
+* **Autonomous Seal Grinding:** Missing GC shop materials? The botbase will automatically grind Siren Song Sea for Grand Company seals and purchase the required items.
+* **Real-Time Overlay:** Features a helpful in-game overlay to track the live progress of your Lisbeth crafting orders, as well as run statistics during GC seal dungeon grinds.
+
+## Limitations & Important Notes
+
+???+ info "Current Constraints"
+    * **Route Selection:** The bot will only resend ships on the **same** expedition they just finished.
+    * **Housing Projects:** Fully automated crafting on multi-stage housing items (like the Full Estate Exterior) is not currently supported. The bot can finish the *current* stage for you, but will not automate the entire chain. (More testing will be done if there is reasonable interest in this feature).
+    
 ## Screenshots
 
-??? tip "Examples"
+???+ tip "Examples"
     ![img-small](../../img/cw1.png){.center .xsmall}
     ![img-small](../../img/cw2.png){.center .xsmall}
     ![img-small](../../img/cw3.png){.center .xsmall}
