@@ -103,3 +103,6 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,visualstudiocode
 run.bat
+
+# Local MkDocs build output
+src/site/
