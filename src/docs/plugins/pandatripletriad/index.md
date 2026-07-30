@@ -17,7 +17,7 @@ hide:
       </div>
       <p class="tt-lede">Turn a scattered card checklist into one clear route. Panda Triple Triad reads your collection, builds the battles and travel steps you still need, and plays each match with a deck selected for the job.</p>
       <div class="tt-actions">
-        <a class="tt-button tt-button--primary" href="https://sts.llamamagic.net/PandaTripleTriad/PandaTripleTriad.zip">Download Panda Triple Triad</a>
+        <a class="tt-button tt-button--primary" href="https://downloads.llamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip">Download Panda Triple Triad</a>
         <a class="tt-button" href="../../purchase/DW/purchase/">Purchase or start a trial</a>
       </div>
       <div class="tt-proof">
@@ -243,7 +243,7 @@ hide:
       <p>Install Panda Triple Triad, verify your key, and let your current collection decide what happens next.</p>
     </div>
     <div class="tt-actions">
-      <a class="tt-button tt-button--primary" href="https://sts.llamamagic.net/PandaTripleTriad/PandaTripleTriad.zip">Download</a>
+      <a class="tt-button tt-button--primary" href="https://downloads.llamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip">Download</a>
       <a class="tt-button" href="https://discord.gg/CucSWEhJSZ">Get help on Discord</a>
     </div>
   </div>

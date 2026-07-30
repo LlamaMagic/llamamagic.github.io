@@ -24,7 +24,7 @@ If you're happy with the plugin and would like to purchase it, you can do so ove
 
 ## Installation
 
-1. Download the latest version by following the link [here](https://sts.llamamagic.net/PandaFarmer/PandaFarmer.zip).
+1. Download the latest version by following the link [here](https://downloads.llamamagic.net/plugins/PandaFarmer/PandaFarmer.zip).
 2. On the `.zip` file, right click > `Properties` > `Unblock` > `Apply`.
 3. Unzip all contents into `RebornBuddy\Plugins\ ` so it looks like this:
 

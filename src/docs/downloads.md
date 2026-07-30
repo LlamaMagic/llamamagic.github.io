@@ -16,14 +16,14 @@ title: Downloads
 
 [CompanyWorkshop](https://companyworkshop.llamaserver.com/CompanyWorkshop.zip)
 
-[BeastTribes](https://sts.llamamagic.net/BeastTribes/BeastTribes.zip)
+[BeastTribes](https://downloads.llamamagic.net/plugins/BeastTribes/BeastTribes.zip)
 
-[AnimaWeapons](https://sts.llamamagic.net/AnimaWeapons/AnimaWeapons.zip)
+[AnimaWeapons](https://downloads.llamamagic.net/plugins/AnimaWeapons/AnimaWeapons.zip)
 
-[MandervilleWeapons](https://sts.llamamagic.net/MandervilleWeapons/MandervilleWeapons.zip)
+[MandervilleWeapons](https://downloads.llamamagic.net/plugins/MandervilleWeapons/MandervilleWeapons.zip)
 
-[SplendorousTools](https://sts.llamamagic.net/SplendorousTools/SplendorousTools.zip)
+[SplendorousTools](https://downloads.llamamagic.net/plugins/SplendorousTools/SplendorousTools.zip)
 
-[PandaFarmer](https://sts.llamamagic.net/PandaFarmer/PandaFarmer.zip)
+[PandaFarmer](https://downloads.llamamagic.net/plugins/PandaFarmer/PandaFarmer.zip)
 
-[ZodiacWeapons](https://sts.llamamagic.net/ZodiacWeapons/ZodiacWeapons.zip)
+[ZodiacWeapons](https://downloads.llamamagic.net/plugins/ZodiacWeapons/ZodiacWeapons.zip)

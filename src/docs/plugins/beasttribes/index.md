@@ -35,7 +35,7 @@ You can purchase it using these buttons below. If you already own BeastTribes fr
 
 ## Installation
 
-1. Download the latest version by following the link [here](https://sts.llamamagic.net/BeastTribes/BeastTribes.zip).
+1. Download the latest version by following the link [here](https://downloads.llamamagic.net/plugins/BeastTribes/BeastTribes.zip).
 2. On the `.zip` file, right click > `Properties` > `Unblock` > `Apply`.
 3. Unzip all contents into `RebornBuddy\Plugins\` so it looks like this:
 
@@ -1037,7 +1037,7 @@ For now only some of the tribes are available to be enabled. I am in the process
          - [X]  Above-average Beverage
 
 
-[2]: https://github.com/LlamaMagic/DomesticSponsored/raw/main/Plugins/Beast%20Tribes/BeastTribes.zip "Download"
+[2]: https://downloads.llamamagic.net/plugins/BeastTribes/BeastTribes.zip "Download"
 [3]: https://img.shields.io/badge/Discord-7389D8?logo=discord&logoColor=ffffff&labelColor=6A7EC2
 [4]: https://discord.gg/CucSWEhJSZ "Discord"
 [5]: https://shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?logo=kofi&logoColor=ffffff&labelColor=FF5E5B
