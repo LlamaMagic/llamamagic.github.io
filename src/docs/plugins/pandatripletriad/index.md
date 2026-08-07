@@ -16,9 +16,12 @@ hide:
         <h1>Panda<br>Triple Triad</h1>
       </div>
       <p class="tt-lede">Turn a scattered card checklist into one clear route. Panda Triple Triad reads your collection, builds the battles and travel steps you still need, and plays each match with a deck selected for the job.</p>
+      <!-- Send customers directly to the product-specific Stripe Checkout while keeping download
+           and support information available before they commit to a purchase. -->
       <div class="tt-actions">
-        <a class="tt-button tt-button--primary" href="https://downloads.llamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip">Download Panda Triple Triad</a>
-        <a class="tt-button" href="../../purchase/DW/purchase/">Purchase or start a trial</a>
+        <a class="tt-button tt-button--primary" href="https://buy.stripe.com/bJe5kDdcAazy91gacZcjS0K">Buy Panda Triple Triad</a>
+        <a class="tt-button" href="https://downloads.llamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip">Download</a>
+        <a class="tt-button" href="readme/">Customer guide</a>
       </div>
       <div class="tt-proof">
         <span>Collection-aware</span>
@@ -152,11 +155,11 @@ hide:
     <div class="tt-steps">
       <article class="tt-step">
         <span class="tt-step__number">1</span>
-        <div><h3>Install the plugin</h3><p>Download the ZIP, open its Windows Properties, choose <strong>Unblock</strong> if the option appears, then extract the complete <code>PandaTripleTriad</code> folder into <code>RebornBuddy\Plugins\</code>.</p></div>
+        <div><h3>Install the plugin</h3><p>Download the ZIP, open its Windows Properties, choose <strong>Unblock</strong> if the option appears, then extract every file into <code>RebornBuddy\Plugins\PandaTripleTriad\</code>. Avoid an extra nested folder.</p></div>
       </article>
       <article class="tt-step">
         <span class="tt-step__number">2</span>
-        <div><h3>Enable it in RebornBuddy</h3><p>Restart RebornBuddy, open the Plugins tab, and enable <strong>Panda Triple Triad</strong>. If Panda Farmer WPF is missing, the setup dialog can install it and restart RebornBuddy for you.</p></div>
+        <div><h3>Enable it in RebornBuddy</h3><p>Open FINAL FANTASY XIV and log in, restart RebornBuddy, open the Plugins tab, and enable <strong>Panda Triple Triad</strong>. Panda Triple Triad is standalone and does not require Panda Farmer WPF.</p></div>
       </article>
       <article class="tt-step">
         <span class="tt-step__number">3</span>
@@ -186,8 +189,7 @@ hide:
         <li>FINAL FANTASY XIV for Windows</li>
         <li><a href="https://www.rebornbuddy.com/">RebornBuddy</a> with an active license</li>
         <li><a href="https://www.siune.io/">Lisbeth</a> for route navigation</li>
-        <li>Magitek combat routine</li>
-        <li>Panda Farmer WPF, installed automatically if missing</li>
+        <li>Magitek combat routine for supported duty-card farming</li>
         <li>A valid Panda Triple Triad key or active trial</li>
       </ul>
     </div>
@@ -226,7 +228,7 @@ hide:
     </details>
     <details>
       <summary>How do I stop a long route safely?</summary>
-      <p>Select <strong>Stop Gently</strong> on the gameplay overlay. Panda Triple Triad waits for a safe route boundary before stopping.</p>
+      <p>Select <strong>Stop Gently</strong> on the gameplay overlay. The button tells you whether the plugin will stop after the current match, duty run, or other active task.</p>
     </details>
     <details>
       <summary>Can I try it before buying?</summary>
@@ -243,7 +245,8 @@ hide:
       <p>Install Panda Triple Triad, verify your key, and let your current collection decide what happens next.</p>
     </div>
     <div class="tt-actions">
-      <a class="tt-button tt-button--primary" href="https://downloads.llamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip">Download</a>
+      <a class="tt-button tt-button--primary" href="https://buy.stripe.com/bJe5kDdcAazy91gacZcjS0K">Buy now</a>
+      <a class="tt-button" href="readme/">Read the customer guide</a>
       <a class="tt-button" href="https://discord.gg/CucSWEhJSZ">Get help on Discord</a>
     </div>
   </div>

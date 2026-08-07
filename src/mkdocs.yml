@@ -42,7 +42,9 @@ nav:
         - Panda Farmer:           
             - plugins/pandafarmer/index.md                   
         - Panda Triple Triad:
-            - plugins/pandatripletriad/index.md
+            # Keep the sales overview concise while giving purchasers a stable operational guide.
+            - Overview: plugins/pandatripletriad/index.md
+            - Customer Guide: plugins/pandatripletriad/readme.md
         - Splendorous Tools:           
             - plugins/splendoroustools/index.md
         - Zodiac Weapons:           

@@ -636,6 +636,52 @@
   line-height: 1.5;
 }
 
+/* The customer guide reuses the product visual language but favors long-form readability and
+   obvious operational links over the denser sales-page composition. */
+.tt-guide {
+  max-width: 980px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.tt-guide-hero {
+  margin-bottom: 2.5rem;
+  padding: clamp(1.5rem, 5vw, 3rem);
+  border: 1px solid var(--tt-border);
+  border-radius: 1rem;
+  background:
+    radial-gradient(circle at 90% 5%, rgba(102, 199, 240, 0.12), transparent 32%),
+    linear-gradient(145deg, rgba(48, 38, 67, 0.92), rgba(20, 23, 31, 0.98));
+}
+
+.tt-guide-hero h1 {
+  margin-top: 0;
+  font-size: clamp(2rem, 5vw, 3.4rem);
+}
+
+.tt-guide h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--tt-border);
+  font-size: clamp(1.45rem, 3vw, 2rem);
+}
+
+.tt-guide :is(li, td, th) {
+  color: #c5c9d2;
+}
+
+.tt-guide table {
+  display: table;
+  width: 100%;
+}
+
+.tt-guide-footer {
+  margin-top: 2.5rem;
+  padding: 1.25rem;
+  border-left: 3px solid var(--tt-violet-bright);
+  background: rgba(169, 135, 220, 0.08);
+}
+
 @media (max-width: 950px) {
   .tt-hero-grid,
   .tt-workflow {
