@@ -17,7 +17,7 @@ Everything you should know before purchasing, installing, or running Panda Tripl
 
 <div class="tt-actions">
   <a class="tt-button tt-button--primary" href="https://buy.stripe.com/bJe5kDdcAazy91gacZcjS0K">Buy Panda Triple Triad</a>
-  <a class="tt-button" href="https://downloads.llamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip">Download the plugin</a>
+  <a class="tt-button" href="https://downloads.llamamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip">Download the plugin</a>
   <a class="tt-button" href="../">Return to product overview</a>
 </div>
 
@@ -51,7 +51,7 @@ If an installation is no longer used, **Reset ID** releases that computer from t
 
 ## Installation
 
-1. [Download Panda Triple Triad](https://downloads.llamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip).
+1. [Download Panda Triple Triad](https://downloads.llamamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip).
 2. Right-click the ZIP, open **Properties**, and choose **Unblock** if Windows shows that option.
 3. Create `RebornBuddy\Plugins\PandaTripleTriad\` if needed, then extract every file from the ZIP directly into that folder.
 4. Open FINAL FANTASY XIV and log in.
@@ -143,7 +143,7 @@ Include the relevant RebornBuddy log and a short description of what you selecte
 
 <section class="tt-guide-footer" markdown>
 
-Need the short version? [Buy Panda Triple Triad](https://buy.stripe.com/bJe5kDdcAazy91gacZcjS0K), [download it](https://downloads.llamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip), then open FINAL FANTASY XIV before restarting RebornBuddy.
+Need the short version? [Buy Panda Triple Triad](https://buy.stripe.com/bJe5kDdcAazy91gacZcjS0K), [download it](https://downloads.llamamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip), then open FINAL FANTASY XIV before restarting RebornBuddy.
 
 </section>
 

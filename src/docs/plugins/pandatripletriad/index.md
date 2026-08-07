@@ -20,7 +20,7 @@ hide:
            and support information available before they commit to a purchase. -->
       <div class="tt-actions">
         <a class="tt-button tt-button--primary" href="https://buy.stripe.com/bJe5kDdcAazy91gacZcjS0K">Buy Panda Triple Triad</a>
-        <a class="tt-button" href="https://downloads.llamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip">Download</a>
+        <a class="tt-button" href="https://downloads.llamamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip">Download</a>
         <a class="tt-button" href="readme/">Customer guide</a>
       </div>
       <div class="tt-proof">
