@@ -24,6 +24,9 @@ title: Downloads
 
 [SplendorousTools](https://downloads.llamamagic.net/plugins/SplendorousTools/SplendorousTools.zip)
 
+<!-- Route customers through manual botbase migration instructions; the canonical URL still contains /plugins/. -->
+[Panda Crucible (botbase beta — download and setup)](plugins/pandacrucible/index.md)
+
 [PandaFarmer](https://downloads.llamamagic.net/plugins/PandaFarmer/PandaFarmer.zip)
 [PandaTripleTriad](https://downloads.llamamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip)
 

@@ -22,6 +22,10 @@ nav:
         - purchase/DW/purchase.md 
   - Wiki:
     - BotBases:
+        # Crucible is a standalone botbase; retain its existing URLs for incoming links.
+        - Panda Crucible:
+            - Overview: plugins/pandacrucible/index.md
+            - Customer Guide: plugins/pandacrucible/readme.md
         - LamaRP (Advertise):
             - botbases/advertise/index.md     
         - Company Workshop:

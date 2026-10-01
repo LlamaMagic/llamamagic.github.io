@@ -22,6 +22,8 @@ You can request a 72 hour trial of any of my plugins by joining our [![Discord][
 
 If you're happy with the plugin and would like to purchase it, you can do so over at the [Purchase](../../purchase/DW/purchase.md) page. PandaFarmer is subscription based, but there's also an option to just purchase a 30 day key.
 
+You can purchase the V&C Unlock from here: https://buy.stripe.com/4gMbJ11tSgXW2CS2KxcjS0O
+
 ## Installation
 
 1. Download the latest version by following the link [here](https://downloads.llamamagic.net/plugins/PandaFarmer/PandaFarmer.zip).
