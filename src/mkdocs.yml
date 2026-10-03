@@ -45,6 +45,10 @@ nav:
             - plugins/mandervilleweapons/index.md        
         - Panda Farmer:           
             - plugins/pandafarmer/index.md                   
+        # The WPF beta has its own guide and channel; retain the original Farmer entry.
+        - Panda Farmer WPF Beta:
+            - Overview: plugins/pandafarmerwpf/index.md
+            - Beta Guide: plugins/pandafarmerwpf/readme.md
         - Panda Triple Triad:
             # Keep the sales overview concise while giving purchasers a stable operational guide.
             - Overview: plugins/pandatripletriad/index.md

@@ -1,5 +1,10 @@
 # Panda Farmer
 
+<!-- Point beta users to their dedicated guide without replacing stable instructions. -->
+!!! tip "Looking for the new WPF beta?"
+    Visit the separate [Panda Farmer WPF Beta overview and setup guide](../pandafarmerwpf/index.md).
+
+
 [![Discord][3]][4]
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/domesticwarlord86)
 [![Donate][5]][6]

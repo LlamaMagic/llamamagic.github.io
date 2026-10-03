@@ -28,6 +28,10 @@ title: Downloads
 [Panda Crucible (botbase beta — download and setup)](plugins/pandacrucible/index.md)
 
 [PandaFarmer](https://downloads.llamamagic.net/plugins/PandaFarmer/PandaFarmer.zip)
+
+<!-- Keep the beta's install/channel guidance separate from the stable download. -->
+[Panda Farmer WPF Beta (download and setup)](plugins/pandafarmerwpf/index.md)
+
 [PandaTripleTriad](https://downloads.llamamagic.net/plugins/PandaTripleTriad/PandaTripleTriad.zip)
 
 [ZodiacWeapons](https://downloads.llamamagic.net/plugins/ZodiacWeapons/ZodiacWeapons.zip)
