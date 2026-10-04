@@ -50,9 +50,11 @@ nav:
             - Overview: plugins/pandafarmerwpf/index.md
             - Beta Guide: plugins/pandafarmerwpf/readme.md
         - Panda Triple Triad:
-            # Keep the sales overview concise while giving purchasers a stable operational guide.
             - Overview: plugins/pandatripletriad/index.md
             - Customer Guide: plugins/pandatripletriad/readme.md
+        - Panda Crucible:
+            - Overview: plugins/pandacrucible/index.md
+            - Customer Guide: plugins/pandacrucible/readme.md
         - Splendorous Tools:           
             - plugins/splendoroustools/index.md
         - Zodiac Weapons:           
