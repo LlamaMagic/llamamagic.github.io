@@ -144,3 +144,4 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/panda-triple-triad-v2.css
+  - stylesheets/purchase.css

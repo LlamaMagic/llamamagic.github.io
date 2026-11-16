@@ -1,0 +1,43 @@
+/* Storefront styles are scoped to this page so the documentation theme stays intact. */
+.shop-page { color:#f5f1fa; --shop-muted:#b8b2c7; --shop-gold:#e6bf77; }
+.shop-page h1,.shop-page h2,.shop-page h3 { color:#f8f5fb; letter-spacing:-.035em; }
+.shop-page p { color:var(--shop-muted); line-height:1.7; }
+.shop-hero { padding:clamp(2rem,6vw,4.5rem) clamp(1.3rem,5vw,3.5rem); margin-bottom:1.2rem; border:1px solid #554363; border-radius:1rem; background:radial-gradient(ellipse at 85% 12%,#54436a 0,transparent 42%),linear-gradient(125deg,#1d1926,#252031 70%,#181720); }
+.shop-kicker { display:block; color:var(--shop-gold); font-size:.65rem; font-weight:800; letter-spacing:.16em; text-transform:uppercase; }
+.shop-page .shop-hero h1 { margin:.6rem 0 1rem; font-size:clamp(2.5rem,6vw,4.8rem); line-height:1.04; }
+.shop-hero h1 em { color:#dfc5ff; font-style:normal; }
+.shop-hero p { max-width:34rem; font-size:1rem; margin-bottom:1.6rem; }
+.shop-button { display:inline-flex; align-items:center; gap:1rem; padding:.75rem 1rem; border:1px solid #8b789b; border-radius:.4rem; color:#f9f5ff!important; font-weight:750; font-size:.72rem; text-decoration:none!important; }
+.shop-button--primary { background:#e6bf77; color:#241d28!important; border-color:#e6bf77; }
+.shop-button:hover { filter:brightness(1.12); }
+.shop-button:focus-visible,.shop-card:focus-visible,.shop-more a:focus-visible { outline:3px solid #f3d792; outline-offset:3px; }
+.shop-text-link { display:inline-block; margin:1rem; color:#ddd2e9!important; font-size:.72rem; }
+.shop-bundle { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); overflow:hidden; border:1px solid #736047; border-radius:1rem; background:linear-gradient(135deg,#2d2532,#211c29); }
+.shop-bundle__art { min-height:310px; background:#25202e url('../img/panda-bundle-collection.png') center/cover no-repeat; }
+.shop-bundle__content { padding:clamp(1.5rem,4vw,3rem); align-self:center; }
+.shop-page .shop-bundle h2 { font-size:clamp(1.9rem,4vw,3rem); margin:.45rem 0; line-height:1.1; }
+.shop-price { display:flex; align-items:center; gap:.8rem; margin:1rem 0; color:#d7c5a7; font-size:.65rem; line-height:1.3; }
+.shop-price strong { color:#fff; font-size:2.3rem; letter-spacing:-.05em; }
+.shop-page .shop-fine { font-size:.6rem; margin:.7rem 0 0; }
+.shop-section { margin:4rem 0; scroll-margin-top:5rem; }
+.shop-page .shop-section h2,.shop-page .shop-help h2 { font-size:clamp(1.8rem,4vw,2.7rem); margin:.4rem 0; }
+.shop-intro { max-width:37rem; margin:0 0 1.5rem; }
+.shop-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.8rem; }
+.shop-card { display:flex; flex-direction:column; min-height:190px; padding:1.3rem; border:1px solid #40394b; border-radius:.65rem; background:#211e2a; text-decoration:none!important; }
+.shop-card:hover { border-color:#b69bd0; background:#2b2535; }
+.shop-card__number { color:#bf9edd; font-size:.57rem; letter-spacing:.13em; font-weight:800; }
+.shop-page .shop-card h3 { margin:.8rem 0 .25rem; font-size:1.15rem; }
+.shop-card h3 small { color:#d0a967; font-size:.55rem; text-transform:uppercase; }
+.shop-card p { margin:0 0 1rem; font-size:.72rem; }
+.shop-card__link { margin-top:auto; color:#e4c68e; font-size:.67rem; font-weight:700; }
+.shop-more { display:flex; flex-wrap:wrap; gap:.5rem 1.2rem; margin-top:1rem; font-size:.7rem; }
+.shop-more a { color:#d4c0e9!important; }
+.shop-offers stripe-pricing-table { display:block; margin:1rem 0; }
+.shop-help { display:flex; align-items:center; justify-content:space-between; gap:1rem; padding:1.5rem; border:1px solid #4c405b; border-radius:.7rem; background:#282231; }
+.shop-help p { margin:.2rem 0 0; }
+@media(max-width:650px) { .shop-bundle,.shop-grid { grid-template-columns:1fr; } .shop-bundle__art { min-height:240px; } .shop-help { align-items:flex-start; flex-direction:column; } }
+
+.shop-includes { display:grid; gap:.25rem; padding-left:1.1rem; color:#e0d8e5; font-size:.7rem; }
+.shop-includes li::marker { color:#e6bf77; }
+/* Show the mascot rather than a narrow center crop when the artwork stacks above the copy. */
+@media(max-width:650px) { .shop-bundle__art { aspect-ratio: 1 / .78; background-position:center 25%; } }
