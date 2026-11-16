@@ -146,3 +146,4 @@ extra_css:
   - stylesheets/panda-triple-triad-v2.css
   - stylesheets/panda-store-v2.css
 
+  - stylesheets/farmer-manual.css
