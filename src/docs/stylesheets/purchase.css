@@ -13,7 +13,7 @@
 .shop-button:focus-visible,.shop-card:focus-visible,.shop-more a:focus-visible { outline:3px solid #f3d792; outline-offset:3px; }
 .shop-text-link { display:inline-block; margin:1rem; color:#ddd2e9!important; font-size:.72rem; }
 .shop-bundle { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); overflow:hidden; border:1px solid #736047; border-radius:1rem; background:linear-gradient(135deg,#2d2532,#211c29); }
-.shop-bundle__art { min-height:310px; background:#25202e url('../img/panda-bundle-collection.png') center/cover no-repeat; }
+.shop-bundle__art { min-height:310px; background:#25202e url('../img/panda-bundle-collection.png?v=b085a70') center/cover no-repeat; }
 .shop-bundle__content { padding:clamp(1.5rem,4vw,3rem); align-self:center; }
 .shop-page .shop-bundle h2 { font-size:clamp(1.9rem,4vw,3rem); margin:.45rem 0; line-height:1.1; }
 .shop-price { display:flex; align-items:center; gap:.8rem; margin:1rem 0; color:#d7c5a7; font-size:.65rem; line-height:1.3; }
@@ -41,3 +41,4 @@
 .shop-includes li::marker { color:#e6bf77; }
 /* Show the mascot rather than a narrow center crop when the artwork stacks above the copy. */
 @media(max-width:650px) { .shop-bundle__art { aspect-ratio: 1 / .78; background-position:center 25%; } }
+
