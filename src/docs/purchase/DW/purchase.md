@@ -3,9 +3,9 @@ title: Panda Store
 description: Compare Panda tools and save $42 with the $80 One-Time Bundle.
 hide:
   - toc
-  - navigation
 ---
 
+<!-- Keep the site navigation visible so customers can move between the store and guides. -->
 <!-- Prices and existing payment links were checked against the live Stripe catalog on 2026-11-16.
      The $122 comparison uses the eight named standalone products, including the $20 Beast Tribes
      offer that already includes Dawntrail. Keep the $15 Farmer bonus outside the savings baseline.
