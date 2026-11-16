@@ -1,57 +1,26 @@
 ---
-title: Shop Domestic's tools
-description: Explore Domestic's RebornBuddy plugins and one-time bundle.
+title: Panda Store
+description: Compare Panda tools and save $42 with the $80 One-Time Bundle.
 hide:
   - toc
+  - navigation
 ---
 
-<!-- Retain the existing tables for the complete set of offers: separate payment links can have
-     different tax and promotion settings. The bundle link uses the current $90 bundle price. -->
-<div class="shop-page">
-  <section class="shop-hero">
-    <span class="shop-kicker">Domestic's RebornBuddy tools</span>
-    <h1>More adventure.<br><em>Less busywork.</em></h1>
-    <p>From story progression to collections and relic weapons, find a tool for your next goal.</p>
-    <a class="shop-button shop-button--primary" href="#shop-offers">Browse purchase options <span aria-hidden="true">↗</span></a>
-    <a class="shop-text-link" href="#explore-tools">Explore the tools ↓</a>
-  </section>
-
-  <section class="shop-bundle" aria-labelledby="bundle-title">
-    <div class="shop-bundle__art" role="img" aria-label="An adventurous panda with a collection of fantasy tools"></div>
-    <div class="shop-bundle__content">
-      <span class="shop-kicker">The collection</span>
-      <h2 id="bundle-title">One-Time Bundle</h2>
-      <p>Get a collection of one-time tools for relic weapons, tribal quests, Beastmaster, and Variant &amp; Criterion dungeons in one purchase.</p>
-      <ul class="shop-includes"><li>Beast Tribes, including Dawntrail</li><li>Zodiac, Anima &amp; Manderville Weapons</li><li>Splendorous Tools, Panda Crucible &amp; Panda Triple Triad</li><li>Panda Farmer V&amp;C Dungeons add-on</li></ul>
-      <div class="shop-price"><strong>$90</strong><span>USD<br>one-time purchase</span></div>
-      <a class="shop-button shop-button--primary" href="https://buy.stripe.com/9B67sL4G40YYelAacZcjS0S">Get the bundle <span aria-hidden="true">↗</span></a>
-      <p class="shop-fine">Standard Panda Farmer is separate and required for the V&amp;C add-on. Contact Domestic on Discord with proof of purchase for a free 90-day Panda Farmer key.</p>
-    </div>
-  </section>
-
-  <section id="explore-tools" class="shop-section">
-    <span class="shop-kicker">Find your next goal</span>
-    <h2>Explore the tools</h2>
-    <p class="shop-intro">Learn what each tool does before choosing the purchase that fits you.</p>
-    <div class="shop-grid">
-      <a class="shop-card" href="../../../plugins/pandafarmer/"><span class="shop-card__number">01 / PROGRESSION</span><h3>Panda Farmer</h3><p>Bring farming, leveling, story progression, and more together.</p><span class="shop-card__link">Explore Panda Farmer ↗</span></a>
-      <a class="shop-card" href="../../../plugins/pandatripletriad/"><span class="shop-card__number">02 / COLLECTIONS</span><h3>Panda Triple Triad</h3><p>Work toward your next card with collection-aware routes and matches.</p><span class="shop-card__link">Explore Triple Triad ↗</span></a>
-      <a class="shop-card" href="../../../plugins/pandacrucible/"><span class="shop-card__number">03 / BEASTMASTER</span><h3>Panda Crucible <small>Beta</small></h3><p>Choose a board, train your pets, and work through Beastmaster progression.</p><span class="shop-card__link">Explore Crucible ↗</span></a>
-      <a class="shop-card" href="../../../plugins/animaweapons/"><span class="shop-card__number">04 / RELIC WEAPONS</span><h3>Relic &amp; crafting tools</h3><p>Explore tools for Anima, Zodiac, Manderville, and Splendorous projects.</p><span class="shop-card__link">Explore Anima Weapons ↗</span></a>
-    </div>
-    <div class="shop-more"><a href="../../../plugins/zodiacweapons/">Zodiac Weapons</a><a href="../../../plugins/mandervilleweapons/">Manderville Weapons</a><a href="../../../plugins/splendoroustools/">Splendorous Tools</a><a href="../../../plugins/beasttribes/">Beast Tribes</a></div>
-  </section>
-
-  <section id="shop-offers" class="shop-section shop-offers">
-    <span class="shop-kicker">Choose your purchase</span>
-    <h2>Find the right fit.</h2>
-    <p class="shop-intro">Compare the available options below. Stripe displays the current price and purchase terms for each offer.</p>
-    <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-    <stripe-pricing-table pricing-table-id="prctbl_1OeLQ8Fdsj1r46il2N68iN5U" publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8"></stripe-pricing-table>
-    <stripe-pricing-table pricing-table-id="prctbl_1MvorOFdsj1r46ilbMhCbFK9" publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8"></stripe-pricing-table>
-    <stripe-pricing-table pricing-table-id="prctbl_1OEZKjFdsj1r46ilp3Jw1jak" publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8"></stripe-pricing-table>
-    <stripe-pricing-table pricing-table-id="prctbl_1NLxokFdsj1r46il2UUQ1TEg" publishable-key="pk_live_51Mdje9Fdsj1r46ilbr3eeB0vKcThZI0r8J04ZLrPwhcrkTUEjW5168m9xuRYTTkOyAag0rUWqmFhzmEDRcqCUN900038n3jgm8"></stripe-pricing-table>
-    <noscript>JavaScript is required to display the Stripe purchase options.</noscript>
-  </section>
-  <section class="shop-help"><div><span class="shop-kicker">Need a hand?</span><h2>Questions before you buy?</h2><p>Visit Discord for help choosing or setting up a product.</p></div><a class="shop-button" href="https://discord.gg/bmgCq39">Visit Discord ↗</a></section>
+<!-- Prices and existing payment links were checked against the live Stripe catalog on 2026-11-16.
+     The $122 comparison uses the eight named standalone products, including the $20 Beast Tribes
+     offer that already includes Dawntrail. Keep the $15 Farmer bonus outside the savings baseline.
+     Legacy pricing tables are omitted because they retain the retired $90 price ID.
+     Checkout links retain their existing tax/promotion behavior; this page changes presentation only. -->
+<div class="store">
+<nav class="store-nav" aria-label="Store sections"><a class="store-brand" href="#">PANDA<span>BY DOMESTIC</span></a><div><a href="#collection">The bundle</a><a href="#individual">Individual tools</a><a href="#farmer">Panda Farmer</a></div><a class="store-support" href="https://discord.gg/bmgCq39">Get help ↗</a></nav>
+<header class="store-intro"><span class="store-label">YOUR NEXT GOAL STARTS HERE</span><h1>More tools.<br><em>Better value.</em></h1><p>Get $122 of one-time tools for $80. <strong>Save $42</strong> on your next collection of FFXIV adventures.</p></header>
+<section class="collection" id="collection" aria-labelledby="collection-title">
+<div class="collection-main"><div class="collection-art"><img src="../../../img/panda-bundle-collection.png" alt="Panda adventurer surrounded by collectible cards, relic weapons, and crafting tools"><span class="art-caption">ONE PURCHASE. MORE POSSIBILITIES.</span></div><div class="collection-copy"><span class="store-label">THE ONE-TIME COLLECTION</span><h2 id="collection-title">Eight tools.<br>One better price.</h2><p>Relics, tribal quests, cards, Beastmaster, and more. Get the full collection below in one bundle.</p><div class="bundle-price"><s>$122</s><strong>$80</strong><span>USD<br>one time</span></div><div class="savings">Save $42 <span>34% less than buying individually</span></div><a class="store-primary" href="https://buy.stripe.com/6oU9AT1tS232cds2KxcjS0V">Get the One-Time Bundle <span>↗</span></a><p class="price-note">No recurring bundle charge. All prices shown in USD.</p></div></div>
+<div class="bonus"><span class="bonus-tag">ALSO INCLUDED</span><p><strong>A free 90-day Panda Farmer key</strong><br>Contact Domestic on Discord with proof of purchase to claim your bonus. A $15 standalone value, separate from the $42 savings above.</p><a href="https://discord.gg/bmgCq39">Claim on Discord ↗</a></div>
+<div class="comparison"><div><span class="store-label">SEE WHERE YOU SAVE</span><h3>Every tool. Every price.<br>One clear comparison.</h3><p>Choose the bundle for the collection, or pick up an individual tool below.</p><p class="requirement"><strong>Panda Farmer requirement</strong><br>The V&amp;C add-on requires an active Panda Farmer license. Standard Panda Farmer is available separately; the bonus key provides 90 days of access.</p></div><div class="comparison-table"><table><thead><tr><th scope="col">What's included</th><th scope="col">Separately</th><th scope="col">Bundle</th></tr></thead><tbody><tr><td>Beast Tribes</td><td>$20</td><td><span class="included">Included</span></td></tr><tr><td>Zodiac Weapons</td><td>$30</td><td><span class="included">Included</span></td></tr><tr><td>Anima Weapons</td><td>$20</td><td><span class="included">Included</span></td></tr><tr><td>Manderville Weapons</td><td>$10</td><td><span class="included">Included</span></td></tr><tr><td>Splendorous Tools</td><td>$10</td><td><span class="included">Included</span></td></tr><tr><td>Panda Triple Triad</td><td>$7</td><td><span class="included">Included</span></td></tr><tr><td>Panda Crucible</td><td>$20</td><td><span class="included">Included</span></td></tr><tr><td>Panda V&amp;C Dungeons</td><td>$5</td><td><span class="included">Included</span></td></tr></tbody><tfoot><tr><th scope="row">Your total</th><td><s>$122</s></td><td>$80</td></tr></tfoot></table></div></div>
+</section>
+<section class="store-section" id="individual"><div class="section-title"><div><span class="store-label">CHOOSE YOUR OWN PATH</span><h2>Just need one tool?</h2></div><p>One-time purchases. Pick your goal.<br>Each of these is included in the bundle.</p></div><div class="product-grid"><article class="store-card"><span class="store-label">TRIBAL QUESTS</span><h3>Beast Tribes</h3><p>Daily tribal quests, with Dawntrail included.</p><div class="card-bottom"><div class="card-price">$20<small>one time</small></div><a class="store-buy" href="https://buy.stripe.com/5kAg1L8CUfXO3KM28O">Buy now ↗</a></div><a class="store-guide" href="../../../plugins/beasttribes/">Explore features &amp; requirements →</a></article><article class="store-card"><span class="store-label">A REALM REBORN</span><h3>Zodiac Weapons</h3><p>Work toward your A Realm Reborn relic weapons.</p><div class="card-bottom"><div class="card-price">$30<small>one time</small></div><a class="store-buy" href="https://buy.stripe.com/cN23eZ8CU26Y0yAbIP">Buy now ↗</a></div><a class="store-guide" href="../../../plugins/zodiacweapons/">Explore features &amp; requirements →</a></article><article class="store-card"><span class="store-label">HEAVENSWARD</span><h3>Anima Weapons</h3><p>Build your Heavensward relic collection.</p><div class="card-bottom"><div class="card-price">$20<small>one time</small></div><a class="store-buy" href="https://buy.stripe.com/8wM5n7dXe8vm956dR9">Buy now ↗</a></div><a class="store-guide" href="../../../plugins/animaweapons/">Explore features &amp; requirements →</a></article><article class="store-card"><span class="store-label">ENDWALKER</span><h3>Manderville Weapons</h3><p>Progress your Endwalker relic weapons.</p><div class="card-bottom"><div class="card-price">$10<small>one time</small></div><a class="store-buy" href="https://buy.stripe.com/aEU8zj1as5jachibJ0">Buy now ↗</a></div><a class="store-guide" href="../../../plugins/mandervilleweapons/">Explore features &amp; requirements →</a></article><article class="store-card"><span class="store-label">CRAFTING &amp; GATHERING</span><h3>Splendorous Tools</h3><p>Work toward your level 90 crafting and gathering tools.</p><div class="card-bottom"><div class="card-price">$10<small>one time</small></div><a class="store-buy" href="https://buy.stripe.com/6oEg1L3iAcLC2GIdR7">Buy now ↗</a></div><a class="store-guide" href="../../../plugins/splendoroustools/">Explore features &amp; requirements →</a></article><article class="store-card"><span class="store-label">CARD COLLECTION</span><h3>Panda Triple Triad</h3><p>Collection-aware routes, decks, and card matches.</p><div class="card-bottom"><div class="card-price">$7<small>one time</small></div><a class="store-buy" href="https://buy.stripe.com/bJe5kDdcAazy91gacZcjS0K">Buy now ↗</a></div><a class="store-guide" href="../../../plugins/pandatripletriad/">Explore features &amp; requirements →</a></article><article class="store-card"><span class="store-label">BEASTMASTER</span><h3>Panda Crucible</h3><p>Board completion, pet leveling, and Beastmaster progression. Beta.</p><div class="card-bottom"><div class="card-price">$20<small>one time</small></div><a class="store-buy" href="https://buy.stripe.com/8x29ATegE5fefpEetfcjS0N">Buy now ↗</a></div><a class="store-guide" href="../../../plugins/pandacrucible/">Explore features &amp; requirements →</a></article><article class="store-card"><span class="store-label">FARMER ADD-ON</span><h3>Panda V&amp;C Dungeons</h3><p>Unlock the V&amp;C Dungeons tab. Requires an active Panda Farmer license.</p><div class="card-bottom"><div class="card-price">$5<small>one time</small></div><a class="store-buy" href="https://buy.stripe.com/4gMbJ11tSgXW2CS2KxcjS0O">Buy now ↗</a></div><a class="store-guide" href="../../../plugins/pandafarmerwpf/">Explore features &amp; requirements →</a></article></div></section>
+<section class="farmer" id="farmer"><img src="../../../img/panda-farmer-wpf.png" alt="Panda Farmer mascot"><div><span class="store-label">YOUR EVERYDAY ADVENTURE COMPANION</span><h2>Panda Farmer</h2><p>Farming, job leveling, story progression, and collections in one place. Choose a monthly subscription, or explore the prepaid options below.</p><a class="store-guide" href="../../../plugins/pandafarmerwpf/">Explore Panda Farmer &amp; requirements →</a></div><div class="farmer-checkout"><div class="card-price">$5<small>USD / month</small></div><a class="store-primary" href="https://buy.stripe.com/dRm4gz7Sg2327Xc84RcjS0U">Subscribe ↗</a><p>Recurring monthly subscription.<br>Separate from the One-Time Bundle.</p></div></section>
+<section class="store-section store-faq"><span class="store-label">BEFORE YOU CHECK OUT</span><h2>A few things to know.</h2><details><summary>Is Panda Farmer included in the bundle?</summary><p>The bundle includes the V&amp;C Dungeons add-on, which requires an active Panda Farmer license. You can claim a free 90-day Farmer key by contacting Domestic on Discord with proof of bundle purchase. The standard Farmer subscription is separate.</p></details><details><summary>How is the $42 saving calculated?</summary><p>The eight tools above cost $122 when purchased individually. The bundle costs $80, saving $42 (34.4%). The free 90-day Farmer key is an additional bonus and is not counted in that comparison.</p></details><details><summary>Where can I check setup and supported features?</summary><p>Each product card links to its guide and requirements. Review those before purchasing, or visit <a href="https://discord.gg/bmgCq39">Discord</a> for help choosing.</p></details><details class="other-offers"><summary>Looking for prepaid Farmer keys or smaller bundles?</summary><p>Contact <a href="https://discord.gg/bmgCq39">Domestic on Discord</a> for help with prepaid Farmer keys and other bundle options.</p></details></section>
+<footer class="store-footer"><div><strong>Find your next project.</strong><p>Need help choosing? Talk to us before you buy.</p></div><a href="https://discord.gg/bmgCq39">Visit Discord ↗</a></footer>
 </div>
