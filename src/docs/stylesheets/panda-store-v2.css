@@ -4,3 +4,14 @@
 @media(min-width:1220px){body:has(.store) .md-content{max-width:1240px;margin:auto}body:has(.store) .md-grid{max-width:1280px}}
 @media(max-width:1000px){.product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.collection-copy{padding:28px}.comparison{gap:25px;padding:28px}.farmer{grid-template-columns:85px 1fr 170px;gap:20px}.farmer img{width:85px}}
 @media(max-width:650px){.store-nav>div{gap:12px}.store-nav>div a{font-size:10px}.store-support{display:none}.store-intro{padding:38px 0 28px}.collection-main{grid-template-columns:1fr}.collection-art{height:330px}.collection-art img{object-position:center 30%}.collection-copy{padding:26px}.comparison{grid-template-columns:1fr;padding:24px;gap:20px}.comparison .requirement{margin-top:15px}.bonus{padding:22px;gap:14px;flex-wrap:wrap}.bonus-tag{display:none}.bonus p{flex-basis:100%}.product-grid{gap:10px}.store-card{padding:16px}.store .store-card h3{font-size:19px}.card-bottom{align-items:start;flex-direction:column}.store-buy{margin-top:8px}.section-title{align-items:start;flex-direction:column;gap:12px}.store-section{margin:42px 0}.farmer{grid-template-columns:65px 1fr;padding:22px}.farmer img{width:65px}.farmer-checkout{grid-column:1/-1}.store-footer{gap:20px}.store .comparison th,.store .comparison td{padding:9px 4px!important;font-size:11px}}
+
+/* Material supplies blue admonition styles for details; override every surface here so
+   collapsed and expanded FAQs share the storefront palette and consistent padding. */
+.md-typeset .store-faq details{margin:12px 0;padding:0;border:1px solid #51425f;border-radius:7px;background:#282231;box-shadow:none;color:#e7e0ef}
+.md-typeset .store-faq details>summary{margin:0;padding:17px 42px 17px 18px;background:#302839;border-radius:6px;color:#f1e7f8;font-size:14px}
+.md-typeset .store-faq details>summary:before{display:none}
+.md-typeset .store-faq details>summary:after{right:16px;top:19px;color:#dec9ee;background-color:currentColor}
+.md-typeset .store-faq details>p{padding:0 18px;margin:16px 0;color:#b8b5c4}
+.md-typeset .store-faq details[open]>summary{border-bottom:1px solid #51425f;border-radius:6px 6px 0 0}
+.farmer.farmer-options{display:block}.farmer-heading{display:flex;align-items:center;gap:28px}.farmer-heading img{width:110px}.farmer-heading .store-guide{margin-top:12px}.farmer-plans{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:28px}.farmer-plans article{display:flex;flex-direction:column;padding:22px;border:1px solid #574661;border-radius:8px;background:#241e2c}.store .farmer-plans h3{font-size:19px;margin:0 0 20px}.farmer-plans p{font-size:12px;margin-bottom:22px}.farmer-plans .store-primary{margin-top:auto}.store .farmer-separate{font-size:11px;margin:18px 0 0}
+@media(max-width:650px){.farmer-heading{align-items:start;gap:16px}.farmer-heading img{width:65px}.farmer-plans{grid-template-columns:1fr}.farmer-plans article{padding:20px}.farmer-plans .store-primary{margin-top:0}}
